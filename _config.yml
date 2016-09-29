@@ -26,10 +26,10 @@ linkedin_username:   dennis-soemers
 repository: DennisSoemers/DennisSoemers.github.io
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 theme: minima
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+#redcarpet:
+#  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
   
 # Google services
 google_analytics: UA-83213872-1

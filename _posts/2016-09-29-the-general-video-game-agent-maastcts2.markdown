@@ -2,19 +2,20 @@
 layout: post
 comments: true
 title:  "The General Video Game Agent ''MaastCTS2''"
-date:   2016-09-29 11:30:00 +0100
+date:   2016-09-29 10:30:00 +0100
 categories: jekyll update
 ---
 
-#Introduction
+# Introduction
 ---
 This post provides an informal description of my *MaastCTS2* agent for General Video Game Playing. It participated in the Single-Player and Two-Player tracks of
 the [GVG-AI Competition](http://gvgai.net/) in 2016. The results can be found [here](https://groups.google.com/forum/#!topic/the-general-video-game-competition/z-43NBUfc58).
-MaastCTS2 ended up winning the Single-Player track, and was the runner-up in the Two-Player track. This post is intended to shortly describe the main techniques used by the
-agent in an informal manner. More detailed and formal descriptions of some of the techniques used can be found in a CIG paper<sup>[1](#cigpaper)</sup> and my Master
-Thesis<sup>[2](#thesis)</sup> (for which I will edit in links when they become available at a later time). It should be noted that there was still time left until
-the submission deadlines for the competitions after writing these documents, which means that development continued and some features have been added after writing them.
-I will write an update with new references if more of those details end up being published.
+MaastCTS2 ended up winning the Single-Player track, and was the runner-up in the Two-Player track. The source code of the agent can be found on
+[github](https://github.com/DennisSoemers/MaastCTS2). This post is intended to shortly describe the main techniques used by the agent in an informal manner. More detailed 
+and formal descriptions of some of the techniques used can be found in a CIG paper<sup>[1](#cigpaper)</sup> and my Master Thesis<sup>[2](#thesis)</sup> (for which I will 
+edit in links when they become available at a later time). It should be noted that there was still time left until the submission deadlines for the competitions after writing 
+these documents, which means that development continued and some features have been added after writing them. I will write an update with new references if more of those 
+details end up being published.
 
 Because I don't want this post to become too long and detailed, I will assume the reader to have a decent amount of prior knowledge on Artificial Intelligence (AI) in games, 
 and, in particular, Monte-Carlo Tree Search (MCTS). MCTS is the core algorithm used by MaastCTS2, but it is heavily modified with a large number of enhancements. I will
