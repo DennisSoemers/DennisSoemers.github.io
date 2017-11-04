@@ -16,8 +16,7 @@
 title: Home Page of Dennis Soemers
 email: d.soemers@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is my personal Github page where I may write about interesting stuff when I have time.
-  This interesting stuff will most likely be related to fun applications of Artificial Intelligence and/or games.
+  This is the personal webpage of Dennis J. N. J. Soemers.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dennissoemers.github.io" # the base hostname & protocol for your site
 twitter_username: DennisSoemers
