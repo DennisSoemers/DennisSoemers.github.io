@@ -6,7 +6,7 @@ permalink: /publications/
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
 
-**Last updated:** {{ page.last_modified_at }}.
+**Last updated:** November 2017.
 
 # Journal Articles
 

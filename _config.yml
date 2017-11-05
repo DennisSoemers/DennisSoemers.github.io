@@ -23,8 +23,6 @@ twitter_username: DennisSoemers
 github_username:  DennisSoemers
 linkedin_username:   dennis-soemers
 repository: DennisSoemers/DennisSoemers.github.io
-gems:
-  - jekyll-last-modified-at
 
 # Build settings
 markdown: kramdown
