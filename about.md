@@ -13,4 +13,4 @@ Within the field of Artificial Intelligence, my main research interests are in R
 
 For contact details and other pages about me, please see the links at the bottom of this page.
 
-Last updated: {{ page.path | file_date | date_to_string }}.
+Last updated: {{ page.last_modified_at }}.

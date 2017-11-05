@@ -6,7 +6,7 @@ permalink: /publications/
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
 
-**Last updated:** {{ page.path | file_date | date_to_string }}.
+**Last updated:** {{ page.last_modified_at }}.
 
 # Journal Articles
 
@@ -28,3 +28,6 @@ Games (CIG 2016)*, pp. 1-8. IEEE.
 
 - **Dennis J.N.J. Soemers** (2016). "Enhancements for Real-Time Monte-Carlo Tree Search in General Video Game Playing". M.Sc. thesis. Department of Data Science and Knowledge
 Engineering, Maastricht University, Maastricht, the Netherlands.
+
+- **Dennis J.N.J. Soemers** (2014). "Tactical Planning Using MCTS in the Game of StarCraft". B.Sc. thesis. Department of Data Science and Knowledge Engineering, Maastricht
+University, Maastricht, the Netherlands.
