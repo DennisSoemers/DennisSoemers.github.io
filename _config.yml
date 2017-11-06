@@ -16,13 +16,18 @@
 title: Home Page of Dennis Soemers
 email: d.soemers@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is the personal webpage of Dennis Soemers.
+  This is the personal webpage of Dennis Soemers (currently working towards a Ph.D. in Artificial Intelligence at the Vrije Universiteit Brussel).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dennissoemers.github.io" # the base hostname & protocol for your site
 twitter_username: DennisSoemers
 github_username:  DennisSoemers
 linkedin_username:   dennis-soemers
 repository: DennisSoemers/DennisSoemers.github.io
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
 
 # Build settings
 markdown: kramdown
