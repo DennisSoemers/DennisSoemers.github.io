@@ -20,4 +20,7 @@ Tree Search in General Video Game Playing”. In *2016 IEEE Conference on Comput
 also wrote a more informal [blog post]({{ site.baseurl }}{% post_url 2016-09-29-the-general-video-game-agent-maastcts2 %}) about it. Source code is available on
 [github](https://github.com/DennisSoemers/MaastCTS2).
 
+During this project, I also [contributed](https://github.com/EssexUniversityMCTS/gvgai/pull/18) to the GVGAI framework itself by
+[implementing](https://github.com/EssexUniversityMCTS/gvgai/pull/40) various [optimizations](https://github.com/EssexUniversityMCTS/gvgai/pull/42).
+
 <img src="/assets/project_gvgai/boulderdash.png" width="100%">
