@@ -10,7 +10,9 @@ and depending on the nature of the project).
 
 {% assign sorted = (site.projects | sort: 'date') | reverse %}
 {% for item in sorted %}
+  {% if item.image %}
   <a href="{{ item.url }}"><img src="{{ item.image }}" align="right" style="width:256px"></a>
+  {% endif %}
   <h2>
     <a class="post-link" href="{{ item.url }}">{{ item.title }}</a>
   </h2>
