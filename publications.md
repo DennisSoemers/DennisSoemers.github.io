@@ -11,7 +11,7 @@ This page lists all of my scientific publications. They are sorted by publicatio
 # Journal Articles
 
 - Raluca D. Gaina, Adrian Couëtoux, **Dennis J.N.J. Soemers**, Mark H.M. Winands, Tom Vodopivec, Florian Kirchgeßner, Jialin Liu, Simon M. Lucas, and Diego Pérez-Liébana 
-(2017). "The 2016 Two-Player GVGAI Competition". *IEEE Transactions on Computational Intelligence and AI in Games*. Accepted for publication.
+(2017). "[The 2016 Two-Player GVGAI Competition](http://ieeexplore.ieee.org/document/8100955/)". *IEEE Transactions on Computational Intelligence and AI in Games*. Accepted for publication.
 
 # Conference Articles
 
