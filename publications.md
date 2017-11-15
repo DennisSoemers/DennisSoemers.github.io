@@ -15,8 +15,9 @@ This page lists all of my scientific publications. They are sorted by publicatio
 
 # Conference Articles
 
-- **Dennis J.N.J. Soemers**, Tim Brys, Kurt Driessens, Mark H.M. Winands, and Ann Nowé (2018). "Adapting to Concept Drift in Credit Card Transaction Data Streams Using Contextual
-Bandits and Decision Trees". In *Thirtieth Annual Conference on Innovative Applications of Artificial Intelligence (IAAI-18)*. Accepted.
+- **Dennis J.N.J. Soemers**, Tim Brys, Kurt Driessens, Mark H.M. Winands, and Ann Nowé (2018). 
+"[Adapting to Concept Drift in Credit Card Transaction Data Streams Using Contextual Bandits and Decision Trees](/assets/publications/SoemersCreditCardIAAI.pdf)". 
+In *Thirtieth Annual Conference on Innovative Applications of Artificial Intelligence (IAAI-18)*. Accepted.
 
 - **Dennis J.N.J. Soemers**, Chiara F. Sironi, Torsten Schuster, and Mark H.M. Winands (2016). 
 "[Enhancements for Real-Time Monte-Carlo Tree Search in General Video Game Playing](/assets/publications/CIG2016_GVGAI.pdf)". 
