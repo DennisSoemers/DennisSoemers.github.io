@@ -4,6 +4,11 @@ comments: true
 title:  "The General Video Game Agent ''MaastCTS2''"
 date:   2016-09-29 10:30:00 +0100
 categories: jekyll update
+description: >
+  This post provides an informal description of my <i>MaastCTS2</i> agent for General Video Game Playing. It participated in the Single-Player and Two-Player tracks of
+  the <a href="http://gvgai.net/">GVG-AI Competition</a> in 2016. The results can be found <a href="https://groups.google.com/forum/#!topic/the-general-video-game-competition/z-43NBUfc58">here</a>.
+  MaastCTS2 ended up winning the Single-Player track, and was the runner-up in the Two-Player track. The source code of the agent can be found on
+  <a href="https://github.com/DennisSoemers/MaastCTS2">github</a>. This post is intended to shortly describe the main techniques used by the agent in an informal manner.
 excerpt: >
   This post provides an informal description of my <i>MaastCTS2</i> agent for General Video Game Playing. It participated in the Single-Player and Two-Player tracks of
   the <a href="http://gvgai.net/">GVG-AI Competition</a> in 2016. The results can be found <a href="https://groups.google.com/forum/#!topic/the-general-video-game-competition/z-43NBUfc58">here</a>.

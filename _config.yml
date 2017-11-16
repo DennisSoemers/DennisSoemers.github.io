@@ -23,11 +23,26 @@ twitter_username: DennisSoemers
 github_username:  DennisSoemers
 linkedin_username:   dennis-soemers
 repository: DennisSoemers/DennisSoemers.github.io
+author: DennisSoemers
+twitter:
+  username: DennisSoemers
+# TODO can add a logo if I ever have a logo :D
+#logo: /assets/my-logo.png
+social:
+  name: Dennis Soemers
+  links:
+    - https://twitter.com/DennisSoemers
+    - https://github.com/DennisSoemers/
+    - https://www.linkedin.com/in/dennis-soemers/
 
 collections:
   projects:
     output: true
     permalink: /projects/:path/
+    
+plugins: 
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Build settings
 markdown: kramdown
