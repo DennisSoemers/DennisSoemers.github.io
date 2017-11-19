@@ -5,7 +5,7 @@ permalink: /projects/index.html
 description: A list of projects I have worked on / am working on.
 ---
 
-This page lists a variety of projects that I have worked on. It is not an exhaustive list (some projects are not interesting enough to talk about, or not yet ready to
+This page lists a variety of projects that I have worked on. It is not an exhaustive list (some projects are less interesting to talk about, or not yet ready to
 be talked about). Most of them have source code available and/or publications (papers, theses or other kinds of reports) available, but not all.
 
 {% assign sorted = site.projects | sort: 'date' | reverse %}
