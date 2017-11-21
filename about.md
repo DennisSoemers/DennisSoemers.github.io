@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-description: About Dennis Soemers.
+description: About Dennis Soemers (researcher in Artificial Intelligence).
 ---
 
 I am currently a PhD student at the [Artificial Intelligence Lab](https://ai.vub.ac.be/) of the Vrije Universiteit Brussel. Before that, I got a B.Sc. in 

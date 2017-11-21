@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/index.html
-description: A list of projects I have worked on / am working on.
+description: A (non-exhaustive) list of projects Dennis Soemers has worked on / is working on.
 ---
 
 This page lists a variety of projects that I have worked on. It is not an exhaustive list (some projects are less interesting to talk about, or not yet ready to
