@@ -23,4 +23,4 @@ also wrote a more informal [blog post]({{ site.baseurl }}{% post_url 2016-09-29-
 During this project, I also [contributed](https://github.com/EssexUniversityMCTS/gvgai/pull/18) to the GVGAI framework itself by
 [implementing](https://github.com/EssexUniversityMCTS/gvgai/pull/40) various [optimizations](https://github.com/EssexUniversityMCTS/gvgai/pull/42).
 
-<img src="/assets/project_gvgai/boulderdash.png" width="100%">
+<img src="/assets/project_gvgai/boulderdash.png" width="100%" alt="Boulderdash game in GVG-AI">

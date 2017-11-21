@@ -20,4 +20,4 @@ A more detailed description of the agent can be found in the
 [report](https://github.com/DennisSoemers/SerPrunesALot/blob/master/Report/ISG%20KnightThrough%20Report%20Dennis%20Soemers.pdf) that was written for the course, and the C++ source
 code is also available on [github](https://github.com/DennisSoemers/SerPrunesALot).
 
-<img src="/assets/project_serprunesalot/KnightThroughInitialPosition.png">
+<img src="/assets/project_serprunesalot/KnightThroughInitialPosition.png" alt="Knightthrough game board in its initial state">
