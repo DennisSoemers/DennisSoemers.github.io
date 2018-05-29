@@ -7,7 +7,7 @@ description: A list of Dennis Soemers' scientific publications.
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
 
-**Last updated:** November 2017.
+**Last updated:** May 2018.
 
 # Journal Articles
 
@@ -18,7 +18,7 @@ This page lists all of my scientific publications. They are sorted by publicatio
 
 - **Dennis J.N.J. Soemers**, Tim Brys, Kurt Driessens, Mark H.M. Winands, and Ann Nowé (2018). 
 "[Adapting to Concept Drift in Credit Card Transaction Data Streams Using Contextual Bandits and Decision Trees](/assets/publications/SoemersCreditCardIAAI.pdf)". 
-In *Thirtieth Annual Conference on Innovative Applications of Artificial Intelligence (IAAI-18)*. Accepted.
+In *Thirtieth Annual Conference on Innovative Applications of Artificial Intelligence (IAAI-18)*, pp. 7831-7836. AAAI Press.
 
 - **Dennis J.N.J. Soemers**, Chiara F. Sironi, Torsten Schuster, and Mark H.M. Winands (2016). 
 "[Enhancements for Real-Time Monte-Carlo Tree Search in General Video Game Playing](/assets/publications/CIG2016_GVGAI.pdf)". 
