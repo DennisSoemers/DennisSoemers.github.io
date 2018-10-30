@@ -11,7 +11,7 @@ be talked about). Most of them have source code available and/or publications (p
 {% assign sorted = site.projects | sort: 'date' | reverse %}
 {% for item in sorted %}
   {% if item.image %}
-  <a href="{{ item.url }}"><img src="{{ item.image }}" align="right" style="width:256px"></a>
+  <a href="{{ item.url }}"><img src="{{ item.image }}" align="right" style="max-width:256px;width: expression(this.width > 256 ? 256: true);"></a>
   {% endif %}
   <h2>
     <a class="post-link" href="{{ item.url }}">{{ item.title }}</a>
