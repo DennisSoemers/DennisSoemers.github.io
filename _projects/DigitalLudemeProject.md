@@ -22,3 +22,8 @@ traditional games using modern AI techniques, to chart their historical developm
 of mathematical ideas."*
 
 My personal focus is on AI techniques, including search and learning algorithms, within the context of the project.
+
+Project outputs:
+
+- Cameron Browne, **Dennis J.N.J. Soemers**, and Eric Piette (2019). "Strategic Features for General Games".
+In *AAAI Workshop on Knowledge Extraction from Games (KEG 2019)*. [[pdf]](/assets/publications/AAAI_KEG2019_Features.pdf)
