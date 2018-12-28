@@ -44,3 +44,9 @@ Department of Data Science and Knowledge Engineering, Maastricht University, Maa
 - **Dennis J.N.J. Soemers** (2014). "Tactical Planning Using MCTS in the Game of StarCraft". B.Sc. thesis. 
 Department of Data Science and Knowledge Engineering, Maastricht University, Maastricht, the Netherlands.
 [[pdf]](/assets/publications/Soemers_BSc-paper.pdf)
+
+# Other
+
+- **Dennis J.N.J. Soemers**, Chiara F. Sironi, Torsten Schuster, and Mark H.M. Winands (2016). 
+"[Enhancements for Real-Time Monte-Carlo Tree Search in General Video Game Playing](http://bnaic2016.cs.vu.nl/index.php/proceedings)". 
+In *Proceedings of the Twenty-Eighth Benelux Conference on Artificial Intelligence*, pp. 184-185. (Extended Abstract)
