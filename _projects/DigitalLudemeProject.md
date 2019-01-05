@@ -13,6 +13,7 @@ description: >
 image: /assets/project_digitalludeme/DigitalLudemeProjectLogo_small.png
 ---
 
+<a href="http://www.ludeme.eu/"><img src="/assets/project_digitalludeme/DigitalLudemeProjectLogo_small.png" title="The Digital Ludeme Project" align="right" style="max-height:128px"></a>
 The [Digital Ludeme Project](http://www.ludeme.eu/) is an [ERC](https://erc.europa.eu/)-funded project that I am working on 
 as PhD student under the supervision of [Dr. Cameron Browne](http://cambolbro.com/) at Maastricht University's 
 [Department of Data Science and Knowledge Engineering](https://www.maastrichtuniversity.nl/about-um/faculties/science-and-engineering/fse-departments/department-data-science-and-knowledge).
@@ -23,7 +24,13 @@ of mathematical ideas."*
 
 My personal focus is on AI techniques, including search and learning algorithms, within the context of the project.
 
-Project outputs:
+Project outputs (involving me as author):
 
 - Cameron Browne, **Dennis J.N.J. Soemers**, and Eric Piette (2019). "Strategic Features for General Games".
 In *AAAI Workshop on Knowledge Extraction from Games (KEG 2019)*. [[pdf]](/assets/publications/AAAI_KEG2019_Features.pdf)
+
+---
+
+<br>
+*Project funded by European Research Council (ERC):*<br>
+<a href="https://erc.europa.eu/"><img src="/assets/project_digitalludeme/LOGO_ERC-FLAG_EU_.jpg" title="European Research Council" align="center" style="max-height:256px"></a>
