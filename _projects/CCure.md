@@ -20,3 +20,9 @@ developed by Luisa Zintgraf).
 "[Adapting to Concept Drift in Credit Card Transaction Data Streams Using Contextual Bandits and Decision Trees](/assets/publications/SoemersCreditCardIAAI.pdf)". 
 In *Thirtieth Annual Conference on Innovative Applications of Artificial Intelligence (IAAI-18)*, pp. 7831-7836. AAAI Press.
 - *More to appear...*
+
+---
+
+<br>
+*Project funded by Innoviris, the Brussels Institute for Research and Innovation:*<br>
+<a href="http://www.innoviris.be/en"><img src="/assets/project_ccure/Innoviris_Logo.jpeg" title="Innoviris, the Brussels Institute for Research and Innovation" align="center" style="max-height:256px"></a>
