@@ -33,7 +33,7 @@ In *2016 IEEE Conference on Computational Intelligence and Games (CIG 2016)*, pp
 # Workshop Articles
 
 - Cameron Browne, **Dennis J.N.J. Soemers**, and Eric Piette (2019). "[Strategic Features for General Games](http://ceur-ws.org/Vol-2313/)".
-In *Proceedings of the 2nd Workshop on Knowledge Extraction from Games (KEG)*, pp 70--75. [[pdf]](ceur-ws.org/Vol-2313/KEG_2019_paper_8.pdf) 
+In *Proceedings of the 2nd Workshop on Knowledge Extraction from Games (KEG)*, pp. 70--75. [[pdf]](ceur-ws.org/Vol-2313/KEG_2019_paper_8.pdf) 
 [[pdf mirror]](/assets/publications/AAAI_KEG2019_Features.pdf)
 
 # Theses
