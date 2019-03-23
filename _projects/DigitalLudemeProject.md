@@ -26,8 +26,12 @@ My personal focus is on AI techniques, including search and learning algorithms,
 
 Project outputs (involving me as author):
 
-- Cameron Browne, **Dennis J.N.J. Soemers**, and Eric Piette (2019). "Strategic Features for General Games".
-In *AAAI Workshop on Knowledge Extraction from Games (KEG 2019)*. [[pdf]](/assets/publications/AAAI_KEG2019_Features.pdf)
+- **Dennis J.N.J. Soemers**, Éric Piette, and Cameron Browne (2019). "Biasing MCTS with Features for General Games".
+In *2019 IEEE Congress on Evolutionary Computation (CEC 2019)*, Accepted. [[pdf (preprint)]](https://arxiv.org/pdf/1903.08942)
+
+- Cameron Browne, **Dennis J.N.J. Soemers**, and Eric Piette (2019). "[Strategic Features for General Games](http://ceur-ws.org/Vol-2313/)".
+In *Proceedings of the 2nd Workshop on Knowledge Extraction from Games (KEG)*, pp. 70--75. [[pdf]](http://ceur-ws.org/Vol-2313/KEG_2019_paper_8.pdf) 
+[[pdf mirror]](/assets/publications/AAAI_KEG2019_Features.pdf)
 
 ---
 

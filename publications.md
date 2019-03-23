@@ -7,7 +7,7 @@ description: A list of Dennis Soemers' scientific publications.
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
 
-**Last updated:** January 2019.
+**Last updated:** March 2019.
 
 # Journal Articles
 
@@ -16,6 +16,9 @@ This page lists all of my scientific publications. They are sorted by publicatio
 vol. 10, no. 2, pp. 209-220. IEEE. [[pdf]](https://dke.maastrichtuniversity.nl/m.winands/documents/TCIAIG_2pGVGAI.pdf)
 
 # Conference Articles
+
+- **Dennis J.N.J. Soemers**, Éric Piette, and Cameron Browne (2019). "Biasing MCTS with Features for General Games".
+In *2019 IEEE Congress on Evolutionary Computation (CEC 2019)*, Accepted. [[pdf (preprint)]](https://arxiv.org/pdf/1903.08942)
 
 - **Dennis J.N.J. Soemers**, Tim Brys, Kurt Driessens, Mark H.M. Winands, and Ann Nowé (2018). 
 "[Adapting to Concept Drift in Credit Card Transaction Data Streams Using Contextual Bandits and Decision Trees](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16183)". 
