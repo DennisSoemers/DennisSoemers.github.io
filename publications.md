@@ -7,7 +7,7 @@ description: A list of Dennis Soemers' scientific publications.
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
 
-**Last updated:** March 2019.
+**Last updated:** May 2019.
 
 # Journal Articles
 
