@@ -26,6 +26,14 @@ My personal focus is on AI techniques, including search and learning algorithms,
 
 Project outputs (involving me as author):
 
+- **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson, and Cameron Browne (2019). 
+"Learning Policies from Self-Play with Policy Gradients and MCTS Value Estimates". In
+*2019 IEEE Conference on Games (COG 2019)*, Accepted. [[pdf (preprint)]](https://arxiv.org/pdf/1905.05809)
+
+- Éric Piette, **Dennis J.N.J. Soemers**, Matthew Stephenson, Chiara F. Sironi, Mark H.M. Winands, and Cameron Browne (2019).
+"[Ludii - The Ludemic General Game System](https://arxiv.org/abs/1905.05013)". [Online]. Available: 
+[https://arxiv.org/abs/1905.05013](https://arxiv.org/abs/1905.05013). [[pdf]](https://arxiv.org/pdf/1905.05013)
+
 - **Dennis J.N.J. Soemers**, Éric Piette, and Cameron Browne (2019). "Biasing MCTS with Features for General Games".
 In *2019 IEEE Congress on Evolutionary Computation (CEC 2019)*, Accepted. [[pdf (preprint)]](https://arxiv.org/pdf/1903.08942)
 
