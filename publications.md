@@ -7,7 +7,7 @@ description: A list of Dennis Soemers' scientific publications.
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
 
-**Last updated:** May 2019.
+**Last updated:** June 2019.
 
 # Journal Articles
 
@@ -48,6 +48,14 @@ In *Proceedings of the 2nd Workshop on Knowledge Extraction from Games (KEG)*, p
 - Éric Piette, **Dennis J.N.J. Soemers**, Matthew Stephenson, Chiara F. Sironi, Mark H.M. Winands, and Cameron Browne (2019).
 "[Ludii - The Ludemic General Game System](https://arxiv.org/abs/1905.05013)". [Online]. Available: 
 [https://arxiv.org/abs/1905.05013](https://arxiv.org/abs/1905.05013). [[pdf]](https://arxiv.org/pdf/1905.05013)
+
+# Reports
+
+- Cameron Browne, **Dennis J. N. J. Soemers**, Éric Piette, Matthew Stephenson, Michael Conrad, Walter Crist, Thierry Depaulis, 
+Eddie Duggan, Fred Horn, Steven Kelk, Simon M. Lucas, João Pedro Neto, David Parlett, Abdallah Saffidine, Ulrich Schädler, 
+Jorge Nuno Silva, Alex de Voogt, and Mark H. M. Winands (2019).
+"[Foundations of Digital Archæoludology](https://arxiv.org/abs/1905.13516)". [Online]. Available:
+[https://arxiv.org/abs/1905.13516](https://arxiv.org/abs/1905.13516). [[pdf]](https://arxiv.org/pdf/1905.13516)
 
 # Theses
 

@@ -26,6 +26,12 @@ My personal focus is on AI techniques, including search and learning algorithms,
 
 Project outputs (involving me as author):
 
+- Cameron Browne, **Dennis J. N. J. Soemers**, Éric Piette, Matthew Stephenson, Michael Conrad, Walter Crist, Thierry Depaulis, 
+Eddie Duggan, Fred Horn, Steven Kelk, Simon M. Lucas, João Pedro Neto, David Parlett, Abdallah Saffidine, Ulrich Schädler, 
+Jorge Nuno Silva, Alex de Voogt, and Mark H. M. Winands (2019).
+"[Foundations of Digital Archæoludology](https://arxiv.org/abs/1905.13516)". [Online]. Available:
+[https://arxiv.org/abs/1905.13516](https://arxiv.org/abs/1905.13516). [[pdf]](https://arxiv.org/pdf/1905.13516)
+
 - **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson, and Cameron Browne (2019). 
 "Learning Policies from Self-Play with Policy Gradients and MCTS Value Estimates". In
 *2019 IEEE Conference on Games (COG 2019)*, Accepted. [[pdf (preprint)]](https://arxiv.org/pdf/1905.05809)
