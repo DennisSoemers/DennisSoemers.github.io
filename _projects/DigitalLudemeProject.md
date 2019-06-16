@@ -41,7 +41,7 @@ Jorge Nuno Silva, Alex de Voogt, and Mark H. M. Winands (2019).
 [https://arxiv.org/abs/1905.05013](https://arxiv.org/abs/1905.05013). [[pdf]](https://arxiv.org/pdf/1905.05013)
 
 - **Dennis J.N.J. Soemers**, Éric Piette, and Cameron Browne (2019). "Biasing MCTS with Features for General Games".
-In *2019 IEEE Congress on Evolutionary Computation (CEC 2019)*, Accepted. [[pdf (preprint)]](https://arxiv.org/pdf/1903.08942)
+In *2019 IEEE Congress on Evolutionary Computation (CEC 2019)*, pp. 442--449. [[pdf (preprint)]](https://arxiv.org/pdf/1903.08942)
 
 - Cameron Browne, **Dennis J.N.J. Soemers**, and Eric Piette (2019). "[Strategic Features for General Games](http://ceur-ws.org/Vol-2313/)".
 In *Proceedings of the 2nd Workshop on Knowledge Extraction from Games (KEG)*, pp. 70--75. [[pdf]](http://ceur-ws.org/Vol-2313/KEG_2019_paper_8.pdf) 

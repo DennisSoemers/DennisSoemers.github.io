@@ -22,7 +22,7 @@ vol. 10, no. 2, pp. 209-220. IEEE. [[pdf]](https://dke.maastrichtuniversity.nl/m
 *2019 IEEE Conference on Games (COG 2019)*, Accepted. [[pdf (preprint)]](https://arxiv.org/pdf/1905.05809)
 
 - **Dennis J.N.J. Soemers**, Éric Piette, and Cameron Browne (2019). "Biasing MCTS with Features for General Games".
-In *2019 IEEE Congress on Evolutionary Computation (CEC 2019)*, Accepted. [[pdf (preprint)]](https://arxiv.org/pdf/1903.08942)
+In *2019 IEEE Congress on Evolutionary Computation (CEC 2019)*, pp. 442--449. [[pdf (preprint)]](https://arxiv.org/pdf/1903.08942)
 
 - **Dennis J.N.J. Soemers**, Tim Brys, Kurt Driessens, Mark H.M. Winands, and Ann Nowé (2018). 
 "[Adapting to Concept Drift in Credit Card Transaction Data Streams Using Contextual Bandits and Decision Trees](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16183)". 
