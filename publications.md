@@ -17,6 +17,18 @@ vol. 10, no. 2, pp. 209-220. IEEE. [[pdf]](https://dke.maastrichtuniversity.nl/m
 
 # Conference Articles
 
+- Matthew Stephenson, Éric Piette, **Dennis J.N.J. Soemers**, and Cameron Browne (2019).
+"Ludii as a Competition Platform". In *2019 IEEE Conference on Games (COG 2019)*, Accepted.
+
+- Matthew Stephenson, Éric Piette, **Dennis J.N.J. Soemers**, and Cameron Browne (2019).
+"An Overview of the Ludii General Game System". In *2019 IEEE Conference on Games (COG 2019)*, Accepted.
+
+- Éric Piette, Matthew Stephenson, **Dennis J.N.J. Soemers**, and Cameron Browne (2019).
+"An Empirical Evaluation of Two General Game Systems: Ludii and RBG". In *2019 IEEE Conference on Games (COG 2019)*, Accepted.
+
+- Cédric Piette, Éric Piette, Matthew Stephenson, **Dennis J.N.J. Soemers**, and Cameron Browne (2019).
+"Ludii and XCSP: Playing and Solving Logic Puzzles". In *2019 IEEE Conference on Games (COG 2019)*, Accepted.
+
 - **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson, and Cameron Browne (2019). 
 "Learning Policies from Self-Play with Policy Gradients and MCTS Value Estimates". In
 *2019 IEEE Conference on Games (COG 2019)*, Accepted. [[pdf (preprint)]](https://arxiv.org/pdf/1905.05809)
@@ -42,6 +54,13 @@ In *2016 IEEE Conference on Computational Intelligence and Games (CIG 2016)*, pp
 - Cameron Browne, **Dennis J.N.J. Soemers**, and Eric Piette (2019). "[Strategic Features for General Games](http://ceur-ws.org/Vol-2313/)".
 In *Proceedings of the 2nd Workshop on Knowledge Extraction from Games (KEG)*, pp. 70--75. [[pdf]](http://ceur-ws.org/Vol-2313/KEG_2019_paper_8.pdf) 
 [[pdf mirror]](/assets/publications/AAAI_KEG2019_Features.pdf)
+
+# National Conference Articles
+
+- Éric Piette, **Dennis J.N.J. Soemers**, Matthew Stephenson, Chiara F. Sironi, Mark H.M. Winands, and Cameron Browne (2019).
+"[Ludii - Le Système Ludémique de General Game Playing](https://www.researchgate.net/publication/333716838_LUDII_-_Le_Systeme_Ludemique_de_General_Game_Playing)". 
+In *Conférence Nationale en Intelligence Artificielle*. (In French) 
+[[pdf]](https://www.researchgate.net/profile/Eric_Piette/publication/333716838_LUDII_-_Le_Systeme_Ludemique_de_General_Game_Playing/links/5d00626fa6fdccd13093f700/LUDII-Le-Systeme-Ludemique-de-General-Game-Playing.pdf?_sg%5B0%5D=6I-dcxZ40MieQBjWkSNUOeneRSmzp8j533ZEhKBn-F2uExw9iJXQY34vB8l4BB3-vvPcxHS9WWdHXk6uUOWwEw.Jau2YwPYFvNjkvN7MuoFvqirR9DQe6ubRDYAqDm4BOW6lAfEoUgRZcSPLQuF45dwosFuqAXnKRj5S5ajnJZG2Q&_sg%5B1%5D=HxCBph2nNhmvNztGYlLGYD7ISpn0855GRNap-Fse1T0v4IP-aJsQ82-J5SogvS3i8EK_XGWWfNadi97N40qrSBb23L_0C8qX3b_UCsoCxMWu.Jau2YwPYFvNjkvN7MuoFvqirR9DQe6ubRDYAqDm4BOW6lAfEoUgRZcSPLQuF45dwosFuqAXnKRj5S5ajnJZG2Q&_iepl=)
 
 # Preprints
 
