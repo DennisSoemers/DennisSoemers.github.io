@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Honors and Awards
+title: Awards
 permalink: /awards/
-description: Honors and Awards received by Dennis Soemers.
+description: Awards received by Dennis Soemers.
 ---
 
 - **February 2017** - Best Master's thesis award from the Faculty of Humanities and Sciences of Maastricht University.
