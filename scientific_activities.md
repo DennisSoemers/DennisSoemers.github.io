@@ -31,3 +31,11 @@ I have reviewed papers for the following workshops:
 
 - UK Workshop on Computational Intelligence (**UKCI**)
 - Workshop on Computer Games (**CGW**)
+
+# Media Appearances
+
+- **June 2019**: MIT Technology Review wrote 
+[an article](https://www.technologyreview.com/s/613780/machine-learning-is-about-to-revolutionize-the-study-of-ancient-games/?utm_medium=tr_social&utm_source=twitter&utm_campaign=site_visitor.unpaid.engagement) 
+on our [Digital Ludeme Project](/projects/DigitalLudemeProject/).
+- **2016**: An article about me winning the [GVGAI Single Player Championship 2016](http://gvgai.net/championship.php?t=2016&t=sp), 
+and Best Student Paper Award at IEEE CIG 2016, appeared in the regional newspaper **De Limburger**.
