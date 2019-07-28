@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Awards"
+    url: /awards/
+  - title: "Projects"
+    url: /projects/
+  - title: "Publications"
+    url: /publications/
+  - title: "Scientific Activities"
+    url: /scientific_activities/
+  - title: "Posts by Year"
+    url: /year-archive/
+  - title: "Posts by Category"
+    url: /categories/

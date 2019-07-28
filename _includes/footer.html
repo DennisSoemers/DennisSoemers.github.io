@@ -1,61 +1,19 @@
-<footer class="site-footer">
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.data.ui-text[site.locale].follow_label %}
+      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    {% endif %}
 
-  <div class="wrapper">
+    {% if site.footer.links %}
+      {% for link in site.footer.links %}
+        {% if link.label and link.url %}
+          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
 
-    <h2 class="footer-heading">{{ escape }}</h2>
+    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+  </ul>
+</div>
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li><a href="mailto:{{ site.email }}">Contact me by Email</a></li>
-		  {% if site.linkedin_username %}
-		  <li>
-			<a href="https://linkedin.com/in/{{ site.linkedin_username }}">
-				<i class="fa fa-linkedin"></i> LinkedIn
-			</a>
-		  </li>
-		  {% endif %}
-		
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-		  
-		  <li>
-			<a href="https://scholar.google.com/citations?user=DennisSoemers">
-				<i class="ai ai-google-scholar"></i> Google Scholar
-			</a>
-		  </li>
-		  
-		  <li>
-			<a href="https://www.researchgate.net/profile/Dennis_Soemers">
-				<i class="ai ai-researchgate"></i> ResearchGate
-			</a>
-		  </li>
-        </ul>
-      </div>
-	  
-	  <div class="footer-col footer-col-2">	  
-		<a href="https://stackexchange.com/users/9042085/dennis-soemers">
-			My StackExchange profile:
-			<img src="https://stackexchange.com/users/flair/9042085.png" width="208" height="58" 
-				alt="profile for Dennis Soemers on Stack Exchange, a network of free, community-driven Q&amp;A sites" 
-				title="profile for Dennis Soemers on Stack Exchange, a network of free, community-driven Q&amp;A sites" />
-		</a>
-      </div>
-
-      <div class="footer-col footer-col-3">	  
-        <p>{{ site.description | escape }}</p>
-      </div>
-    </div>
-
-  </div>
-
-</footer>
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>

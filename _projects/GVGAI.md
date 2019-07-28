@@ -1,13 +1,12 @@
 ---
-layout: page
 title: The MaastCTS2 General Video Game AI Agent
-date: 2016-07-01 00:00:00 +0100
-description: >
+excerpt: >
   For my Master's thesis, I implemented an MCTS-based General Video Game AI agent named MaastCTS2. The basic idea of General Video Game AI is to implement an agent
   that has to be able to play any kind of video game (think of simple 2D games like Space Invaders or PacMan), without knowing in advance which games it is going to play.
   In addition to my Master's thesis, this project also resulted in a published paper at the CIG 2016 conference (Best Student Paper Award), winning the GVGAI Single-Player
   Championship of 2016, and placing second in the GVGAI Two-Player Championship of 2016.
 image: /assets/project_gvgai/boulderdash.png
+start_date: 2016-07-01 00:00:00 +0100
 ---
 
 The goal of [General Video Game AI (GVGAI)](http://gvgai.net/) is to implement agents that can play any real-time video game they are asked to play, without knowing

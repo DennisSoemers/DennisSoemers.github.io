@@ -1,11 +1,10 @@
 ---
-layout: page
 title: Ser Prunes-A-Lot
-date: 2015-05-14 00:00:00 +0100
-description: >
+excerpt: >
   An alpha-beta-based engine to play the board game "Knightthrough". Developed as project for a course during my first year in the Master AI program at Maastricht University.
   Source code (C++) and report available.
 image: /assets/project_serprunesalot/KnightThroughInitialPosition.png
+start_date: 2015-05-14 00:00:00 +0100
 ---
 
 The game "Knightthrough" is a simple board game, played on a regular chess board, only with pieces that can move in the same way as a Knight can in chess. The player who

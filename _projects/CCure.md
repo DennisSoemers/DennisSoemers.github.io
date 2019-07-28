@@ -1,8 +1,7 @@
 ---
-layout: page
 title: C-Cure
-date: 2016-10-01 00:00:00 +0100
-description: >
+start_date: 2016-10-01 00:00:00 +0100
+excerpt: >
   [C-Cure](http://www.securit-brussels.be/project/c-cure/): Cost-Sensitive Dynamic User Authentication With Reinforcement Learning is a research project funded by INNOVIRIS. I worked on
   this project from October 2016 till October 2018, affiliated with the [VUB AI Lab](https://ai.vub.ac.be/).
   

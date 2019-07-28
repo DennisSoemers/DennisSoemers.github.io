@@ -1,12 +1,11 @@
 ---
-layout: page
 title: HTN Plan Reuse in UE4
-date: 2016-03-31 00:00:00 +0100
-description: >
+excerpt: >
   An HTN Planner for the Unreal Engine 4 game engine, with a novel approach that re-uses previously generated plans to speed up re-planning. This was developed during
   a Research Internship in the second year of the Master AI at Maastricht University. A paper about this research was published at the CIG 2016 conference. Source code
   and a detailed report are available.
 image: /assets/project_htnplanreuse/HTNExecutionArchitecture.png
+start_date: 2016-03-31 00:00:00 +0100
 ---
 
 For a Research Internship in the first half of the second year of the Master AI program, I implemented a Hierarchical Task Network (HTN) Planner for the Unreal Engine 4 (UE4)
