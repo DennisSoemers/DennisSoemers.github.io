@@ -1,7 +1,7 @@
 ---
 title: Publications
 permalink: /publications/
-description: A list of Dennis Soemers' scientific publications.
+description: Dennis Soemers' scientific publications.
 last_modified_at: 2019-06-27 14:00:00 +0100
 ---
 
