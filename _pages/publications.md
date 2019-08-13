@@ -16,22 +16,28 @@ vol. 10, no. 2, pp. 209-220. IEEE. [[pdf]](https://dke.maastrichtuniversity.nl/m
 # Conference Articles
 
 - Matthew Stephenson, Éric Piette, **Dennis J.N.J. Soemers**, and Cameron Browne (2019).
-"Ludii as a Competition Platform". In *2019 IEEE Conference on Games (COG 2019)*, Accepted.
+"Ludii as a Competition Platform". In *2019 IEEE Conference on Games (COG 2019)*, Accepted. 
+[[pdf]](http://www.ieee-cog.org/papers/paper_191.pdf)
 
 - Matthew Stephenson, Éric Piette, **Dennis J.N.J. Soemers**, and Cameron Browne (2019).
 "An Overview of the Ludii General Game System". In *2019 IEEE Conference on Games (COG 2019)*, Accepted.
+[[pdf]](http://www.ieee-cog.org/papers/paper_189.pdf)
 
 - Éric Piette, Matthew Stephenson, **Dennis J.N.J. Soemers**, and Cameron Browne (2019).
 "An Empirical Evaluation of Two General Game Systems: Ludii and RBG". In *2019 IEEE Conference on Games (COG 2019)*, Accepted.
+[[pdf]](http://www.ieee-cog.org/papers/paper_188.pdf)
 
 - Cédric Piette, Éric Piette, Matthew Stephenson, **Dennis J.N.J. Soemers**, and Cameron Browne (2019).
 "Ludii and XCSP: Playing and Solving Logic Puzzles". In *2019 IEEE Conference on Games (COG 2019)*, Accepted.
+[[pdf]](http://www.ieee-cog.org/papers/paper_190.pdf)
 
 - **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson, and Cameron Browne (2019). 
 "Learning Policies from Self-Play with Policy Gradients and MCTS Value Estimates". In
-*2019 IEEE Conference on Games (COG 2019)*, Accepted. [[pdf (preprint)]](https://arxiv.org/pdf/1905.05809)
+*2019 IEEE Conference on Games (COG 2019)*, Accepted. 
+[[pdf]](http://www.ieee-cog.org/papers/paper_91.pdf) [[pdf (preprint)]](https://arxiv.org/pdf/1905.05809)
 
-- **Dennis J.N.J. Soemers**, Éric Piette, and Cameron Browne (2019). "Biasing MCTS with Features for General Games".
+- **Dennis J.N.J. Soemers**, Éric Piette, and Cameron Browne (2019). 
+"[Biasing MCTS with Features for General Games](https://ieeexplore.ieee.org/document/8790141)".
 In *2019 IEEE Congress on Evolutionary Computation (CEC 2019)*, pp. 442--449. [[pdf (preprint)]](https://arxiv.org/pdf/1903.08942)
 
 - **Dennis J.N.J. Soemers**, Tim Brys, Kurt Driessens, Mark H.M. Winands, and Ann Nowé (2018). 
@@ -85,6 +91,9 @@ Department of Data Science and Knowledge Engineering, Maastricht University, Maa
 [[pdf]](/assets/publications/Soemers_BSc-paper.pdf)
 
 # Other
+
+- **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson and Cameron Browne (August 12, 2019). 
+"[Ludii User Guide](https://www.ludii.games/LudiiUserGuide-0.2.0.pdf)". Pre-release version.
 
 - **Dennis J.N.J. Soemers**, Chiara F. Sironi, Torsten Schuster, and Mark H.M. Winands (2016). 
 "[Enhancements for Real-Time Monte-Carlo Tree Search in General Video Game Playing](http://bnaic2016.cs.vu.nl/index.php/proceedings)". 
