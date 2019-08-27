@@ -55,7 +55,7 @@ Jorge Nuno Silva, Alex de Voogt, and Mark H. M. Winands (2019).
 
 - **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson, and Cameron Browne (2019). 
 "Learning Policies from Self-Play with Policy Gradients and MCTS Value Estimates". In
-*2019 IEEE Conference on Games (COG 2019)*, Accepted. 
+*2019 IEEE Conference on Games (COG 2019)*, Accepted. **Runner-up Best Paper Award**.
 [[pdf]](http://www.ieee-cog.org/papers/paper_91.pdf) [[pdf (preprint)]](https://arxiv.org/pdf/1905.05809)
 
 - Éric Piette, **Dennis J.N.J. Soemers**, Matthew Stephenson, Chiara F. Sironi, Mark H.M. Winands, and Cameron Browne (2019).
