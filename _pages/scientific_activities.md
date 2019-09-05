@@ -34,6 +34,9 @@ I have reviewed papers for the following workshops:
 
 # Media Appearances
 
+- **August 2019**: Vice wrote 
+[an article](https://www.vice.com/en_us/article/kz483y/scientists-are-discovering-long-lost-rules-for-ancient-board-games)
+on our [Digital Ludeme Project](/projects/DigitalLudemeProject/).
 - **June 2019**: MIT Technology Review wrote 
 [an article](https://www.technologyreview.com/s/613780/machine-learning-is-about-to-revolutionize-the-study-of-ancient-games/?utm_medium=tr_social&utm_source=twitter&utm_campaign=site_visitor.unpaid.engagement) 
 on our [Digital Ludeme Project](/projects/DigitalLudemeProject/).
