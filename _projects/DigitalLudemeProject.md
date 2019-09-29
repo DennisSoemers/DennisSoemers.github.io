@@ -26,25 +26,27 @@ My personal focus is on AI techniques, including search and learning algorithms,
 
 Project outputs (involving me as author):
 
-- Ludii v0.2.0 ([download here](https://www.ludii.games/))
+- Ludii v0.3.0 ([download here](https://www.ludii.games/))
 
 - **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson and Cameron Browne (August 12, 2019). 
 "[Ludii User Guide](https://www.ludii.games/LudiiUserGuide-0.2.0.pdf)". Pre-release version.
 
 - Matthew Stephenson, Éric Piette, **Dennis J.N.J. Soemers**, and Cameron Browne (2019).
-"Ludii as a Competition Platform". In *2019 IEEE Conference on Games (COG 2019)*, Accepted. 
+"[Ludii as a Competition Platform](https://ieeexplore.ieee.org/document/8848084)". In *2019 IEEE Conference on Games (COG 2019)*, pp. 634--641. 
 [[pdf]](http://www.ieee-cog.org/papers/paper_191.pdf)
 
 - Matthew Stephenson, Éric Piette, **Dennis J.N.J. Soemers**, and Cameron Browne (2019).
-"An Overview of the Ludii General Game System". In *2019 IEEE Conference on Games (COG 2019)*, Accepted.
+"[An Overview of the Ludii General Game System](https://ieeexplore.ieee.org/document/8847949)". In *2019 IEEE Conference on Games (COG 2019)*, pp. 864--865.
 [[pdf]](http://www.ieee-cog.org/papers/paper_189.pdf)
 
 - Éric Piette, Matthew Stephenson, **Dennis J.N.J. Soemers**, and Cameron Browne (2019).
-"An Empirical Evaluation of Two General Game Systems: Ludii and RBG". In *2019 IEEE Conference on Games (COG 2019)*, Accepted.
+"[An Empirical Evaluation of Two General Game Systems: Ludii and RBG](https://ieeexplore.ieee.org/document/8847994)". 
+In *2019 IEEE Conference on Games (COG 2019)*, pp. 626--629.
 [[pdf]](http://www.ieee-cog.org/papers/paper_188.pdf)
 
 - Cédric Piette, Éric Piette, Matthew Stephenson, **Dennis J.N.J. Soemers**, and Cameron Browne (2019).
-"Ludii and XCSP: Playing and Solving Logic Puzzles". In *2019 IEEE Conference on Games (COG 2019)*, Accepted.
+"[Ludii and XCSP: Playing and Solving Logic Puzzles](https://ieeexplore.ieee.org/document/8848086)". 
+In *2019 IEEE Conference on Games (COG 2019)*, pp. 630--633.
 [[pdf]](http://www.ieee-cog.org/papers/paper_190.pdf)
 
 - Cameron Browne, **Dennis J. N. J. Soemers**, Éric Piette, Matthew Stephenson, Michael Conrad, Walter Crist, Thierry Depaulis, 
@@ -54,8 +56,8 @@ Jorge Nuno Silva, Alex de Voogt, and Mark H. M. Winands (2019).
 [https://arxiv.org/abs/1905.13516](https://arxiv.org/abs/1905.13516). [[pdf]](https://arxiv.org/pdf/1905.13516)
 
 - **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson, and Cameron Browne (2019). 
-"Learning Policies from Self-Play with Policy Gradients and MCTS Value Estimates". In
-*2019 IEEE Conference on Games (COG 2019)*, Accepted. **Runner-up Best Paper Award**.
+"[Learning Policies from Self-Play with Policy Gradients and MCTS Value Estimates](https://ieeexplore.ieee.org/document/8848037)". In
+*2019 IEEE Conference on Games (COG 2019)*, pp. 329--336. **Runner-up Best Paper Award**.
 [[pdf]](http://www.ieee-cog.org/papers/paper_91.pdf) [[pdf (preprint)]](https://arxiv.org/pdf/1905.05809)
 
 - Éric Piette, **Dennis J.N.J. Soemers**, Matthew Stephenson, Chiara F. Sironi, Mark H.M. Winands, and Cameron Browne (2019).
