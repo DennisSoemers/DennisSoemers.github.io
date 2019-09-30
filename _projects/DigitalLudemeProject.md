@@ -10,7 +10,7 @@ excerpt: >
   traditional games using modern AI techniques, to chart their historical development and explore their role in the development of human culture and the spread 
   of mathematical ideas."*
 image: /assets/project_digitalludeme/DigitalLudemeProjectLogo_small.png
-last_modified_at: 2019-06-27 14:00:00 +0100
+last_modified_at: 2019-09-30 18:00:00 +0100
 ---
 
 <a href="http://www.ludeme.eu/"><img src="/assets/project_digitalludeme/DigitalLudemeProjectLogo_small.png" title="The Digital Ludeme Project" align="right" style="max-height:128px"></a>
