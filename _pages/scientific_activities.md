@@ -32,6 +32,11 @@ I have reviewed papers for the following workshops:
 - UK Workshop on Computational Intelligence (**UKCI**)
 - Workshop on Computer Games (**CGW**)
 
+# Teaching
+
+- **2019**: Lecturer in *Intelligent Search & Games* course (lecture on MCTS and Deep Learning)
+- **2016 - 2018**: Assistant in *Advanced Concepts in Machine Learning* course (grading presentations and reports).
+
 # Media Appearances
 
 - **August 2019**: Vice wrote 
