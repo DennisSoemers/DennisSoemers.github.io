@@ -33,21 +33,21 @@ Project outputs (involving me as author):
 
 - Matthew Stephenson, Éric Piette, **Dennis J.N.J. Soemers**, and Cameron Browne (2019).
 "[Ludii as a Competition Platform](https://ieeexplore.ieee.org/document/8848084)". In *2019 IEEE Conference on Games (COG 2019)*, pp. 634--641. 
-[[pdf]](http://www.ieee-cog.org/papers/paper_191.pdf)
+[[pdf]](http://www.ieee-cog.org/2019/papers/paper_191.pdf)
 
 - Matthew Stephenson, Éric Piette, **Dennis J.N.J. Soemers**, and Cameron Browne (2019).
 "[An Overview of the Ludii General Game System](https://ieeexplore.ieee.org/document/8847949)". In *2019 IEEE Conference on Games (COG 2019)*, pp. 864--865.
-[[pdf]](http://www.ieee-cog.org/papers/paper_189.pdf)
+[[pdf]](http://www.ieee-cog.org/2019/papers/paper_189.pdf)
 
 - Éric Piette, Matthew Stephenson, **Dennis J.N.J. Soemers**, and Cameron Browne (2019).
 "[An Empirical Evaluation of Two General Game Systems: Ludii and RBG](https://ieeexplore.ieee.org/document/8847994)". 
 In *2019 IEEE Conference on Games (COG 2019)*, pp. 626--629.
-[[pdf]](http://www.ieee-cog.org/papers/paper_188.pdf)
+[[pdf]](http://www.ieee-cog.org/2019/papers/paper_188.pdf)
 
 - Cédric Piette, Éric Piette, Matthew Stephenson, **Dennis J.N.J. Soemers**, and Cameron Browne (2019).
 "[Ludii and XCSP: Playing and Solving Logic Puzzles](https://ieeexplore.ieee.org/document/8848086)". 
 In *2019 IEEE Conference on Games (COG 2019)*, pp. 630--633.
-[[pdf]](http://www.ieee-cog.org/papers/paper_190.pdf)
+[[pdf]](http://www.ieee-cog.org/2019/papers/paper_190.pdf)
 
 - Cameron Browne, **Dennis J. N. J. Soemers**, Éric Piette, Matthew Stephenson, Michael Conrad, Walter Crist, Thierry Depaulis, 
 Eddie Duggan, Fred Horn, Steven Kelk, Simon M. Lucas, João Pedro Neto, David Parlett, Abdallah Saffidine, Ulrich Schädler, 
@@ -58,7 +58,7 @@ Jorge Nuno Silva, Alex de Voogt, and Mark H. M. Winands (2019).
 - **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson, and Cameron Browne (2019). 
 "[Learning Policies from Self-Play with Policy Gradients and MCTS Value Estimates](https://ieeexplore.ieee.org/document/8848037)". In
 *2019 IEEE Conference on Games (COG 2019)*, pp. 329--336. **Runner-up Best Paper Award**.
-[[pdf]](http://www.ieee-cog.org/papers/paper_91.pdf) [[pdf (preprint)]](https://arxiv.org/pdf/1905.05809)
+[[pdf]](http://www.ieee-cog.org/2019/papers/paper_91.pdf) [[pdf (preprint)]](https://arxiv.org/pdf/1905.05809)
 
 - Éric Piette, **Dennis J.N.J. Soemers**, Matthew Stephenson, Chiara F. Sironi, Mark H.M. Winands, and Cameron Browne (2019).
 "[Ludii - The Ludemic General Game System](https://arxiv.org/abs/1905.05013)". [Online]. Available: 
