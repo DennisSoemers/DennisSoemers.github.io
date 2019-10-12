@@ -35,7 +35,7 @@ In *2019 IEEE Conference on Games (COG 2019)*, pp. 630--633.
 
 - **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson, and Cameron Browne (2019). 
 "[Learning Policies from Self-Play with Policy Gradients and MCTS Value Estimates](https://ieeexplore.ieee.org/document/8848037)". In
-*2019 IEEE Conference on Games (COG 2019)*, pp. 329--336. **[Runner-up Best Paper Award](http://ieee-cog.org/2019/awards/)**.
+*2019 IEEE Conference on Games (COG 2019)*, pp. 329--336. **Runner-up Best Paper Award**.
 [[pdf]](http://www.ieee-cog.org/2019/papers/paper_91.pdf) [[pdf (preprint)]](https://arxiv.org/pdf/1905.05809)
 
 - **Dennis J.N.J. Soemers**, Éric Piette, and Cameron Browne (2019). 
