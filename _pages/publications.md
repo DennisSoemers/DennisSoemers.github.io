@@ -9,7 +9,7 @@ This page lists all of my scientific publications. They are sorted by publicatio
 
 # Journal Articles
 
-- **Dennis J.N.J. Soemers and Walter Crist and Cameron Browne** (2019).
+- **Dennis J.N.J. Soemers**, Walter Crist and Cameron Browne (2019).
 "[Report on the Digital Ludeme Project](https://content.iospress.com/articles/icga-journal/icg190118)". *ICGA Journal*,
 vol. 41, no. 3, pp. 138-142. IOS Press.
 
