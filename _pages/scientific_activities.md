@@ -23,6 +23,8 @@ I have reviewed papers for the following conferences:
 - Artificial Intelligence and Interactive Digital Entertainment (**AIIDE**)
 - IEEE Conference on Games (**CoG**)
 - International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)
+- European Conference on Artificial Intelligence (**ECAI**)
+- International Conference on Learning Representations (**ICLR**)
 - International Joint Conference on Artificial Intelligence (**IJCAI**)
 
 # Peer Review - Workshops

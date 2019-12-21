@@ -9,6 +9,10 @@ This page lists all of my scientific publications. They are sorted by publicatio
 
 # Journal Articles
 
+- **Dennis J.N.J. Soemers and Walter Crist and Cameron Browne** (2019).
+"[Report on the Digital Ludeme Project](https://content.iospress.com/articles/icga-journal/icg190118)". *ICGA Journal*,
+vol. 41, no. 3, pp. 138-142. IOS Press.
+
 - Raluca D. Gaina, Adrian Couëtoux, **Dennis J.N.J. Soemers**, Mark H.M. Winands, Tom Vodopivec, Florian Kirchgeßner, Jialin Liu, Simon M. Lucas, and Diego Pérez-Liébana 
 (2017). "[The 2016 Two-Player GVGAI Competition](http://ieeexplore.ieee.org/document/8100955/)". *IEEE Transactions on Games*,
 vol. 10, no. 2, pp. 209-220. IEEE. [[pdf]](https://dke.maastrichtuniversity.nl/m.winands/documents/TCIAIG_2pGVGAI.pdf)
@@ -37,6 +41,10 @@ In *2019 IEEE Conference on Games (COG 2019)*, pp. 630--633.
 "[Learning Policies from Self-Play with Policy Gradients and MCTS Value Estimates](https://ieeexplore.ieee.org/document/8848037)". In
 *2019 IEEE Conference on Games (COG 2019)*, pp. 329--336. **Runner-up Best Paper Award**.
 [[pdf]](http://www.ieee-cog.org/2019/papers/paper_91.pdf) [[pdf (preprint)]](https://arxiv.org/pdf/1905.05809)
+
+- Cameron Browne, Matthew Stephenson, Éric Piette, and **Dennis J.N.J. Soemers** (2019).
+"A Practical Introduction to the Ludii General Game System". In *Proceedings of Advances in Computer Games (ACG'19)*,
+Macau, Springer, August 2019.
 
 - **Dennis J.N.J. Soemers**, Éric Piette, and Cameron Browne (2019). 
 "[Biasing MCTS with Features for General Games](https://ieeexplore.ieee.org/document/8790141)".

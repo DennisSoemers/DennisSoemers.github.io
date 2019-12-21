@@ -26,7 +26,11 @@ My personal focus is on AI techniques, including search and learning algorithms,
 
 Project outputs (involving me as author):
 
-- Ludii v0.3.0 ([download here](https://www.ludii.games/))
+- Ludii v0.6.0 ([download here](https://www.ludii.games/))
+
+- **Dennis J.N.J. Soemers and Walter Crist and Cameron Browne** (2019).
+"[Report on the Digital Ludeme Project](https://content.iospress.com/articles/icga-journal/icg190118)". *ICGA Journal*,
+vol. 41, no. 3, pp. 138-142. IOS Press.
 
 - **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson and Cameron Browne (August 12, 2019). 
 "[Ludii User Guide](https://www.ludii.games/LudiiUserGuide-0.2.0.pdf)". Pre-release version.
@@ -48,6 +52,10 @@ In *2019 IEEE Conference on Games (COG 2019)*, pp. 626--629.
 "[Ludii and XCSP: Playing and Solving Logic Puzzles](https://ieeexplore.ieee.org/document/8848086)". 
 In *2019 IEEE Conference on Games (COG 2019)*, pp. 630--633.
 [[pdf]](http://www.ieee-cog.org/2019/papers/paper_190.pdf)
+
+- Cameron Browne, Matthew Stephenson, Éric Piette, and **Dennis J.N.J. Soemers** (2019).
+"A Practical Introduction to the Ludii General Game System". In *Proceedings of Advances in Computer Games (ACG'19)*,
+Macau, Springer, August 2019.
 
 - Cameron Browne, **Dennis J. N. J. Soemers**, Éric Piette, Matthew Stephenson, Michael Conrad, Walter Crist, Thierry Depaulis, 
 Eddie Duggan, Fred Horn, Steven Kelk, Simon M. Lucas, João Pedro Neto, David Parlett, Abdallah Saffidine, Ulrich Schädler, 
