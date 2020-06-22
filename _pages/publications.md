@@ -2,7 +2,7 @@
 title: Publications
 permalink: /publications/
 description: Dennis Soemers' scientific publications.
-last_modified_at: 2019-09-30 18:00:00 +0100
+last_modified_at: 2020-06-22 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -18,6 +18,14 @@ vol. 41, no. 3, pp. 138-142. IOS Press.
 vol. 10, no. 2, pp. 209-220. IEEE. [[pdf]](https://dke.maastrichtuniversity.nl/m.winands/documents/TCIAIG_2pGVGAI.pdf)
 
 # Conference Articles
+
+- **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson, and Cameron Browne (2020).
+"Manipulating the Distributions of Experience used for Self-Play Learning in Expert Iteration". In *2020 IEEE Conference on Games (CoG 2020)*, to appear.
+[[pdf preprint]](https://arxiv.org/pdf/2006.00283)
+
+- Éric Piette, **Dennis J.N.J. Soemers**, Matthew Stephenson, Chiara F. Sironi, Mark H.M. Winands, and Cameron Browne (2020).
+"[Ludii - The Ludemic General Game System](http://ecai2020.eu/accepted-papers-main-conference/)". In *2020 European Conference on Artificial Intelligence*. 
+[[pdf]](http://ecai2020.eu/papers/1248_paper.pdf)
 
 - Matthew Stephenson, Éric Piette, **Dennis J.N.J. Soemers**, and Cameron Browne (2019).
 "[Ludii as a Competition Platform](https://ieeexplore.ieee.org/document/8848084)". In *2019 IEEE Conference on Games (COG 2019)*, pp. 634--641. 
@@ -75,12 +83,6 @@ In *Proceedings of the 2nd Workshop on Knowledge Extraction from Games (KEG)*, p
 "[Ludii - Le Système Ludémique de General Game Playing](https://www.researchgate.net/publication/333716838_LUDII_-_Le_Systeme_Ludemique_de_General_Game_Playing)". 
 In *Conférence Nationale en Intelligence Artificielle*. (In French) 
 [[pdf]](https://www.researchgate.net/profile/Eric_Piette/publication/333716838_LUDII_-_Le_Systeme_Ludemique_de_General_Game_Playing/links/5d00626fa6fdccd13093f700/LUDII-Le-Systeme-Ludemique-de-General-Game-Playing.pdf?_sg%5B0%5D=6I-dcxZ40MieQBjWkSNUOeneRSmzp8j533ZEhKBn-F2uExw9iJXQY34vB8l4BB3-vvPcxHS9WWdHXk6uUOWwEw.Jau2YwPYFvNjkvN7MuoFvqirR9DQe6ubRDYAqDm4BOW6lAfEoUgRZcSPLQuF45dwosFuqAXnKRj5S5ajnJZG2Q&_sg%5B1%5D=HxCBph2nNhmvNztGYlLGYD7ISpn0855GRNap-Fse1T0v4IP-aJsQ82-J5SogvS3i8EK_XGWWfNadi97N40qrSBb23L_0C8qX3b_UCsoCxMWu.Jau2YwPYFvNjkvN7MuoFvqirR9DQe6ubRDYAqDm4BOW6lAfEoUgRZcSPLQuF45dwosFuqAXnKRj5S5ajnJZG2Q&_iepl=)
-
-# Preprints
-
-- Éric Piette, **Dennis J.N.J. Soemers**, Matthew Stephenson, Chiara F. Sironi, Mark H.M. Winands, and Cameron Browne (2019).
-"[Ludii - The Ludemic General Game System](https://arxiv.org/abs/1905.05013)". [Online]. Available: 
-[https://arxiv.org/abs/1905.05013](https://arxiv.org/abs/1905.05013). [[pdf]](https://arxiv.org/pdf/1905.05013)
 
 # Reports
 
