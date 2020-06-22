@@ -10,7 +10,7 @@ excerpt: >
   traditional games using modern AI techniques, to chart their historical development and explore their role in the development of human culture and the spread 
   of mathematical ideas."*
 image: /assets/project_digitalludeme/DigitalLudemeProjectLogo_small.png
-last_modified_at: 2019-09-30 18:00:00 +0100
+last_modified_at: 2020-06-22 10:00:00 +0100
 ---
 
 <a href="http://www.ludeme.eu/"><img src="/assets/project_digitalludeme/DigitalLudemeProjectLogo_small.png" title="The Digital Ludeme Project" align="right" style="max-height:128px"></a>
@@ -26,7 +26,15 @@ My personal focus is on AI techniques, including search and learning algorithms,
 
 Project outputs (involving me as author):
 
-- Ludii v0.6.0 ([download here](https://www.ludii.games/))
+- Ludii v0.9.3 (and earlier versions) ([download here](https://www.ludii.games/))
+
+- **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson, and Cameron Browne (2020).
+"Manipulating the Distributions of Experience used for Self-Play Learning in Expert Iteration". In *2020 IEEE Conference on Games (CoG 2020)*, to appear.
+[[pdf preprint]](https://arxiv.org/pdf/2006.00283)
+
+- Éric Piette, **Dennis J.N.J. Soemers**, Matthew Stephenson, Chiara F. Sironi, Mark H.M. Winands, and Cameron Browne (2020).
+"[Ludii - The Ludemic General Game System](http://ecai2020.eu/accepted-papers-main-conference/)". In *2020 European Conference on Artificial Intelligence*. 
+[[pdf]](http://ecai2020.eu/papers/1248_paper.pdf)
 
 - **Dennis J.N.J. Soemers**, Walter Crist and Cameron Browne (2019).
 "[Report on the Digital Ludeme Project](https://content.iospress.com/articles/icga-journal/icg190118)". *ICGA Journal*,
@@ -67,10 +75,6 @@ Jorge Nuno Silva, Alex de Voogt, and Mark H. M. Winands (2019).
 "[Learning Policies from Self-Play with Policy Gradients and MCTS Value Estimates](https://ieeexplore.ieee.org/document/8848037)". In
 *2019 IEEE Conference on Games (COG 2019)*, pp. 329--336. **Runner-up Best Paper Award**.
 [[pdf]](http://www.ieee-cog.org/2019/papers/paper_91.pdf) [[pdf (preprint)]](https://arxiv.org/pdf/1905.05809)
-
-- Éric Piette, **Dennis J.N.J. Soemers**, Matthew Stephenson, Chiara F. Sironi, Mark H.M. Winands, and Cameron Browne (2019).
-"[Ludii - The Ludemic General Game System](https://arxiv.org/abs/1905.05013)". [Online]. Available: 
-[https://arxiv.org/abs/1905.05013](https://arxiv.org/abs/1905.05013). [[pdf]](https://arxiv.org/pdf/1905.05013)
 
 - **Dennis J.N.J. Soemers**, Éric Piette, and Cameron Browne (2019). 
 "[Biasing MCTS with Features for General Games](https://ieeexplore.ieee.org/document/8790141)".
