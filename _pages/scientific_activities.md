@@ -2,7 +2,7 @@
 title: Scientific Activities
 permalink: /scientific_activities/
 description: Scientific activities (other than publications).
-last_modified_at: 2019-09-30 18:00:00 +0100
+last_modified_at: 2020-08-23 17:00:00 +0100
 ---
 
 This page summarizes some of my scientific activies (other than my publications, which are on [their own page](/publications/)).
@@ -37,7 +37,7 @@ I have reviewed papers for the following workshops:
 # Teaching
 
 - **2019**: Lecturer in *Intelligent Search & Games* course (lecture on MCTS and Deep Learning) at Maastricht University, DKE.
-- **2016 - 2018**: Assistant in *Advanced Concepts in Machine Learning* course (grading presentations and reports) at Maastricht University, DKE.
+- **2016 - 2019**: Assistant in *Advanced Concepts in Machine Learning* course (grading presentations and reports) at Maastricht University, DKE.
 
 # Media Appearances
 
