@@ -2,7 +2,7 @@
 title: About
 permalink: /about/
 description: About Dennis Soemers (researcher in Artificial Intelligence).
-last_modified_at: 2018-10-15 10:30:00 +0100
+last_modified_at: 2020-09-01 10:30:00 +0100
 ---
 
 I am currently doing a Research Internship with [Facebook AI Research](https://ai.facebook.com/), as a part of my

@@ -2,7 +2,7 @@
 title: Publications
 permalink: /publications/
 description: Dennis Soemers' scientific publications.
-last_modified_at: 2020-06-22 10:00:00 +0100
+last_modified_at: 2020-09-28 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -24,8 +24,9 @@ vol. 10, no. 2, pp. 209-220. IEEE. [[pdf]](https://dke.maastrichtuniversity.nl/m
 [[pdf preprint]](https://arxiv.org/pdf/2006.00283)
 
 - Éric Piette, **Dennis J.N.J. Soemers**, Matthew Stephenson, Chiara F. Sironi, Mark H.M. Winands, and Cameron Browne (2020).
-"[Ludii - The Ludemic General Game System](http://ecai2020.eu/accepted-papers-main-conference/)". In *2020 European Conference on Artificial Intelligence*. 
-[[pdf]](http://ecai2020.eu/papers/1248_paper.pdf)
+"[Ludii - The Ludemic General Game System](http://ecai2020.eu/accepted-papers-main-conference/)". In 
+*2020 European Conference on Artificial Intelligence*., Vol. 325 of Frontiers in Artificial Intelligence and Applications, 
+pp. 411--418. IOS Press. [[pdf]](http://ecai2020.eu/papers/1248_paper.pdf)
 
 - Matthew Stephenson, Éric Piette, **Dennis J.N.J. Soemers**, and Cameron Browne (2019).
 "[Ludii as a Competition Platform](https://ieeexplore.ieee.org/document/8848084)". In *2019 IEEE Conference on Games (COG 2019)*, pp. 634--641. 
