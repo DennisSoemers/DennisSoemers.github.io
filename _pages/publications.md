@@ -2,7 +2,7 @@
 title: Publications
 permalink: /publications/
 description: Dennis Soemers' scientific publications.
-last_modified_at: 2020-09-28 10:00:00 +0100
+last_modified_at: 2020-11-27 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -20,7 +20,8 @@ vol. 10, no. 2, pp. 209-220. IEEE. [[pdf]](https://dke.maastrichtuniversity.nl/m
 # Conference Articles
 
 - **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson, and Cameron Browne (2020).
-"Manipulating the Distributions of Experience used for Self-Play Learning in Expert Iteration". In *2020 IEEE Conference on Games (CoG 2020)*, to appear.
+"[Manipulating the Distributions of Experience used for Self-Play Learning in Expert Iteration](https://ieeexplore.ieee.org/document/9231589/)". 
+In *2020 IEEE Conference on Games (CoG 2020)*, pp. 245--252.
 [[pdf preprint]](https://arxiv.org/pdf/2006.00283)
 
 - Éric Piette, **Dennis J.N.J. Soemers**, Matthew Stephenson, Chiara F. Sironi, Mark H.M. Winands, and Cameron Browne (2020).
