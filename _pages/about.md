@@ -5,9 +5,9 @@ description: About Dennis Soemers (researcher in Artificial Intelligence).
 last_modified_at: 2020-09-01 10:30:00 +0100
 ---
 
-I am currently doing a Research Internship with [Facebook AI Research](https://ai.facebook.com/), as a part of my
-PhD at the [Department of Data Science and Knowledge Engineering](http://www.maastrichtuniversity.nl/dke)
+I am currently doing a PhD at the [Department of Data Science and Knowledge Engineering](http://www.maastrichtuniversity.nl/dke)
 of Maastricht University, where I am working on the [ERC](https://erc.europa.eu/)-funded [Digital Ludeme Project](http://www.ludeme.eu/).
+In Fall 2020 I was a Research Intern at [Facebook AI Research](https://ai.facebook.com/).
 Previously, I worked for two years on the [C-Cure](http://www.securit-brussels.be/project/c-cure/) project as a PhD student at the 
 [Artificial Intelligence Lab](https://ai.vub.ac.be/) of the Vrije Universiteit Brussel. Before that, I got a B.Sc. in Kowledge Engineering and a M.Sc. in 
 Artificial Intelligence, both from the [Department of Data Science and Knowledge Engineering](http://www.maastrichtuniversity.nl/dke)
