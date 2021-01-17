@@ -37,7 +37,7 @@ I have reviewed papers for the following workshops:
 
 # Teaching
 
-- **2019 - 2020**: Lecturer in *Intelligent Search & Games* course (lecture on MCTS and Deep Learning) at Maastricht University, DKE.
+- **2019 - 2020**: Assistant Lecturer in *Intelligent Search & Games* course (lecture on MCTS and Deep Learning) at Maastricht University, DKE.
 - **2016 - 2019**: Assistant in *Advanced Concepts in Machine Learning* course (grading presentations and reports) at Maastricht University, DKE.
 
 # Media Appearances

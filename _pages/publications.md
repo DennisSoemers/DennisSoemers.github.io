@@ -2,7 +2,7 @@
 title: Publications
 permalink: /publications/
 description: Dennis Soemers' scientific publications.
-last_modified_at: 2020-11-27 10:00:00 +0100
+last_modified_at: 2021-01-17 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -18,6 +18,10 @@ vol. 41, no. 3, pp. 138-142. IOS Press.
 vol. 10, no. 2, pp. 209-220. IEEE. [[pdf]](https://dke.maastrichtuniversity.nl/m.winands/documents/TCIAIG_2pGVGAI.pdf)
 
 # Conference Articles
+
+- Cameron Browne, Matthew Stephenson, Éric Piette, and **Dennis J.N.J. Soemers** (2020).
+"[A Practical Introduction to the Ludii General Game System](https://link.springer.com/chapter/10.1007/978-3-030-65883-0_14)".
+In *Advances in Computer Games (ACG 2019)*, volume 12516 of *Lecture Notes in Computer Science (LNCS)*. Springer, Cham.
 
 - **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson, and Cameron Browne (2020).
 "[Manipulating the Distributions of Experience used for Self-Play Learning in Expert Iteration](https://ieeexplore.ieee.org/document/9231589/)". 
@@ -51,10 +55,6 @@ In *2019 IEEE Conference on Games (COG 2019)*, pp. 630--633.
 "[Learning Policies from Self-Play with Policy Gradients and MCTS Value Estimates](https://ieeexplore.ieee.org/document/8848037)". In
 *2019 IEEE Conference on Games (COG 2019)*, pp. 329--336. **Runner-up Best Paper Award**.
 [[pdf]](http://www.ieee-cog.org/2019/papers/paper_91.pdf) [[pdf (preprint)]](https://arxiv.org/pdf/1905.05809)
-
-- Cameron Browne, Matthew Stephenson, Éric Piette, and **Dennis J.N.J. Soemers** (2019).
-"A Practical Introduction to the Ludii General Game System". In *Proceedings of Advances in Computer Games (ACG'19)*,
-Macau, Springer, August 2019.
 
 - **Dennis J.N.J. Soemers**, Éric Piette, and Cameron Browne (2019). 
 "[Biasing MCTS with Features for General Games](https://ieeexplore.ieee.org/document/8790141)".
@@ -105,6 +105,9 @@ Department of Data Science and Knowledge Engineering, Maastricht University, Maa
 [[pdf]](/assets/publications/Soemers_BSc-paper.pdf)
 
 # Other
+
+- Éric Piette, Cameron Browne and **Dennis J.N.J. Soemers** (2021). "[Ludii Game Logic Guide](https://arxiv.org/abs/2101.02120)".
+[[pdf]](https://arxiv.org/pdf/2101.02120)
 
 - **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson and Cameron Browne (August 12, 2019). 
 "[Ludii User Guide](https://www.ludii.games/LudiiUserGuide-0.2.0.pdf)". Pre-release version.

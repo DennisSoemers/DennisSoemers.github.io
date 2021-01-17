@@ -10,7 +10,7 @@ excerpt: >
   traditional games using modern AI techniques, to chart their historical development and explore their role in the development of human culture and the spread 
   of mathematical ideas."*
 image: /assets/project_digitalludeme/DigitalLudemeProjectLogo_small.png
-last_modified_at: 2020-06-22 10:00:00 +0100
+last_modified_at: 2021-01-17 10:00:00 +0100
 ---
 
 <a href="http://www.ludeme.eu/"><img src="/assets/project_digitalludeme/DigitalLudemeProjectLogo_small.png" title="The Digital Ludeme Project" align="right" style="max-height:128px"></a>
@@ -26,15 +26,34 @@ My personal focus is on AI techniques, including search and learning algorithms,
 
 Project outputs (involving me as author):
 
-- Ludii v0.9.3 (and earlier versions) ([download here](https://www.ludii.games/))
+- Ludii v1.1.12 (and earlier versions) ([download here](https://www.ludii.games/))
+
+- [Ludii AI repository](https://github.com/Ludeme/LudiiAI) (I am the primary maintainer and author).
+
+- [Ludii Tutorials](https://ludiitutorials.readthedocs.io/en/latest/) (I am the primary maintainer and author).
+
+- [Ludii Tutorials repository](https://github.com/Ludeme/LudiiTutorials) (I am the primary maintainer and author).
+
+- [Ludii Python AI repository](https://github.com/Ludeme/LudiiPythonAI) (I am the primary maintainer and author).
+
+- [Ludii Example AI repository](https://github.com/Ludeme/LudiiExampleAI) (I am the primary maintainer and author).
+
+- Éric Piette, Cameron Browne and **Dennis J.N.J. Soemers** (2021). "[Ludii Game Logic Guide](https://arxiv.org/abs/2101.02120)".
+[[pdf]](https://arxiv.org/pdf/2101.02120)
+
+- Cameron Browne, Matthew Stephenson, Éric Piette, and **Dennis J.N.J. Soemers** (2020).
+"[A Practical Introduction to the Ludii General Game System](https://link.springer.com/chapter/10.1007/978-3-030-65883-0_14)".
+In *Advances in Computer Games (ACG 2019)*, volume 12516 of *Lecture Notes in Computer Science (LNCS)*. Springer, Cham.
 
 - **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson, and Cameron Browne (2020).
-"Manipulating the Distributions of Experience used for Self-Play Learning in Expert Iteration". In *2020 IEEE Conference on Games (CoG 2020)*, to appear.
+"[Manipulating the Distributions of Experience used for Self-Play Learning in Expert Iteration](https://ieeexplore.ieee.org/document/9231589/)". 
+In *2020 IEEE Conference on Games (CoG 2020)*, pp. 245--252.
 [[pdf preprint]](https://arxiv.org/pdf/2006.00283)
 
 - Éric Piette, **Dennis J.N.J. Soemers**, Matthew Stephenson, Chiara F. Sironi, Mark H.M. Winands, and Cameron Browne (2020).
-"[Ludii - The Ludemic General Game System](http://ecai2020.eu/accepted-papers-main-conference/)". In *2020 European Conference on Artificial Intelligence*. 
-[[pdf]](http://ecai2020.eu/papers/1248_paper.pdf)
+"[Ludii - The Ludemic General Game System](http://ecai2020.eu/accepted-papers-main-conference/)". In 
+*2020 European Conference on Artificial Intelligence*., Vol. 325 of Frontiers in Artificial Intelligence and Applications, 
+pp. 411--418. IOS Press. [[pdf]](http://ecai2020.eu/papers/1248_paper.pdf)
 
 - **Dennis J.N.J. Soemers**, Walter Crist and Cameron Browne (2019).
 "[Report on the Digital Ludeme Project](https://content.iospress.com/articles/icga-journal/icg190118)". *ICGA Journal*,

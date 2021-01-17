@@ -2,7 +2,7 @@
 title: About
 permalink: /about/
 description: About Dennis Soemers (researcher in Artificial Intelligence).
-last_modified_at: 2020-09-01 10:30:00 +0100
+last_modified_at: 2021-01-17 10:30:00 +0100
 ---
 
 I am currently doing a PhD at the [Department of Data Science and Knowledge Engineering](http://www.maastrichtuniversity.nl/dke)
