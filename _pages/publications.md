@@ -2,7 +2,7 @@
 title: Publications
 permalink: /publications/
 description: Dennis Soemers' scientific publications.
-last_modified_at: 2021-01-17 10:00:00 +0100
+last_modified_at: 2021-02-21 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -105,6 +105,10 @@ Department of Data Science and Knowledge Engineering, Maastricht University, Maa
 [[pdf]](/assets/publications/Soemers_BSc-paper.pdf)
 
 # Other
+
+- **Dennis J.N.J. Soemers**, Vegard Mella, Cameron Browne and Olivier Teytaud (2021). 
+"[Deep Learning for General Game Playing with Ludii and Polygames](https://arxiv.org/abs/2101.09562)".
+[[pdf]](https://arxiv.org/pdf/2101.09562)
 
 - Éric Piette, Cameron Browne and **Dennis J.N.J. Soemers** (2021). "[Ludii Game Logic Guide](https://arxiv.org/abs/2101.02120)".
 [[pdf]](https://arxiv.org/pdf/2101.02120)
