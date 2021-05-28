@@ -2,7 +2,7 @@
 title: Publications
 permalink: /publications/
 description: Dennis Soemers' scientific publications.
-last_modified_at: 2021-02-21 10:00:00 +0100
+last_modified_at: 2021-05-28 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -105,6 +105,14 @@ Department of Data Science and Knowledge Engineering, Maastricht University, Maa
 [[pdf]](/assets/publications/Soemers_BSc-paper.pdf)
 
 # Other
+
+- Matthew Stephenson, **Dennis J.N.J. Soemers**, Éric Piette and Cameron Browne (2021).
+"[General Game Heuristic Prediction Based on Ludeme Descriptions](https://arxiv.org/abs/2105.12846)".
+[[pdf]](https://arxiv.org/pdf/2105.12846)
+
+- **Dennis J.N.J. Soemers**, Vegard Mella, Éric Piette, Matthew Stephenson, Cameron Browne and Olivier Teytaud (2021).
+"[Transfer of Fully Convolutional Policy-Value Networks Between Games and Game Variants](https://arxiv.org/abs/2102.12375)".
+[[pdf]](https://arxiv.org/pdf/2102.12375)
 
 - **Dennis J.N.J. Soemers**, Vegard Mella, Cameron Browne and Olivier Teytaud (2021). 
 "[Deep Learning for General Game Playing with Ludii and Polygames](https://arxiv.org/abs/2101.09562)".
