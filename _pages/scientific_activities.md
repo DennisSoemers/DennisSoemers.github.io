@@ -2,7 +2,7 @@
 title: Scientific Activities
 permalink: /scientific_activities/
 description: Scientific activities (other than publications).
-last_modified_at: 2020-09-28 17:00:00 +0100
+last_modified_at: 2021-08-02 17:00:00 +0100
 ---
 
 This page summarizes some of my scientific activies (other than my publications, which are on [their own page](/publications/)).
@@ -21,6 +21,7 @@ I have reviewed papers for the following conferences:
 
 - AAAI Conference on Artificial Intelligence (**AAAI**)
 - Artificial Intelligence and Interactive Digital Entertainment (**AIIDE**)
+- Conference on Neural Information Processing Systems (**NeurIPS**)
 - IEEE Conference on Games (**CoG**)
 - IEEE Symposium Series on Computational Intelligence (**SSCI**)
 - International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)

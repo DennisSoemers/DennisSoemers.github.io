@@ -2,7 +2,7 @@
 title: Publications
 permalink: /publications/
 description: Dennis Soemers' scientific publications.
-last_modified_at: 2021-05-28 10:00:00 +0100
+last_modified_at: 2021-08-02 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -18,6 +18,14 @@ vol. 41, no. 3, pp. 138-142. IOS Press.
 vol. 10, no. 2, pp. 209-220. IEEE. [[pdf]](https://dke.maastrichtuniversity.nl/m.winands/documents/TCIAIG_2pGVGAI.pdf)
 
 # Conference Articles
+
+- Matthew Stephenson, **Dennis J.N.J. Soemers**, Éric Piette, and Cameron Browne (2021).
+"General Game Heuristic Prediction Based on Ludeme Descriptions". In *2021 IEEE Conference on Games (CoG 2021)*. Accepted. 
+[[pdf preprint]](https://arxiv.org/pdf/2105.12846)
+
+- Éric Piette, Matthew Stephenson, **Dennis J.N.J. Soemers**, and Cameron Browne (2021).
+"General Board Game Concepts". In *2021 IEEE Conference on Games (CoG 2021)*. Accepted. 
+[[pdf preprint]](https://arxiv.org/pdf/2107.01078)
 
 - Cameron Browne, Matthew Stephenson, Éric Piette, and **Dennis J.N.J. Soemers** (2020).
 "[A Practical Introduction to the Ludii General Game System](https://link.springer.com/chapter/10.1007/978-3-030-65883-0_14)".
