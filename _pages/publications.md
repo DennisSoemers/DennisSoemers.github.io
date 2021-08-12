@@ -114,10 +114,6 @@ Department of Data Science and Knowledge Engineering, Maastricht University, Maa
 
 # Other
 
-- Matthew Stephenson, **Dennis J.N.J. Soemers**, Éric Piette and Cameron Browne (2021).
-"[General Game Heuristic Prediction Based on Ludeme Descriptions](https://arxiv.org/abs/2105.12846)".
-[[pdf]](https://arxiv.org/pdf/2105.12846)
-
 - **Dennis J.N.J. Soemers**, Vegard Mella, Éric Piette, Matthew Stephenson, Cameron Browne and Olivier Teytaud (2021).
 "[Transfer of Fully Convolutional Policy-Value Networks Between Games and Game Variants](https://arxiv.org/abs/2102.12375)".
 [[pdf]](https://arxiv.org/pdf/2102.12375)
