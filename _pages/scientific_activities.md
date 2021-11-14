@@ -2,7 +2,7 @@
 title: Scientific Activities
 permalink: /scientific_activities/
 description: Scientific activities (other than publications).
-last_modified_at: 2021-10-16 17:00:00 +0100
+last_modified_at: 2021-11-14 10:00:00 +0100
 ---
 
 This page summarizes some of my scientific activies (other than my publications, which are on [their own page](/publications/)).
@@ -27,7 +27,7 @@ I have reviewed papers for the following conferences:
 - IEEE Symposium Series on Computational Intelligence (**SSCI**)
 - International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)
 - European Conference on Artificial Intelligence (**ECAI**)
-- International Conference on Learning Representations (**ICLR**)
+- International Conference on Learning Representations (**ICLR**) (**Outstanding Reviewer** [2021](https://iclr.cc/Conferences/2021/Reviewers))
 - International Joint Conference on Artificial Intelligence (**IJCAI**)
 
 # Peer Review - Workshops
