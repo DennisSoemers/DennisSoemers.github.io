@@ -39,6 +39,10 @@ vol. 10, no. 2, pp. 209-220. IEEE. [[pdf]](https://dke.maastrichtuniversity.nl/m
 "General Board Game Concepts". In *2021 IEEE Conference on Games (CoG 2021)*. Accepted. 
 [[pdf preprint]](https://arxiv.org/pdf/2107.01078)
 
+- Eric Piette, Lisa Rougetet, Walter Crist, Matthew Stephenson, **Dennis J.N.J. Soemers**, and Cameron Browne (2021). 
+"[A Ludii analysis of the French Military Game](https://bgsparis2020.com/wp-content/uploads/2021/04/LLSHScolloque-livret-liens_2.pdf)". 
+*Board Game Studies (BGS 2021)*, Paris, France. [[pdf]](/assets/publications/BGS_Submission-French_Military_Game.pdf)
+
 - Cameron Browne, Matthew Stephenson, Éric Piette, and **Dennis J.N.J. Soemers** (2020).
 "[A Practical Introduction to the Ludii General Game System](https://link.springer.com/chapter/10.1007/978-3-030-65883-0_14)".
 In *Advances in Computer Games (ACG 2019)*, volume 12516 of *Lecture Notes in Computer Science (LNCS)*. Springer, Cham.
