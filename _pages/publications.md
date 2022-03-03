@@ -9,6 +9,10 @@ This page lists all of my scientific publications. They are sorted by publicatio
 
 # Journal Articles
 
+- **Dennis J.N.J. Soemers**, Vegard Mella, Cameron Browne and Olivier Teytaud (2022). 
+"[Deep Learning for General Game Playing with Ludii and Polygames](https://content.iospress.com/articles/icga-journal/icg220197)".
+*ICGA Journal*, vol. 43, no. 3, pp. 146--161. IOS Press.
+
 - **Dennis J.N.J. Soemers**, Walter Crist and Cameron Browne (2019).
 "[Report on the Digital Ludeme Project](https://content.iospress.com/articles/icga-journal/icg190118)". *ICGA Journal*,
 vol. 41, no. 3, pp. 138-142. IOS Press.
@@ -32,11 +36,12 @@ vol. 10, no. 2, pp. 209-220. IEEE. [[pdf]](https://dke.maastrichtuniversity.nl/m
 [[pdf preprint]](https://arxiv.org/pdf/2111.11329)
 
 - Matthew Stephenson, **Dennis J.N.J. Soemers**, Éric Piette, and Cameron Browne (2021).
-"General Game Heuristic Prediction Based on Ludeme Descriptions". In *2021 IEEE Conference on Games (CoG 2021)*. Accepted. 
+"[General Game Heuristic Prediction Based on Ludeme Descriptions](https://ieeexplore.ieee.org/document/9619052)". 
+In *2021 IEEE Conference on Games (CoG 2021)*, pp. 878--881. 
 [[pdf preprint]](https://arxiv.org/pdf/2105.12846)
 
 - Éric Piette, Matthew Stephenson, **Dennis J.N.J. Soemers**, and Cameron Browne (2021).
-"General Board Game Concepts". In *2021 IEEE Conference on Games (CoG 2021)*. Accepted. 
+"[General Board Game Concepts](https://ieeexplore.ieee.org/document/9618990)". In *2021 IEEE Conference on Games (CoG 2021)*, pp. 932--939. 
 [[pdf preprint]](https://arxiv.org/pdf/2107.01078)
 
 - Eric Piette, Lisa Rougetet, Walter Crist, Matthew Stephenson, **Dennis J.N.J. Soemers**, and Cameron Browne (2021). 
@@ -137,10 +142,6 @@ Department of Data Science and Knowledge Engineering, Maastricht University, Maa
 - **Dennis J.N.J. Soemers**, Vegard Mella, Éric Piette, Matthew Stephenson, Cameron Browne and Olivier Teytaud (2021).
 "[Transfer of Fully Convolutional Policy-Value Networks Between Games and Game Variants](https://arxiv.org/abs/2102.12375)".
 [[pdf]](https://arxiv.org/pdf/2102.12375)
-
-- **Dennis J.N.J. Soemers**, Vegard Mella, Cameron Browne and Olivier Teytaud (2021). 
-"[Deep Learning for General Game Playing with Ludii and Polygames](https://arxiv.org/abs/2101.09562)".
-[[pdf]](https://arxiv.org/pdf/2101.09562)
 
 - Éric Piette, Cameron Browne and **Dennis J.N.J. Soemers** (2021). "[Ludii Game Logic Guide](https://arxiv.org/abs/2101.02120)".
 [[pdf]](https://arxiv.org/pdf/2101.02120)
