@@ -136,6 +136,10 @@ Department of Data Science and Knowledge Engineering, Maastricht University, Maa
 # Other
 
 - **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson, and Cameron Browne (2022).
+"[The Ludii Game Description Language is Universal](https://arxiv.org/abs/2205.00451)".
+[[pdf]](https://arxiv.org/pdf/2205.00451)
+
+- **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson, and Cameron Browne (2022).
 "[Spatial State-Action Features for General Games](https://arxiv.org/abs/2201.06401)".
 [[pdf]](https://arxiv.org/pdf/2201.06401)
 
