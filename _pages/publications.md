@@ -2,7 +2,7 @@
 title: Publications
 permalink: /publications/
 description: Dennis Soemers' scientific publications.
-last_modified_at: 2022-05-03 10:00:00 +0100
+last_modified_at: 2022-06-09 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -22,6 +22,10 @@ vol. 41, no. 3, pp. 138-142. IOS Press.
 vol. 10, no. 2, pp. 209-220. IEEE. [[pdf]](https://dke.maastrichtuniversity.nl/m.winands/documents/TCIAIG_2pGVGAI.pdf)
 
 # Conference Articles
+
+- Elliot Doe, Mark H.M. Winands, **Dennis J.N.J. Soemers**, and Cameron Browne (2022).
+"Combining Monte-Carlo Tree Search with Proof-Number Search". In *2022 IEEE Conference on Games (CoG 2022)*. Accepted.
+[[pdf preprint]](https://arxiv.org/pdf/2206.03965)
 
 - **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson, and Cameron Browne (2021).
 "Optimised Playout Implementations for the Ludii General Game System". In *Advances in Computer Games (ACG 2021)*. Accepted.
