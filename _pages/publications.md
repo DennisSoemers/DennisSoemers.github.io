@@ -27,16 +27,19 @@ vol. 10, no. 2, pp. 209-220. IEEE. [[pdf]](https://dke.maastrichtuniversity.nl/m
 "Combining Monte-Carlo Tree Search with Proof-Number Search". In *2022 IEEE Conference on Games (CoG 2022)*. Accepted.
 [[pdf preprint]](https://arxiv.org/pdf/2206.03965)
 
-- **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson, and Cameron Browne (2021).
-"Optimised Playout Implementations for the Ludii General Game System". In *Advances in Computer Games (ACG 2021)*. Accepted.
+- **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson, and Cameron Browne (2022).
+"[Optimised Playout Implementations for the Ludii General Game System](https://link.springer.com/chapter/10.1007/978-3-031-11488-5_20)". 
+In *Advances in Computer Games (ACG 2021)*, pp. 223--234. Lecture Notes in Computer Science, vol 13262. Springer, Cham.
 [[pdf preprint]](https://arxiv.org/pdf/2111.02839)
 
-- Matthew Stephenson, Éric Piette, **Dennis J.N.J. Soemers**, and Cameron Browne (2021).
-"Automatic Generation of Board Game Manuals". In *Advances in Computer Games (ACG 2021)*. Accepted.
+- Matthew Stephenson, Éric Piette, **Dennis J.N.J. Soemers**, and Cameron Browne (2022).
+"[Automatic Generation of Board Game Manuals](https://link.springer.com/chapter/10.1007/978-3-031-11488-5_19)". 
+In *Advances in Computer Games (ACG 2021)*, pp. 211--222. Lecture Notes in Computer Science, vol 13262. Springer, Cham.
 [[pdf preprint]](https://arxiv.org/pdf/2109.09507)
 
-- Cameron Browne, Éric Piette, Matthew Stephenson, and **Dennis J.N.J. Soemers** (2021).
-"General Board Geometry". In *Advances in Computer Games (ACG 2021)*. Accepted.
+- Cameron Browne, Éric Piette, Matthew Stephenson, and **Dennis J.N.J. Soemers** (2022).
+"[General Board Geometry](https://link.springer.com/chapter/10.1007/978-3-031-11488-5_21)". 
+In *Advances in Computer Games (ACG 2021)*, pp. 235--246. Lecture Notes in Computer Science, vol 13262. Springer, Cham.
 [[pdf preprint]](https://arxiv.org/pdf/2111.11329)
 
 - Matthew Stephenson, **Dennis J.N.J. Soemers**, Éric Piette, and Cameron Browne (2021).
