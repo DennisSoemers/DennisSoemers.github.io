@@ -28,6 +28,7 @@ I have reviewed papers for the following conferences:
 - International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)
 - European Conference on Artificial Intelligence (**ECAI**)
 - International Conference on Learning Representations (**ICLR**) (**Outstanding/Highlighted Reviewer** [2021](https://iclr.cc/Conferences/2021/Reviewers), [2022](https://iclr.cc/Conferences/2022/Reviewers))
+- International Conference on Machine Learning (**ICML**) (**Outstanding Reviewer** [2022](https://icml.cc/Conferences/2022/Reviewers))
 - International Joint Conference on Artificial Intelligence (**IJCAI**)
 
 # Peer Review - Workshops
