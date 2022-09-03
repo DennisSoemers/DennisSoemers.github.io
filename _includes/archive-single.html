@@ -33,6 +33,16 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
+    {% if post.last_modified_at %}
+	  {% if site.data.ui-text[site.locale].original_date_label != null %}
+		{% if post.date %}
+			<p class="page__meta"><i class="fa fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].original_date_label | default: "Published:" }} <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></p>
+		{% endif %}
+	  {% endif %}
+	  <p class="page__meta"><i class="fa fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }} <time datetime="{{ post.last_modified_at | date_to_xmlschema }}">{{ post.last_modified_at | date: "%B %-d, %Y" }}</time></p>
+	{% elsif post.date %}
+		<p class="page__meta"><i class="fa fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].original_date_label | default: "Published:" }} <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></p>
+	{% endif %}
 	<a href="{{ post.url | relative_url }}" rel="permalink"><img src="{{ post.image }}" align="right" style="max-width:256px;max-height:128px;width: expression(this.width > 256 ? 256: true);height: expression(this.height > 128 ? 128: true);"></a>
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 320 }}</p>{% endif %}
   </article>
