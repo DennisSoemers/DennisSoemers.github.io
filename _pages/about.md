@@ -15,5 +15,5 @@ of Maastricht University.
 
 Within the field of Artificial Intelligence, my main research interests are in Reinforcement Learning, other variants of Machine Learning, and Search/Planning algorithms.
 
-Outside of Artificial Intelligence research, I am also interested in programming languages (pros and cons of different languages), optimizing software (reading things like
+Outside of Artificial Intelligence research, I am also interested in programming languages (pros and cons of different languages), optimising software (reading things like
 ["What Every Programmer Should Know About Memory"](https://www.akkadia.org/drepper/cpumemory.pdf)), gaming, and esports.
