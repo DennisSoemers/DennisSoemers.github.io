@@ -39,7 +39,6 @@
 			<p class="page__meta"><i class="fa fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].original_date_label | default: "Published:" }} <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></p>
 		{% endif %}
 	  {% endif %}
-	  <p class="page__meta"><i class="fa fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }} <time datetime="{{ post.last_modified_at | date_to_xmlschema }}">{{ post.last_modified_at | date: "%B %-d, %Y" }}</time></p>
 	{% elsif post.date %}
 		<p class="page__meta"><i class="fa fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].original_date_label | default: "Published:" }} <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></p>
 	{% endif %}
