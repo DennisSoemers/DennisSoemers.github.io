@@ -33,7 +33,9 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.last_modified_at %}
+	{% if post.start_date %}
+	  <p class="page__meta"><i class="fa fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ "Start date:" }} <time datetime="{{ post.start_date | date_to_xmlschema }}">{{ post.start_date | date: "%B %-d, %Y" }}</time></p>
+    {% elsif post.last_modified_at %}
 	  {% if site.data.ui-text[site.locale].original_date_label != null %}
 		{% if post.date %}
 			<p class="page__meta"><i class="fa fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].original_date_label | default: "Published:" }} <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></p>

@@ -18,7 +18,6 @@ developed by Luisa Zintgraf).
 - Dennis J.N.J. Soemers, Tim Brys, Kurt Driessens, Mark H.M. Winands, and Ann Nowé (2018). 
 "[Adapting to Concept Drift in Credit Card Transaction Data Streams Using Contextual Bandits and Decision Trees](/assets/publications/SoemersCreditCardIAAI.pdf)". 
 In *Thirtieth Annual Conference on Innovative Applications of Artificial Intelligence (IAAI-18)*, pp. 7831-7836. AAAI Press.
-- *More to appear...*
 
 ---
 
