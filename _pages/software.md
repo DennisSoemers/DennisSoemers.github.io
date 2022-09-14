@@ -85,6 +85,12 @@ for linestyles. ([PR#8](https://github.com/google-research/rliable/pull/8))
 ([PR#112](https://github.com/deepmind/open_spiel/pull/112))
 - Python
 
+### HuggingFace Deep RL Class
+
+- Contributed minor clarifications, fixes, and suggestions to the [HuggingFace Deep RL Class](https://github.com/huggingface/deep-rl-class).
+([PR#62](https://github.com/huggingface/deep-rl-class/pull/62), [Issue#66](https://github.com/huggingface/deep-rl-class/issues/66))
+- Jupyter Notebook, Python
+
 ### Multi-MAuS
 
 - Several contributions to the [Multi-MAuS multi-modal authentication simulator](https://github.com/lmzintgraf/MultiMAuS).
