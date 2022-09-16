@@ -5,7 +5,7 @@ description: Scientific/academic/AI activities (other than publications).
 last_modified_at: 2022-09-16 10:00:00 +0100
 ---
 
-This page summarises some of my scientific activies (other than my publications, which are on [their own page](/publications/)).
+This page summarises some of my scientific/academic/AI-related activies (other than my publications, which are on [their own page](/publications/)).
 
 ## Peer Review
 
