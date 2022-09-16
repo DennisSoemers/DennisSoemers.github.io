@@ -7,7 +7,7 @@ last_modified_at: 2022-06-09 10:00:00 +0100
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
 
-# Journal Articles
+## Journal Articles
 
 - **Dennis J.N.J. Soemers**, Vegard Mella, Cameron Browne and Olivier Teytaud (2022). 
 "[Deep Learning for General Game Playing with Ludii and Polygames](https://content.iospress.com/articles/icga-journal/icg220197)".
@@ -21,14 +21,14 @@ vol. 41, no. 3, pp. 138-142. IOS Press.
 (2017). "[The 2016 Two-Player GVGAI Competition](http://ieeexplore.ieee.org/document/8100955/)". *IEEE Transactions on Games*,
 vol. 10, no. 2, pp. 209-220. IEEE. [[pdf]](https://dke.maastrichtuniversity.nl/m.winands/documents/TCIAIG_2pGVGAI.pdf)
 
-# Book Chapters
+## Book Chapters
 
 - Walter Crist, Éric Piette, **Dennis J.N.J. Soemers**, Matthew Stephenson, and Cameron Browne (2023).
 "Computational Approaches for Recognising and Reconstructing Ancient Games: The Case of Ludus Latrunculorum".
 In *The Archaeology of Play : Material Approaches to Games and Gaming in the Ancient World*, (eds. A. Pace,
 T. Penn, U. Schädler), Dremil-Lafage, Mergoil, Monographies Instrumentum, in preparation.
 
-# Conference Articles
+## Conference Articles
 
 - Elliot Doe, Mark H.M. Winands, **Dennis J.N.J. Soemers**, and Cameron Browne (2022).
 "Combining Monte-Carlo Tree Search with Proof-Number Search". In *2022 IEEE Conference on Games (CoG 2022)*. Accepted.
@@ -112,13 +112,13 @@ In *2016 IEEE Conference on Computational Intelligence and Games (CIG 2016)*, pp
 - **Dennis J.N.J. Soemers** and Mark H.M. Winands (2016). "[Hierarchical Task Network Plan Reuse for Video Games](https://ieeexplore.ieee.org/document/7860395)". 
 In *2016 IEEE Conference on Computational Intelligence and Games (CIG 2016)*, pp. 1-8. IEEE. [[pdf]](/assets/publications/CIG2016_HTN.pdf)
 
-# Workshop Articles
+## Workshop Articles
 
 - Cameron Browne, **Dennis J.N.J. Soemers**, and Eric Piette (2019). "[Strategic Features for General Games](http://ceur-ws.org/Vol-2313/)".
 In *Proceedings of the 2nd Workshop on Knowledge Extraction from Games (KEG)*, pp. 70--75. [[pdf]](http://ceur-ws.org/Vol-2313/KEG_2019_paper_8.pdf) 
 [[pdf mirror]](/assets/publications/AAAI_KEG2019_Features.pdf)
 
-# Preprints
+## Preprints
 
 - **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson, and Cameron Browne (2022).
 "[The Ludii Game Description Language is Universal](https://arxiv.org/abs/2205.00451)".
@@ -132,14 +132,14 @@ In *Proceedings of the 2nd Workshop on Knowledge Extraction from Games (KEG)*, p
 "[Transfer of Fully Convolutional Policy-Value Networks Between Games and Game Variants](https://arxiv.org/abs/2102.12375)".
 [[pdf]](https://arxiv.org/pdf/2102.12375)
 
-# National Conference Articles
+## National Conference Articles
 
 - Éric Piette, **Dennis J.N.J. Soemers**, Matthew Stephenson, Chiara F. Sironi, Mark H.M. Winands, and Cameron Browne (2019).
 "[Ludii - Le Système Ludémique de General Game Playing](https://www.researchgate.net/publication/333716838_LUDII_-_Le_Systeme_Ludemique_de_General_Game_Playing)". 
 In *Conférence Nationale en Intelligence Artificielle*. (In French) 
 [[pdf]](https://www.researchgate.net/profile/Eric_Piette/publication/333716838_LUDII_-_Le_Systeme_Ludemique_de_General_Game_Playing/links/5d00626fa6fdccd13093f700/LUDII-Le-Systeme-Ludemique-de-General-Game-Playing.pdf?_sg%5B0%5D=6I-dcxZ40MieQBjWkSNUOeneRSmzp8j533ZEhKBn-F2uExw9iJXQY34vB8l4BB3-vvPcxHS9WWdHXk6uUOWwEw.Jau2YwPYFvNjkvN7MuoFvqirR9DQe6ubRDYAqDm4BOW6lAfEoUgRZcSPLQuF45dwosFuqAXnKRj5S5ajnJZG2Q&_sg%5B1%5D=HxCBph2nNhmvNztGYlLGYD7ISpn0855GRNap-Fse1T0v4IP-aJsQ82-J5SogvS3i8EK_XGWWfNadi97N40qrSBb23L_0C8qX3b_UCsoCxMWu.Jau2YwPYFvNjkvN7MuoFvqirR9DQe6ubRDYAqDm4BOW6lAfEoUgRZcSPLQuF45dwosFuqAXnKRj5S5ajnJZG2Q&_iepl=)
 
-# Reports
+## Reports
 
 - Cameron Browne, **Dennis J. N. J. Soemers**, Éric Piette, Matthew Stephenson, Michael Conrad, Walter Crist, Thierry Depaulis, 
 Eddie Duggan, Fred Horn, Steven Kelk, Simon M. Lucas, João Pedro Neto, David Parlett, Abdallah Saffidine, Ulrich Schädler, 
@@ -147,7 +147,7 @@ Jorge Nuno Silva, Alex de Voogt, and Mark H. M. Winands (2019).
 "[Foundations of Digital Archæoludology](https://arxiv.org/abs/1905.13516)". [Online]. Available:
 [https://arxiv.org/abs/1905.13516](https://arxiv.org/abs/1905.13516). [[pdf]](https://arxiv.org/pdf/1905.13516)
 
-# Theses
+## Theses
 
 - **Dennis J.N.J. Soemers** (2016). "Enhancements for Real-Time Monte-Carlo Tree Search in General Video Game Playing". M.Sc. thesis. 
 Department of Data Science and Knowledge Engineering, Maastricht University, Maastricht, the Netherlands.
@@ -157,7 +157,7 @@ Department of Data Science and Knowledge Engineering, Maastricht University, Maa
 Department of Data Science and Knowledge Engineering, Maastricht University, Maastricht, the Netherlands.
 [[pdf]](/assets/publications/Soemers_BSc-paper.pdf)
 
-# Other
+## Other
 
 - Eric Piette, Lisa Rougetet, Walter Crist, Matthew Stephenson, **Dennis J.N.J. Soemers**, and Cameron Browne (2021). 
 "[A Ludii analysis of the French Military Game](https://bgsparis2020.com/wp-content/uploads/2021/04/LLSHScolloque-livret-liens_2.pdf)". 
