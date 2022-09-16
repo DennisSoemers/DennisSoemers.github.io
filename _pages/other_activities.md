@@ -1,13 +1,15 @@
 ---
-title: Scientific Activities
-permalink: /scientific_activities/
-description: Scientific activities (other than publications).
-last_modified_at: 2022-04-22 10:00:00 +0100
+title: Other Activities
+permalink: /other_activities/
+description: Scientific/academic/AI activities (other than publications).
+last_modified_at: 2022-09-16 10:00:00 +0100
 ---
 
-This page summarizes some of my scientific activies (other than my publications, which are on [their own page](/publications/)).
+This page summarises some of my scientific activies (other than my publications, which are on [their own page](/publications/)).
 
-# Peer Review - Journals
+# Peer Review
+
+## Peer Review - Journals
 
 I have reviewed papers for the following journals:
 
@@ -15,7 +17,7 @@ I have reviewed papers for the following journals:
 - IEEE Transactions on Games (**TOG**)
 - International Computer Games Association Journal (**ICGA**)
 
-# Peer Review - Conferences
+## Peer Review - Conferences
 
 I have reviewed papers for the following conferences:
 
@@ -31,25 +33,28 @@ I have reviewed papers for the following conferences:
 - International Conference on Machine Learning (**ICML**) (**Outstanding Reviewer** [2022](https://icml.cc/Conferences/2022/Reviewers))
 - International Joint Conference on Artificial Intelligence (**IJCAI**)
 
-# Peer Review - Workshops
+## Peer Review - Workshops
 
 I have reviewed papers for the following workshops:
 
 - UK Workshop on Computational Intelligence (**UKCI**)
 - Workshop on Computer Games (**CGW**)
 
-# Teaching
+# Education
 
-- **2019 - 2021**: Assistant Lecturer in *Intelligent Search & Games* course (labs, lecture on MCTS and Deep Learning) at Maastricht University, DKE.
-- **2016 - 2019**: Assistant in *Advanced Concepts in Machine Learning* course (grading presentations and reports) at Maastricht University, DKE.
+- **2019 - 2022**: Assistant Lecturer in *Intelligent Search & Games* course (labs, lecture on MCTS and Deep Learning) at Maastricht University.
+- **2019 - 2022**: Co-supervised and guided several B.Sc. and M.Sc. thesis students, internal and external research internship students, and M.Sc. project groups, at Maastricht University.
+- **2016 - 2019**: Assistant in *Advanced Concepts in Machine Learning* course (grading presentations and reports) at Maastricht University.
 
-# Media Appearances
+# Community
 
-- **August 2019**: Vice wrote 
-[an article](https://www.vice.com/en_us/article/kz483y/scientists-are-discovering-long-lost-rules-for-ancient-board-games)
-on our [Digital Ludeme Project](/projects/DigitalLudemeProject/).
-- **June 2019**: MIT Technology Review wrote 
-[an article](https://www.technologyreview.com/s/613780/machine-learning-is-about-to-revolutionize-the-study-of-ancient-games/?utm_medium=tr_social&utm_source=twitter&utm_campaign=site_visitor.unpaid.engagement) 
-on our [Digital Ludeme Project](/projects/DigitalLudemeProject/).
+- **[Moderator](https://ai.stackexchange.com/users?tab=moderators)** at [https://ai.stackexchange.com/](https://ai.stackexchange.com/) (since 2020).
+- **Top 0.55%** contributor at [https://ai.stackexchange.com/](https://ai.stackexchange.com/).
+- **Top 5%** contributor at [https://stackoverflow.com/](https://stackoverflow.com/).
+
+# Other
+
+## Media Appearances
+
 - **2016**: An article about me winning the [GVGAI Single Player Championship 2016](http://gvgai.net/championship.php?t=2016&t=sp), 
 and Best Student Paper Award at IEEE CIG 2016, appeared in the regional newspaper **De Limburger**.

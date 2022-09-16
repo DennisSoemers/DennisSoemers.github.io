@@ -4,8 +4,8 @@ main:
     url: /awards/
   - title: "Publications"
     url: /publications/
-  - title: "Scientific Activities"
-    url: /scientific_activities/
+  - title: "Other Activities"
+    url: /other_activities/
   - title: "Software"
     url: /software/
   - title: "Posts by Category"

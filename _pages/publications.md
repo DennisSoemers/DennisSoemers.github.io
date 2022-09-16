@@ -21,6 +21,13 @@ vol. 41, no. 3, pp. 138-142. IOS Press.
 (2017). "[The 2016 Two-Player GVGAI Competition](http://ieeexplore.ieee.org/document/8100955/)". *IEEE Transactions on Games*,
 vol. 10, no. 2, pp. 209-220. IEEE. [[pdf]](https://dke.maastrichtuniversity.nl/m.winands/documents/TCIAIG_2pGVGAI.pdf)
 
+# Book Chapters
+
+- Walter Crist, Éric Piette, **Dennis J.N.J. Soemers**, Matthew Stephenson, and Cameron Browne (2023).
+"Computational Approaches for Recognising and Reconstructing Ancient Games: The Case of Ludus Latrunculorum".
+In *The Archaeology of Play : Material Approaches to Games and Gaming in the Ancient World*, (eds. A. Pace,
+T. Penn, U. Schädler), Dremil-Lafage, Mergoil, Monographies Instrumentum, in preparation.
+
 # Conference Articles
 
 - Elliot Doe, Mark H.M. Winands, **Dennis J.N.J. Soemers**, and Cameron Browne (2022).
@@ -50,10 +57,6 @@ In *2021 IEEE Conference on Games (CoG 2021)*, pp. 878--881.
 - Éric Piette, Matthew Stephenson, **Dennis J.N.J. Soemers**, and Cameron Browne (2021).
 "[General Board Game Concepts](https://ieeexplore.ieee.org/document/9618990)". In *2021 IEEE Conference on Games (CoG 2021)*, pp. 932--939. 
 [[pdf preprint]](https://arxiv.org/pdf/2107.01078)
-
-- Eric Piette, Lisa Rougetet, Walter Crist, Matthew Stephenson, **Dennis J.N.J. Soemers**, and Cameron Browne (2021). 
-"[A Ludii analysis of the French Military Game](https://bgsparis2020.com/wp-content/uploads/2021/04/LLSHScolloque-livret-liens_2.pdf)". 
-*Board Game Studies (BGS 2021)*, Paris, France. [[pdf]](/assets/publications/BGS_Submission-French_Military_Game.pdf)
 
 - Cameron Browne, Matthew Stephenson, Éric Piette, and **Dennis J.N.J. Soemers** (2020).
 "[A Practical Introduction to the Ludii General Game System](https://link.springer.com/chapter/10.1007/978-3-030-65883-0_14)".
@@ -115,6 +118,20 @@ In *2016 IEEE Conference on Computational Intelligence and Games (CIG 2016)*, pp
 In *Proceedings of the 2nd Workshop on Knowledge Extraction from Games (KEG)*, pp. 70--75. [[pdf]](http://ceur-ws.org/Vol-2313/KEG_2019_paper_8.pdf) 
 [[pdf mirror]](/assets/publications/AAAI_KEG2019_Features.pdf)
 
+# Preprints
+
+- **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson, and Cameron Browne (2022).
+"[The Ludii Game Description Language is Universal](https://arxiv.org/abs/2205.00451)".
+[[pdf]](https://arxiv.org/pdf/2205.00451)
+
+- **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson, and Cameron Browne (2022).
+"[Spatial State-Action Features for General Games](https://arxiv.org/abs/2201.06401)".
+[[pdf]](https://arxiv.org/pdf/2201.06401)
+
+- **Dennis J.N.J. Soemers**, Vegard Mella, Éric Piette, Matthew Stephenson, Cameron Browne and Olivier Teytaud (2021).
+"[Transfer of Fully Convolutional Policy-Value Networks Between Games and Game Variants](https://arxiv.org/abs/2102.12375)".
+[[pdf]](https://arxiv.org/pdf/2102.12375)
+
 # National Conference Articles
 
 - Éric Piette, **Dennis J.N.J. Soemers**, Matthew Stephenson, Chiara F. Sironi, Mark H.M. Winands, and Cameron Browne (2019).
@@ -142,23 +159,15 @@ Department of Data Science and Knowledge Engineering, Maastricht University, Maa
 
 # Other
 
-- **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson, and Cameron Browne (2022).
-"[The Ludii Game Description Language is Universal](https://arxiv.org/abs/2205.00451)".
-[[pdf]](https://arxiv.org/pdf/2205.00451)
-
-- **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson, and Cameron Browne (2022).
-"[Spatial State-Action Features for General Games](https://arxiv.org/abs/2201.06401)".
-[[pdf]](https://arxiv.org/pdf/2201.06401)
-
-- **Dennis J.N.J. Soemers**, Vegard Mella, Éric Piette, Matthew Stephenson, Cameron Browne and Olivier Teytaud (2021).
-"[Transfer of Fully Convolutional Policy-Value Networks Between Games and Game Variants](https://arxiv.org/abs/2102.12375)".
-[[pdf]](https://arxiv.org/pdf/2102.12375)
+- Eric Piette, Lisa Rougetet, Walter Crist, Matthew Stephenson, **Dennis J.N.J. Soemers**, and Cameron Browne (2021). 
+"[A Ludii analysis of the French Military Game](https://bgsparis2020.com/wp-content/uploads/2021/04/LLSHScolloque-livret-liens_2.pdf)". 
+*Board Game Studies (BGS 2021)*, Paris, France. [[pdf]](/assets/publications/BGS_Submission-French_Military_Game.pdf)
 
 - Éric Piette, Cameron Browne and **Dennis J.N.J. Soemers** (2021). "[Ludii Game Logic Guide](https://arxiv.org/abs/2101.02120)".
 [[pdf]](https://arxiv.org/pdf/2101.02120)
 
 - **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson and Cameron Browne (August 12, 2019). 
-"[Ludii User Guide](https://www.ludii.games/LudiiUserGuide-0.2.0.pdf)". Pre-release version.
+"[Ludii User Guide](https://ludii.games/downloads/LudiiUserGuide.pdf)".
 
 - **Dennis J.N.J. Soemers**, Chiara F. Sironi, Torsten Schuster, and Mark H.M. Winands (2016). 
 "[Enhancements for Real-Time Monte-Carlo Tree Search in General Video Game Playing](http://bnaic2016.cs.vu.nl/index.php/proceedings)". 
