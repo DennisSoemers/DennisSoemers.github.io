@@ -2,7 +2,7 @@
 title: Publications
 permalink: /publications/
 description: Dennis Soemers' scientific publications.
-last_modified_at: 2022-09-27 10:00:00 +0100
+last_modified_at: 2022-10-13 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -15,11 +15,11 @@ This page lists all of my scientific publications. They are sorted by publicatio
 
 - **Dennis J.N.J. Soemers**, Walter Crist and Cameron Browne (2019).
 "[Report on the Digital Ludeme Project](https://content.iospress.com/articles/icga-journal/icg190118)". *ICGA Journal*,
-vol. 41, no. 3, pp. 138-142. IOS Press.
+vol. 41, no. 3, pp. 138--142. IOS Press.
 
 - Raluca D. Gaina, Adrian Couëtoux, **Dennis J.N.J. Soemers**, Mark H.M. Winands, Tom Vodopivec, Florian Kirchgeßner, Jialin Liu, Simon M. Lucas, and Diego Pérez-Liébana 
 (2017). "[The 2016 Two-Player GVGAI Competition](http://ieeexplore.ieee.org/document/8100955/)". *IEEE Transactions on Games*,
-vol. 10, no. 2, pp. 209-220. IEEE. [[pdf]](https://dke.maastrichtuniversity.nl/m.winands/documents/TCIAIG_2pGVGAI.pdf)
+vol. 10, no. 2, pp. 209--220. IEEE. [[pdf]](https://dke.maastrichtuniversity.nl/m.winands/documents/TCIAIG_2pGVGAI.pdf)
 
 ## Book Chapters
 
@@ -31,7 +31,8 @@ T. Penn, U. Schädler), Dremil-Lafage, Mergoil, Monographies Instrumentum, in pr
 ## Conference Articles
 
 - Elliot Doe, Mark H.M. Winands, **Dennis J.N.J. Soemers**, and Cameron Browne (2022).
-"Combining Monte-Carlo Tree Search with Proof-Number Search". In *2022 IEEE Conference on Games (CoG 2022)*. Accepted.
+"[Combining Monte-Carlo Tree Search with Proof-Number Search](https://ieeexplore.ieee.org/document/9893635)". 
+In *2022 IEEE Conference on Games (CoG 2022)*, pp. 206--212.
 [[pdf preprint]](https://arxiv.org/pdf/2206.03965)
 
 - **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson, and Cameron Browne (2022).
