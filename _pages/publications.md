@@ -2,12 +2,16 @@
 title: Publications
 permalink: /publications/
 description: Dennis Soemers' scientific publications.
-last_modified_at: 2022-10-13 10:00:00 +0100
+last_modified_at: 2022-10-18 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
 
 ## Journal Articles
+
+- Cameron Browne, Éric Piette, Walter Crist, Matthew Stephenson and **Dennis J.N.J. Soemers** (2022).
+"[Report on the 2nd Digital Ludeme Project Workshop](https://content.iospress.com/articles/icga-journal/icg220211)".
+*ICGA Journal*, vol. 44, no. 2, pp. 56--66. IOS Press.
 
 - **Dennis J.N.J. Soemers**, Vegard Mella, Cameron Browne and Olivier Teytaud (2022). 
 "[Deep Learning for General Game Playing with Ludii and Polygames](https://content.iospress.com/articles/icga-journal/icg220197)".
