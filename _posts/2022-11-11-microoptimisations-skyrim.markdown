@@ -35,9 +35,9 @@ on the performance of scripts.
 ### Fixed Papyrus Budget per Frame
 
 One of the main things to know about the engine is that 
-**the game engine has a fixed time budget that it allocates for running any active Papyrus scripts per frame**. By
+**the game engine has a fixed time budget that it allocates for running active Papyrus scripts on the main thread per frame**. By
 default this budget is 1.2ms per frame, but this can (probably) be edited by tweaking a setting in the game's .ini
-file (which I don't think I would recommend doing). That is 1.2 milliseconds per frame for **all** actively running
+file (which I don't think I would recommend doing). That is 1.2 milliseconds per frame for **all** synced native calls from actively running
 scripts in that frame combined, it's not *per* script. The game engine will distribute this time a bit over all active
 scripts, but not let them use any more time. It prefers for scripts to take longer and get spread out over multiple frames,
 [rather than allowing heavy scripts to spend more time and cause the game's framerate to be lowered](https://www.creationkit.com/index.php?title=Differences_from_Previous_Scripting#Performance).
