@@ -79,7 +79,7 @@ about working with Papyrus in Skyrim that make profiling less interesting, and j
 interesting:
 1. Real-world code (i.e., scripts in mods or in the base game) are generally very short and fast (in terms of wall time), making the accuracy
 of timings a bit questionable. If you artificially make them slower (e.g., by taking the same code you would realistically only want to run
-once, but putting repeating it many times in a loop) such that you actually have something to measure, you start hitting a bunch of limitations
+once, but repeating it many times in a loop) such that you actually have something to measure, you start hitting a bunch of limitations
 caused by the different budgets described above that you wouldn't have hit otherwise.
 2. Even if something is already very fast, micro-optimisations may still be worth it because they can stop your scripts from negatively affecting
 other scripts. Due to the various budgets that the engine uses, there can be "sudden" effects, where even a single instruction more or less can 
