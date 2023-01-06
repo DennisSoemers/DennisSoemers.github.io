@@ -9,9 +9,9 @@ This page lists all of my scientific publications. They are sorted by publicatio
 
 ## Journal Articles
 
-- **Dennis J.N.J. Soemers**, Spyridon Samothrakis, Éric Piette and Matthew Stephenson (2022).
-"[Extracting Tactics Learned from Self-Play in General Games](https://doi-org.mu.idm.oclc.org/10.1016/j.ins.2022.12.080)".
-*Information Sciences*. Elsevier. In press.
+- **Dennis J.N.J. Soemers**, Spyridon Samothrakis, Éric Piette and Matthew Stephenson (2023).
+"[Extracting Tactics Learned from Self-Play in General Games](https://doi.org/10.1016/j.ins.2022.12.080)".
+*Information Sciences*, vol. 624, pp. 277--298. Elsevier.
 
 - Cameron Browne, Éric Piette, Walter Crist, Matthew Stephenson and **Dennis J.N.J. Soemers** (2022).
 "[Report on the 2nd Digital Ludeme Project Workshop](https://content.iospress.com/articles/icga-journal/icg220211)".
