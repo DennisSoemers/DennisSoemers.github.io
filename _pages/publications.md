@@ -171,6 +171,10 @@ Department of Data Science and Knowledge Engineering, Maastricht University, Maa
 
 ## Other
 
+- Walter Crist, Cameron Browne and **Dennis J.N.J. Soemers** (2022).
+"Spelen uit de klassieke oudheide reconstrueren: het Digital Ludeme Project".
+*Hermeneus*, vol. 94(4), pp. 7--15. Nederlands Klassiek Verbond. In Dutch.
+
 - Eric Piette, Lisa Rougetet, Walter Crist, Matthew Stephenson, **Dennis J.N.J. Soemers**, and Cameron Browne (2021). 
 "[A Ludii analysis of the French Military Game](https://bgsparis2020.com/wp-content/uploads/2021/04/LLSHScolloque-livret-liens_2.pdf)". 
 *Board Game Studies (BGS 2021)*, Paris, France. [[pdf]](/assets/publications/BGS_Submission-French_Military_Game.pdf)
