@@ -24,7 +24,7 @@ I have reviewed papers for the following conferences:
 - AAAI Conference on Artificial Intelligence (**AAAI**)
 - Advances in Computer Games (**ACG**)
 - Artificial Intelligence and Interactive Digital Entertainment (**AIIDE**)
-- Conference o Games (**CG**)
+- Conference on Games (**CG**)
 - Conference on Neural Information Processing Systems (**NeurIPS**)
 - European Conference on Artificial Intelligence (**ECAI**)
 - Foundations of Digital Games (**FDG**)
