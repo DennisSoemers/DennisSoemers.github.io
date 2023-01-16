@@ -2,7 +2,7 @@
 title: Other Activities
 permalink: /other_activities/
 description: Scientific/academic/AI activities (other than publications).
-last_modified_at: 2022-09-16 10:00:00 +0100
+last_modified_at: 2023-01-16 10:00:00 +0100
 ---
 
 This page summarises some of my scientific/academic/AI-related activies (other than my publications, which are on [their own page](/publications/)).
@@ -24,11 +24,13 @@ I have reviewed papers for the following conferences:
 - AAAI Conference on Artificial Intelligence (**AAAI**)
 - Advances in Computer Games (**ACG**)
 - Artificial Intelligence and Interactive Digital Entertainment (**AIIDE**)
+- Conference o Games (**CG**)
 - Conference on Neural Information Processing Systems (**NeurIPS**)
+- European Conference on Artificial Intelligence (**ECAI**)
+- Foundations of Digital Games (**FDG**)
 - IEEE Conference on Games (**CoG**)
 - IEEE Symposium Series on Computational Intelligence (**SSCI**)
 - International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)
-- European Conference on Artificial Intelligence (**ECAI**)
 - International Conference on Learning Representations (**ICLR**) (**Outstanding/Highlighted Reviewer** [2021](https://iclr.cc/Conferences/2021/Reviewers), [2022](https://iclr.cc/Conferences/2022/Reviewers))
 - International Conference on Machine Learning (**ICML**) (**Outstanding Reviewer** [2022](https://icml.cc/Conferences/2022/Reviewers))
 - International Joint Conference on Artificial Intelligence (**IJCAI**)
