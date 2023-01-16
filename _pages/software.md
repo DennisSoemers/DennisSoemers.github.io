@@ -2,7 +2,7 @@
 title: Software
 permalink: /software/
 description: Dennis Soemers' software contributions.
-last_modified_at: 2022-09-11 10:00:00 +0100
+last_modified_at: 2023-01-16 10:00:00 +0100
 ---
 
 This page lists the core pieces of software that I have substantially contributed to, as well as other (often smaller) contributions to other open-source projects.
@@ -69,6 +69,13 @@ and [CommonLibSSE-NG](https://github.com/CharmedBaryon/CommonLibSSE-NG), which h
 - **Tech stack**: C++, CMake, vcpkg, Git
 - **Source code**: [https://github.com/DennisSoemers/PAPER](https://github.com/DennisSoemers/PAPER)
 
+### Papyrus Profiler
+
+I developed a DLL plugin for The Elder Scrolls V: Skyrim, which lets users profile scripts written in the game's Papyrus scripting language by collecting data on all Papyrus function calls in the game. It is built on top of the [Skyrim Script Extender](http://skse.silverlock.org/)
+and [CommonLibSSE-NG](https://github.com/CharmedBaryon/CommonLibSSE-NG), which have reverse-engineered substantial portions of the game's executable.
+
+- **Tech stack**: C++, CMake, vcpkg, Git
+- **Source code**: [https://github.com/DennisSoemers/PapyrusProfiler](https://github.com/DennisSoemers/PapyrusProfiler)
 
 
 ## Other Open-Source Contributions
