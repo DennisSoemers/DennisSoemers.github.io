@@ -2,7 +2,7 @@
 title: Publications
 permalink: /publications/
 description: Dennis Soemers' scientific publications.
-last_modified_at: 2022-10-18 10:00:00 +0100
+last_modified_at: 2023-01-16 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -37,6 +37,10 @@ In *The Archaeology of Play : Material Approaches to Games and Gaming in the Anc
 T. Penn, U. Schädler), Dremil-Lafage, Mergoil, Monographies Instrumentum, in preparation.
 
 ## Conference Articles
+
+- Matthew Stephenson, **Dennis J.N.J. Soemers**, Éric Piette, and Cameron Browne (2023).
+"Measuring Board Game Distance". In *Computers and Games 2022 (CG 2022)*. Accepted.
+[[pdf preprint]](https://arxiv.org/pdf/2301.03913)
 
 - Elliot Doe, Mark H.M. Winands, **Dennis J.N.J. Soemers**, and Cameron Browne (2022).
 "[Combining Monte-Carlo Tree Search with Proof-Number Search](https://ieeexplore.ieee.org/document/9893635)". 
