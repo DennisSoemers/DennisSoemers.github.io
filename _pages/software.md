@@ -27,6 +27,7 @@ I worked on this during my PhD.
 - **Main/sole developer** for several **subprojects**:
 	- [Ludii Example AI](https://github.com/Ludeme/LudiiExampleAI) (Java)
 	- [Ludii Python AI](https://github.com/Ludeme/LudiiPythonAI) (Python, Java)
+	- [Ludii C++ AI](https://github.com/Ludeme/Ludii_AI_Cpp) (C++, Java, Java Native Interface)
 	- [Ludii Tutorials](https://ludiitutorials.readthedocs.io/en/latest/) (ReadTheDocs) ([source code](https://github.com/Ludeme/LudiiTutorials))
 
 ### Ludii + Polygames Bridge
