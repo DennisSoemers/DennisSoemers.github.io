@@ -2,7 +2,7 @@
 title: Other Activities
 permalink: /other_activities/
 description: Scientific/academic/AI activities (other than publications).
-last_modified_at: 2023-01-16 10:00:00 +0100
+last_modified_at: 2023-02-07 10:00:00 +0100
 ---
 
 This page summarises some of my scientific/academic/AI-related activies (other than my publications, which are on [their own page](/publications/)).
@@ -50,6 +50,7 @@ I have reviewed papers for the following workshops:
 
 ## Community
 
+- **Tutor** at the **[Women in Data Science Maastricht Datathon 2023](https://www.maastrichtuniversity.nl/wids-maastricht-datathon-2023-team)**.
 - **[Moderator](https://ai.stackexchange.com/users?tab=moderators)** at [https://ai.stackexchange.com/](https://ai.stackexchange.com/) (since 2020).
 - **Top 0.55%** contributor at [https://ai.stackexchange.com/](https://ai.stackexchange.com/).
 - **Top 5%** contributor at [https://stackoverflow.com/](https://stackoverflow.com/).
