@@ -138,8 +138,8 @@ In *Proceedings of the 2nd Workshop on Knowledge Extraction from Games (KEG)*, p
 ## Preprints
 
 - Elliot Doe, Mark H.M. Winands, Jakub Kowalski, **Dennis J.N.J. Soemers**, Daniel Górski, and Cameron Browne (2023).
-- "[Proof Number Based Monte-Carlo Tree Search](https://arxiv.org/abs/2303.09449)".
-- [[pdf]](https://arxiv.org/pdf/2303.09449)
+"[Proof Number Based Monte-Carlo Tree Search](https://arxiv.org/abs/2303.09449)".
+[[pdf]](https://arxiv.org/pdf/2303.09449)
 
 - Walter Crist and **Dennis J.N.J. Soemers** (2022).
 "[The Digital Ludeme Project: Combining Archaeological and Computational Methods for the Study of Ancient Board Games](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4225771)".
