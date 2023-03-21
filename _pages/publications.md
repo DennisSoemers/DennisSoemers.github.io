@@ -2,7 +2,7 @@
 title: Publications
 permalink: /publications/
 description: Dennis Soemers' scientific publications.
-last_modified_at: 2023-01-16 10:00:00 +0100
+last_modified_at: 2023-03-21 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -136,6 +136,10 @@ In *Proceedings of the 2nd Workshop on Knowledge Extraction from Games (KEG)*, p
 [[pdf mirror]](/assets/publications/AAAI_KEG2019_Features.pdf)
 
 ## Preprints
+
+- Elliot Doe, Mark H.M. Winands, Jakub Kowalski, **Dennis J.N.J. Soemers**, Daniel Górski, and Cameron Browne (2023).
+- "[Proof Number Based Monte-Carlo Tree Search](https://arxiv.org/abs/2303.09449)".
+- [[pdf]](https://arxiv.org/pdf/2303.09449)
 
 - Walter Crist and **Dennis J.N.J. Soemers** (2022).
 "[The Digital Ludeme Project: Combining Archaeological and Computational Methods for the Study of Ancient Board Games](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4225771)".
