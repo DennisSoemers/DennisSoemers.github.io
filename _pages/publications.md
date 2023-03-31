@@ -2,7 +2,7 @@
 title: Publications
 permalink: /publications/
 description: Dennis Soemers' scientific publications.
-last_modified_at: 2023-03-21 10:00:00 +0100
+last_modified_at: 2023-03-31 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -172,6 +172,9 @@ Jorge Nuno Silva, Alex de Voogt, and Mark H. M. Winands (2019).
 [https://arxiv.org/abs/1905.13516](https://arxiv.org/abs/1905.13516). [[pdf]](https://arxiv.org/pdf/1905.13516)
 
 ## Theses
+
+- **Dennis J.N.J. Soemers** (2023). "[Learning State-Action Features for General Game Playing](http://doi.org/10.26481/dis.20230425ds)". Ph.D. thesis.
+Department of Advanced Computing Sciences, Maastricht University, Maastricht, the Netherlands.
 
 - **Dennis J.N.J. Soemers** (2016). "Enhancements for Real-Time Monte-Carlo Tree Search in General Video Game Playing". M.Sc. thesis. 
 Department of Data Science and Knowledge Engineering, Maastricht University, Maastricht, the Netherlands.
