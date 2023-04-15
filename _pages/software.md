@@ -2,7 +2,7 @@
 title: Software
 permalink: /software/
 description: Dennis Soemers' software contributions.
-last_modified_at: 2023-01-16 10:00:00 +0100
+last_modified_at: 2023-04-15 10:00:00 +0100
 ---
 
 This page lists the core pieces of software that I have substantially contributed to, as well as other (often smaller) contributions to other open-source projects.
@@ -77,6 +77,11 @@ and [CommonLibSSE-NG](https://github.com/CharmedBaryon/CommonLibSSE-NG), which h
 
 - **Tech stack**: C++, CMake, vcpkg, Git
 - **Source code**: [https://github.com/DennisSoemers/PapyrusProfiler](https://github.com/DennisSoemers/PapyrusProfiler)
+- Used by myself and numerous other people to identify and fix bugs and performance issues in scripts from the official game as well as third-party mods. Examples include:
+	- [Interesting NPCs (3DNPC) Script Optimisation - barbasdialoguedetect](https://www.nexusmods.com/skyrimspecialedition/mods/87245)
+	- [DLC2TribalWerebearScript Fix](https://www.nexusmods.com/skyrimspecialedition/mods/88208)
+	- [DLC2dunNchardakDoorSeal Script Infinite Loop Fix](https://www.nexusmods.com/skyrimspecialedition/mods/88843)
+	- [Optimised Scripts for XPMSSE](https://www.nexusmods.com/skyrimspecialedition/mods/82774)
 
 
 ## Other Open-Source Contributions
