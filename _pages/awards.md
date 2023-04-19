@@ -2,9 +2,10 @@
 title: Awards
 permalink: /awards/
 description: Awards received by Dennis Soemers.
-last_modified_at: 2022-08-14 14:00:00 +0100
+last_modified_at: 2023-04-19 10:00:00 +0100
 ---
 
+- **April 2023** - [Notable Reviewer for ICLR 2023](https://iclr.cc/Conferences/2023/Reviewers).
 - **July 2022** - [Outstanding Reviewer (Top 10%) for ICML 2022](https://icml.cc/Conferences/2022/Reviewers).
 - **May 2022** - [Highlighted Reviewer for ICLR 2022](https://iclr.cc/Conferences/2022/Reviewers).
 - **May 2021** - [Outstanding Reviewer for ICLR 2021](https://iclr.cc/Conferences/2021/Reviewers).
