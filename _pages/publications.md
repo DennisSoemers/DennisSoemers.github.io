@@ -2,12 +2,16 @@
 title: Publications
 permalink: /publications/
 description: Dennis Soemers' scientific publications.
-last_modified_at: 2023-03-31 10:00:00 +0100
+last_modified_at: 2023-04-19 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
 
 ## Journal Articles
+
+- Walter Crist and **Dennis J.N.J. Soemers** (2022).
+"[The Digital Ludeme Project: Combining Archaeological and Computational Methods for the Study of Ancient Board Games](https://doi-org.mu.idm.oclc.org/10.1016/j.jasrep.2023.104005)".
+*Journal of Archaeological Science: Reports*, vol 49. Elsevier.
 
 - **Dennis J.N.J. Soemers**, Spyridon Samothrakis, Éric Piette and Matthew Stephenson (2023).
 "[Extracting Tactics Learned from Self-Play in General Games](https://doi.org/10.1016/j.ins.2022.12.080)".
@@ -140,9 +144,6 @@ In *Proceedings of the 2nd Workshop on Knowledge Extraction from Games (KEG)*, p
 - Elliot Doe, Mark H.M. Winands, Jakub Kowalski, **Dennis J.N.J. Soemers**, Daniel Górski, and Cameron Browne (2023).
 "[Proof Number Based Monte-Carlo Tree Search](https://arxiv.org/abs/2303.09449)".
 [[pdf]](https://arxiv.org/pdf/2303.09449)
-
-- Walter Crist and **Dennis J.N.J. Soemers** (2022).
-"[The Digital Ludeme Project: Combining Archaeological and Computational Methods for the Study of Ancient Board Games](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4225771)".
 
 - **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson, and Cameron Browne (2022).
 "[The Ludii Game Description Language is Universal](https://arxiv.org/abs/2205.00451)".
