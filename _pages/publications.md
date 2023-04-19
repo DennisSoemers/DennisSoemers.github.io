@@ -10,7 +10,7 @@ This page lists all of my scientific publications. They are sorted by publicatio
 ## Journal Articles
 
 - Walter Crist and **Dennis J.N.J. Soemers** (2022).
-"[The Digital Ludeme Project: Combining Archaeological and Computational Methods for the Study of Ancient Board Games](https://doi-org.mu.idm.oclc.org/10.1016/j.jasrep.2023.104005)".
+"[The Digital Ludeme Project: Combining Archaeological and Computational Methods for the Study of Ancient Board Games](https://doi.org/10.1016/j.jasrep.2023.104005)".
 *Journal of Archaeological Science: Reports*, vol 49. Elsevier.
 
 - **Dennis J.N.J. Soemers**, Spyridon Samothrakis, Éric Piette and Matthew Stephenson (2023).
