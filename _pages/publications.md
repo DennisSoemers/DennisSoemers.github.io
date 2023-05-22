@@ -2,14 +2,18 @@
 title: Publications
 permalink: /publications/
 description: Dennis Soemers' scientific publications.
-last_modified_at: 2023-04-19 10:00:00 +0100
+last_modified_at: 2023-05-22 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
 
 ## Journal Articles
 
-- Walter Crist and **Dennis J.N.J. Soemers** (2022).
+- **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson and Cameron Browne (2023).
+"[Spatial State-Action Features for General Games](https://doi.org/10.1016/j.artint.2023.103937)".
+*Artificial Intelligence*, vol. 321. Elsevier.
+
+- Walter Crist and **Dennis J.N.J. Soemers** (2023).
 "[The Digital Ludeme Project: Combining Archaeological and Computational Methods for the Study of Ancient Board Games](https://doi.org/10.1016/j.jasrep.2023.104005)".
 *Journal of Archaeological Science: Reports*, vol 49. Elsevier.
 
@@ -148,10 +152,6 @@ In *Proceedings of the 2nd Workshop on Knowledge Extraction from Games (KEG)*, p
 - **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson, and Cameron Browne (2022).
 "[The Ludii Game Description Language is Universal](https://arxiv.org/abs/2205.00451)".
 [[pdf]](https://arxiv.org/pdf/2205.00451)
-
-- **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson, and Cameron Browne (2022).
-"[Spatial State-Action Features for General Games](https://arxiv.org/abs/2201.06401)".
-[[pdf]](https://arxiv.org/pdf/2201.06401)
 
 - **Dennis J.N.J. Soemers**, Vegard Mella, Éric Piette, Matthew Stephenson, Cameron Browne and Olivier Teytaud (2021).
 "[Transfer of Fully Convolutional Policy-Value Networks Between Games and Game Variants](https://arxiv.org/abs/2102.12375)".
