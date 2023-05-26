@@ -2,7 +2,7 @@
 title: Publications
 permalink: /publications/
 description: Dennis Soemers' scientific publications.
-last_modified_at: 2023-05-22 10:00:00 +0100
+last_modified_at: 2023-05-26 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -41,13 +41,15 @@ vol. 10, no. 2, pp. 209--220. IEEE. [[pdf]](https://dke.maastrichtuniversity.nl/
 
 - Walter Crist, Éric Piette, **Dennis J.N.J. Soemers**, Matthew Stephenson, and Cameron Browne (2023).
 "Computational Approaches for Recognising and Reconstructing Ancient Games: The Case of Ludus Latrunculorum".
-In *The Archaeology of Play : Material Approaches to Games and Gaming in the Ancient World*, (eds. A. Pace,
+In *The Archaeology of Play: Material Approaches to Games and Gaming in the Ancient World*, (eds. A. Pace,
 T. Penn, U. Schädler), Dremil-Lafage, Mergoil, Monographies Instrumentum, in preparation.
 
 ## Conference Articles
 
 - Matthew Stephenson, **Dennis J.N.J. Soemers**, Éric Piette, and Cameron Browne (2023).
-"Measuring Board Game Distance". In *Computers and Games 2022 (CG 2022)*. Accepted.
+"[Measuring Board Game Distance](https://link.springer.com/chapter/10.1007/978-3-031-34017-8_11)". 
+In Browne, C., Kishimoto, A, and Schaeffer, J., editors, *Computers and Games 2022 (CG 2022)*, pp. 121--130.
+Lecture Notes in Computer Science, vol 13865. Springer, Cham.
 [[pdf preprint]](https://arxiv.org/pdf/2301.03913)
 
 - Elliot Doe, Mark H.M. Winands, **Dennis J.N.J. Soemers**, and Cameron Browne (2022).
