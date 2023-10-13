@@ -2,10 +2,17 @@
 title: Other Activities
 permalink: /other_activities/
 description: Scientific/academic/AI activities (other than publications).
-last_modified_at: 2023-09-08 10:00:00 +0100
+last_modified_at: 2023-10-13 10:00:00 +0100
 ---
 
 This page summarises some of my scientific/academic/AI-related activies (other than my publications, which are on [their own page](/publications/)).
+
+## Education
+
+- **2023**: Lecturer in *Stochastic Decision Making* course (Master's program) at Maastricht University.
+- **2019 - 2023**: Lecturer in *Intelligent Search & Games* course (Master's program) at Maastricht University.
+- **2019 - 2023**: Co-supervised and guided several B.Sc. and M.Sc. thesis students, internal and external research internship students, and M.Sc. project groups, at Maastricht University.
+- **2016 - 2019**: Assistant in *Advanced Concepts in Machine Learning* course (grading presentations and reports) at Maastricht University.
 
 ## Peer Review
 
@@ -41,13 +48,6 @@ I have reviewed papers for the following workshops:
 
 - UK Workshop on Computational Intelligence (**UKCI**)
 - Workshop on Computer Games (**CGW**)
-
-## Education
-
-- **2023**: Lecturer in *Stochastic Decision Making* course (Master's program) at Maastricht University.
-- **2019 - 2023**: Lecturer in *Intelligent Search & Games* course (Master's program) at Maastricht University.
-- **2019 - 2023**: Co-supervised and guided several B.Sc. and M.Sc. thesis students, internal and external research internship students, and M.Sc. project groups, at Maastricht University.
-- **2016 - 2019**: Assistant in *Advanced Concepts in Machine Learning* course (grading presentations and reports) at Maastricht University.
 
 ## Community
 
