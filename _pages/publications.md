@@ -10,8 +10,8 @@ This page lists all of my scientific publications. They are sorted by publicatio
 ## Journal Articles
 
 - Éric Piette, **Dennis J.N.J. Soemers**, Matthew Stephenson and Cameron Browne (2023).
-- "[The 20222 Ludii AI competition](https://content.iospress.com/articles/icga-journal/icg230230)".
-- *ICGA Journal*, vol. 45, no. 1, pp. 16--27. IOS Press.
+"[The 20222 Ludii AI competition](https://content.iospress.com/articles/icga-journal/icg230230)".
+*ICGA Journal*, vol. 45, no. 1, pp. 16--27. IOS Press.
 
 - **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson and Cameron Browne (2023).
 "[Spatial State-Action Features for General Games](https://doi.org/10.1016/j.artint.2023.103937)".
