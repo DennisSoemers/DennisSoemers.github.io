@@ -21,7 +21,7 @@ This page summarises some of my scientific/academic/AI-related activities (other
 
 ## Grants
 
-- Co-applicant for [COST Action CA22145: Computational Techniques for Tabletop Games Heritage (GameTable)](https://www.cost.eu/actions/CA22145/) (**~600,000 euros** over 4 years, awarded on **12/05/2023**)
+- Secondary proposer for [COST Action CA22145: Computational Techniques for Tabletop Games Heritage (GameTable)](https://www.cost.eu/actions/CA22145/) (**~600,000 euros** over 4 years, awarded on **12/05/2023**)
 
 ## Peer Review
 
