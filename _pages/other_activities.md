@@ -2,7 +2,7 @@
 title: Other Activities
 permalink: /other_activities/
 description: Scientific/academic/AI activities (other than publications).
-last_modified_at: 2023-11-14 10:00:00 +0100
+last_modified_at: 2023-11-22 10:00:00 +0100
 ---
 
 This page summarises some of my scientific/academic/AI-related activities (other than my publications, which are on [their own page](/publications/)).
@@ -41,7 +41,7 @@ I have reviewed papers for the following conferences:
 - Advances in Computer Games (**ACG**)
 - Artificial Intelligence and Interactive Digital Entertainment (**AIIDE**)
 - Conference on Games (**CG**)
-- Conference on Neural Information Processing Systems (**NeurIPS**)
+- Conference on Neural Information Processing Systems (**NeurIPS**) (**Top Reviewer** [2023](https://neurips.cc/Conferences/2023/ProgramCommittee#top-reivewers))
 - European Conference on Artificial Intelligence (**ECAI**)
 - Foundations of Digital Games (**FDG**)
 - IEEE Conference on Games (**CoG**)
