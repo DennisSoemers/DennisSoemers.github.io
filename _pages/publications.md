@@ -2,12 +2,16 @@
 title: Publications
 permalink: /publications/
 description: Dennis Soemers' scientific publications.
-last_modified_at: 2023-11-15 10:00:00 +0100
+last_modified_at: 2023-12-8 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
 
 ## Journal Articles
+
+- **Dennis J.N.J. Soemers**, Vegard Mella, Éric Piette, Matthew Stephenson, Cameron Browne and Olivier Teytaud (2023).
+"[Towards a General Transfer Approach for Policy-Value Networks](https://openreview.net/forum?id=vJcTm2v9Ku)".
+*Transactions on Machine Learning Research*.
 
 - Éric Piette, **Dennis J.N.J. Soemers**, Matthew Stephenson and Cameron Browne (2023).
 "[The 2022 Ludii AI competition](https://content.iospress.com/articles/icga-journal/icg230230)".
@@ -162,10 +166,6 @@ In *Proceedings of the 2nd Workshop on Knowledge Extraction from Games (KEG)*, p
 - **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson, and Cameron Browne (2022).
 "[The Ludii Game Description Language is Universal](https://arxiv.org/abs/2205.00451)".
 [[pdf]](https://arxiv.org/pdf/2205.00451)
-
-- **Dennis J.N.J. Soemers**, Vegard Mella, Éric Piette, Matthew Stephenson, Cameron Browne and Olivier Teytaud (2021).
-"[Transfer of Fully Convolutional Policy-Value Networks Between Games and Game Variants](https://arxiv.org/abs/2102.12375)".
-[[pdf]](https://arxiv.org/pdf/2102.12375)
 
 ## National Conference Articles
 
