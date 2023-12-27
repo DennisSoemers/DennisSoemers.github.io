@@ -159,9 +159,9 @@ In *Proceedings of the 2nd Workshop on Knowledge Extraction from Games (KEG)*, p
 
 ## Preprints
 
-- Elliot Doe, Mark H.M. Winands, Jakub Kowalski, **Dennis J.N.J. Soemers**, Daniel Górski, and Cameron Browne (2023).
+- Jakub Kowalski, Elliot Doe, Mark H.M. Winands, Daniel Górski, and **Dennis J.N.J. Soemers** (2023).
 "[Proof Number Based Monte-Carlo Tree Search](https://arxiv.org/abs/2303.09449)".
-[[pdf]](https://arxiv.org/pdf/2303.09449)
+[[pdf]](https://arxiv.org/pdf/2303.09449.pdf)
 
 - **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson, and Cameron Browne (2022).
 "[The Ludii Game Description Language is Universal](https://arxiv.org/abs/2205.00451)".
