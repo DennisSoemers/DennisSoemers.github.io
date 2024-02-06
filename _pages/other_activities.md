@@ -2,17 +2,24 @@
 title: Other Activities
 permalink: /other_activities/
 description: Scientific/academic/AI activities (other than publications).
-last_modified_at: 2023-11-22 10:00:00 +0100
+last_modified_at: 2024-02-06 10:00:00 +0100
 ---
 
 This page summarises some of my scientific/academic/AI-related activities (other than my publications, which are on [their own page](/publications/)).
 
 ## Education
 
+### Courses
+
 - **2023**: Lecturer in *Stochastic Decision Making* course (Master's program) at Maastricht University.
 - **2019 - 2023**: Lecturer in *Intelligent Search & Games* course (Master's program) at Maastricht University.
 - **2019 - 2023**: Co-supervised and guided several B.Sc. and M.Sc. thesis students, internal and external research internship students, and M.Sc. project groups, at Maastricht University.
 - **2016 - 2019**: Assistant in *Advanced Concepts in Machine Learning* course (grading presentations and reports) at Maastricht University.
+
+### Other
+
+- **2024**: First supervisor for Bachelor Thesis students.
+- **2019 - 2024**: second supervisor / second examiner for various Master Research Project groups and Bachelor Thesis students.
 
 ## Networks
 
@@ -60,6 +67,7 @@ I have reviewed papers for the following workshops:
 
 ## Community
 
+- **Tutor** at the **[Women in Data Science Maastricht Datathon 2024](https://www.maastrichtuniversity.nl/wids-maastricht-datathon-2024-team)**.
 - **Tutor** at the **[Women in Data Science Maastricht Datathon 2023](https://www.maastrichtuniversity.nl/wids-maastricht-datathon-2023-team)**.
 - **[Moderator](https://ai.stackexchange.com/users?tab=moderators)** at [https://ai.stackexchange.com/](https://ai.stackexchange.com/) (since 2020).
 - **Top 0.5%** contributor at [https://ai.stackexchange.com/](https://ai.stackexchange.com/).
