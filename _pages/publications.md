@@ -108,7 +108,7 @@ In *2020 IEEE Conference on Games (CoG 2020)*, pp. 245--252.
 - Éric Piette, **Dennis J.N.J. Soemers**, Matthew Stephenson, Chiara F. Sironi, Mark H.M. Winands, and Cameron Browne (2020).
 "[Ludii - The Ludemic General Game System](http://ecai2020.eu/accepted-papers-main-conference/)". In 
 Giacomo, G. D., Catala, A., Dilkina, B., Milano, M., Barro, S., Bugarín, A., and Lang, J., editors, 
-*2020 European Conference on Artificial Intelligence*., Vol. 325 of Frontiers in Artificial Intelligence and Applications, 
+*2020 European Conference on Artificial Intelligence*, Vol. 325 of Frontiers in Artificial Intelligence and Applications, 
 pp. 411--418. IOS Press. [[pdf]](http://ecai2020.eu/papers/1248_paper.pdf)
 
 - Matthew Stephenson, Éric Piette, **Dennis J.N.J. Soemers**, and Cameron Browne (2019).
