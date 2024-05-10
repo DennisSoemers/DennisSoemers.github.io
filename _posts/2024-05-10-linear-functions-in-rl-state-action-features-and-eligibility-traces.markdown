@@ -6,9 +6,9 @@ categories:
   - "State-Action Features" 
   - "Linear Function Approximation"
   - "Eligibility Traces"
-excerpt: The standard textbook on Reinforcement Learning, by Sutton and Barto, extensively covers how state feature vectors may
-  be constructed for linear state value functions. However, there is very little explanation of the extension to state-action
-  feature vectors, which are required for learning state-action value functions. In this post, I aim to fill this gap.
+excerpt: Sutton and Barto's standard textbook on Reinforcement Learning covers how state feature vectors may
+  be constructed for linear state value functions. However, there is little explanation of the extension to state-action
+  feature vectors. In this post I aim to fill this gap.
 ---
 
 **Target audience**: people learning about Reinforcement Learning (RL); already familiar with the basics of value function learning (for
