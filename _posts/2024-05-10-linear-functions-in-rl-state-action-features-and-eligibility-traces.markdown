@@ -33,7 +33,7 @@ value function in this environment is a nonlinear function of these two state pr
 [the second edition of Sutton and Barto's textbook on Reinforcement Learning](http://incompleteideas.net/book/the-book-2nd.html) provides extensive
 detail on a variety of techniques that may be used to construct more informative feature vectors for state value functions.
 
-## State-Action Feature Vectors
+# State-Action Feature Vectors
 ---
 If we want to learn linear state-action value functions, we will need feature vectors \\(\mathbf{x}(s, a)\\) that provide information on *state-action pairs* \\((s, a)\\),
 rather than vectors that only describe states. Chapter 10 of the textbook briefly mentions this fact, but otherwise focuses solely on learning algorithms, with no further
@@ -48,10 +48,10 @@ construct state-action feature vectors by concatenating such a representation to
 \\(\mathbf{x}(s, a) = \begin{bmatrix} 1 & x_1 & x_2 & \dots & x_d & 0 & 1 & 0 & 0 & \dots & 0 \end{bmatrix}\\) as feature vector for \\((s, a=2)\\) (I put the \\(1\\) entry
 in the second slot of the "action part" of the vector for this example). **Important:** you should not actually do this, it won't work when learning linear functions! The
 reason that this won't work is because, as described in the previous section, a linear function looks at each feature independently. Looking at state features and action
-features independently means that it can, at best, learn what "generally good" or "generally bad" actions are over the whole state space. For any given single state, it
-will never be able to learn that a certain action is good in some situations, and bad in others.
+features independently means that it can, at best, learn what "generally good" or "generally bad" actions are over the whole state space. It
+will never be able to learn that a certain action is good in some states, and bad in others.
 
-There is a good solution to this, which we may think of in two different ways (which sound different at first, but are mathematically equivalent). Perhaps the easiest
+There is a good solution to this, which we may think of in two different ways (which may sound different at first, but are mathematically equivalent). Perhaps the easiest
 way to think of the solution is that we will not just learn a single linear function (vector of weights), but learn \\(n\\) functions (\\(n\\) different vectors of weights)
 for environments with \\(n\\) actions. Then, our feature vectors can revert to simply being state feature vectors, but we pick a different vector of weights to multiply
 (in a dot product) with our feature vector depending on the action for which we wish to make a prediction. For example, if we wish to estimate \\(\hat{q}(s, 3)\\) (for the
@@ -64,12 +64,12 @@ you would put together \\(n\\) copies of the state feature vector \\(\mathbf{x}(
 For an input pair \\((s, a)\\), you would then preserve all the feature values in the \\(a^{th}\\) segment, and set everything else to \\(0\\)).
 
 For the specific case of *fully deterministic environments*, we may also consider an alternative solution. If we
-were in a state *s*, took an action *a*, and transitioned into a new state *s'*, the "afterstate" *s'* (and, hence,
+are in a state *s*, take an action *a*, and transition into a new state *s'*, the "afterstate" *s'* (and, hence,
 its feature vector) will actually be informative and representative of the state-action pair *(s, a)*. Therefore, we
 can simply use the state feature vector \\(\mathbf{x}(s')\\) of the successor state as input for a \\(\hat{q}(s, a)\\)
 function. As soon as there is any stochasticity in the environment, this will no longer work.
 
-## Eligibility Traces for Linear Functions of State-Action Pairs
+# Eligibility Traces for Linear Functions of State-Action Pairs
 ---
 Eligibility traces (whether they be of the classical form as used in TD(λ) or Sarsa(λ), or the dutch traces for
 the True Online variants of the algorithms) are meant to carry a "memory trace" of the *situations* we have recently
@@ -88,7 +88,7 @@ single action) per time step. Doing this in an algorithm using eligibility trace
 of eligibility traces is to carry a memory trace of previously-selected actions (which may not be the one we selected
 most recently), and update value estimates for them all retroactively as rewards come in.
 
-I think it is easiest to see what the correct implementation of eligibility traces if, from the previous section,
+I think it is easiest to see what the correct implementation of eligibility traces would be if, from the previous section,
 we take the viewpoint of building state-action features vectors as large vectors that contain multiple "copies" of
 the state feature vector. We will then also have a single, large eligibility trace vector, and this vector will gradually
 accumulate non-zero values for many of its entries as we select different actions in different time steps. We can then
