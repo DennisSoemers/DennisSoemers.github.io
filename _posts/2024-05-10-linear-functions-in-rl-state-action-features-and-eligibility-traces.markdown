@@ -1,6 +1,6 @@
 ---
 title: "Linear Functions in RL, State-Action Features, and Eligibility Traces"
-date: 2024-05-20 10:30:00 +0100
+date: 2024-05-10 10:30:00 +0100
 categories:
   - "Reinforcement Learning" 
   - "State-Action Features" 
@@ -61,13 +61,49 @@ specific set of weights tailored towards that particular action.
 A different way of thinking of what is mathematically the same solution (but might look a bit different in code) is that we multiply the size of our state
 feature vector with the number of actions, but always zero out most of it, such that different segments of the vector are used for different actions. More precisely,
 you would put together \\(n\\) copies of the state feature vector \\(\mathbf{x}(s)\\), essentially giving you a much bigger vector with \\(n\\) equal "segments."
-For an input pair \\((s, a)\\), you would then preserve all the feature values in the \\(a^{th}\\) segment, and set everything else to \\(0\)).
+For an input pair \\((s, a)\\), you would then preserve all the feature values in the \\(a^{th}\\) segment, and set everything else to \\(0\\)).
 
-TODO: afterstates
+For the specific case of *fully deterministic environments*, we may also consider an alternative solution. If we
+were in a state *s*, took an action *a*, and transitioned into a new state *s'*, the "afterstate" *s'* (and, hence,
+its feature vector) will actually be informative and representative of the state-action pair *(s, a)*. Therefore, we
+can simply use the state feature vector \\(\mathbf{x}(s')\\) of the successor state as input for a \\(\hat{q}(s, a)\\)
+function. As soon as there is any stochasticity in the environment, this will no longer work.
 
 ## Eligibility Traces for Linear Functions of State-Action Pairs
 ---
+Eligibility traces (whether they be of the classical form as used in TD(λ) or Sarsa(λ), or the dutch traces for
+the True Online variants of the algorithms) are meant to carry a "memory trace" of the *situations* we have recently
+observed, such that we can assign (partial) credit to them for rewards that we observe later. Here, I use the word
+"situations" to refer to "states" if we are learning state value functions, or "state-action pairs" if we are learning
+state-action value functions. The dimensionality of the eligibility trace vector should be equal to that of the feature
+vectors and weight vectors.
 
+From the pseudocode of most algorithms using such traces, it will generally not be immediately obvious how our choice
+of solution from the previous section (on constructing state-action feature vectors) factors into the updating of
+eligibility trace vector(s), and the use of them in the update rule of weight vectors. If we train multiple linear
+functions/sets of weights (one per action): what does this mean for eligibility traces? Should we also have multiple
+eligibility trace vectors? One for each action? If so, what should our update rule look like? For algorithms that are
+not based on λ-returns (such as just a plain Sarsa), we would only update a single weight vector (corresponding to a
+single action) per time step. Doing this in an algorithm using eligibility traces will be wrong, as the entire point
+of eligibility traces is to carry a memory trace of previously-selected actions (which may not be the one we selected
+most recently), and update value estimates for them all retroactively as rewards come in.
+
+I think it is easiest to see what the correct implementation of eligibility traces if, from the previous section,
+we take the viewpoint of building state-action features vectors as large vectors that contain multiple "copies" of
+the state feature vector. We will then also have a single, large eligibility trace vector, and this vector will gradually
+accumulate non-zero values for many of its entries as we select different actions in different time steps. We can then
+implement algorithms exactly following the pseudocode of, for example, Sarsa(λ) in the textbook, and everything will
+work out fine.
+
+If you do prefer the viewpoint of learning multiple separate weight vectors (one for each action), the implementation
+of update rules with eligibility traces (now also one trace vector per action) will become quite a bit more involved. 
+At every time step, you would have to:
+
+1. Decay *all* of the eligibility trace vectors.
+2. Accumulate features from the next state in *only a single trace vector* (corresponding to the action leading to it).
+You would actually accumulate features for all of them, but for all other actions, you would multiply by 0.
+3. Update *all* of the weight vectors (because even ones for actions different from your last-chosen action may
+have non-zero eligibility traces).
 
 # Footnotes
 ---
