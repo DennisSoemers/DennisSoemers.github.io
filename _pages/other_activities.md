@@ -2,7 +2,7 @@
 title: Other Activities
 permalink: /other_activities/
 description: Scientific/academic/AI activities (other than publications).
-last_modified_at: 2024-02-06 10:00:00 +0100
+last_modified_at: 2024-05-18 10:00:00 +0100
 ---
 
 This page summarises some of my scientific/academic/AI-related activities (other than my publications, which are on [their own page](/publications/)).
@@ -11,6 +11,7 @@ This page summarises some of my scientific/academic/AI-related activities (other
 
 ### Courses
 
+- **2024**: Lecturer & Coordinator in *Reinforcement Learning* course (Master's program) at Maastricht University.
 - **2023**: Lecturer in *Stochastic Decision Making* course (Master's program) at Maastricht University.
 - **2019 - 2023**: Lecturer in *Intelligent Search & Games* course (Master's program) at Maastricht University.
 - **2019 - 2023**: Co-supervised and guided several B.Sc. and M.Sc. thesis students, internal and external research internship students, and M.Sc. project groups, at Maastricht University.
@@ -50,6 +51,7 @@ I have reviewed papers for the following conferences:
 - Conference on Games (**CG**)
 - Conference on Neural Information Processing Systems (**NeurIPS**) (**Top Reviewer** [2023](https://neurips.cc/Conferences/2023/ProgramCommittee#top-reivewers))
 - European Conference on Artificial Intelligence (**ECAI**)
+- European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML PKDD**)
 - Foundations of Digital Games (**FDG**)
 - IEEE Conference on Games (**CoG**)
 - IEEE Symposium Series on Computational Intelligence (**SSCI**)
