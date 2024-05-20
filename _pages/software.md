@@ -58,32 +58,6 @@ I developed a Hierarchical Task Network (HTN) Planner in Unreal Engine 4. I work
 - **Source code**: [https://github.com/DennisSoemers/HTN-Planner/](https://github.com/DennisSoemers/HTN-Planner/)
 
 
-
-## Other Software (Non-research)
-
-### PAPER
-
-I developed a DLL plugin for The Elder Scrolls V: Skyrim, which exposes additional functionality to the game's scripting language.
-This can be used by third-party modders for scripts in their mods. It is built on top of the [Skyrim Script Extender](http://skse.silverlock.org/)
-and [CommonLibSSE-NG](https://github.com/CharmedBaryon/CommonLibSSE-NG), which have reverse-engineered substantial portions of the game's executable.
-
-- **Tech stack**: C++, CMake, vcpkg, Git
-- **Source code**: [https://github.com/DennisSoemers/PAPER](https://github.com/DennisSoemers/PAPER)
-
-### Papyrus Profiler
-
-I developed a DLL plugin for The Elder Scrolls V: Skyrim, which lets users profile scripts written in the game's Papyrus scripting language by collecting data on all Papyrus function calls in the game. It is built on top of the [Skyrim Script Extender](http://skse.silverlock.org/)
-and [CommonLibSSE-NG](https://github.com/CharmedBaryon/CommonLibSSE-NG), which have reverse-engineered substantial portions of the game's executable.
-
-- **Tech stack**: C++, CMake, vcpkg, Git
-- **Source code**: [https://github.com/DennisSoemers/PapyrusProfiler](https://github.com/DennisSoemers/PapyrusProfiler)
-- Used by myself and numerous other people to identify and fix bugs and performance issues in scripts from the official game as well as third-party mods. Examples include:
-	- [Interesting NPCs (3DNPC) Script Optimisation - barbasdialoguedetect](https://www.nexusmods.com/skyrimspecialedition/mods/87245)
-	- [DLC2TribalWerebearScript Fix](https://www.nexusmods.com/skyrimspecialedition/mods/88208)
-	- [DLC2dunNchardakDoorSeal Script Infinite Loop Fix](https://www.nexusmods.com/skyrimspecialedition/mods/88843)
-	- [Optimised Scripts for XPMSSE](https://www.nexusmods.com/skyrimspecialedition/mods/82774)
-
-
 ## Other Open-Source Contributions
 
 ### rliable
