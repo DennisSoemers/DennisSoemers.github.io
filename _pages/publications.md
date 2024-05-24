@@ -15,7 +15,7 @@ This page lists all of my scientific publications. They are sorted by publicatio
 [[pdf preprint]](https://arxiv.org/pdf/2303.09449.pdf)
 
 - Éric Piette, Walter Crist, **Dennis J.N.J. Soemers**, Lisa Rougetet, Summer Courts, Tim Penn, and Achille Morenville (2024).
-"[GameTable COST action: kickoff report ]([https://content.iospress.com/articles/icga-journal/icg230230](https://content.iospress.com/articles/icga-journal/icg240245))".
+"[GameTable COST action: kickoff report ](https://content.iospress.com/articles/icga-journal/icg240245)".
 *ICGA Journal*, in pre-press. IOS Press.
 
 - **Dennis J.N.J. Soemers**, Vegard Mella, Éric Piette, Matthew Stephenson, Cameron Browne and Olivier Teytaud (2023).
