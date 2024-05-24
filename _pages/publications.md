@@ -2,12 +2,21 @@
 title: Publications
 permalink: /publications/
 description: Dennis Soemers' scientific publications.
-last_modified_at: 2023-12-8 10:00:00 +0100
+last_modified_at: 2024-05-24 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
 
 ## Journal Articles
+
+- Jakub Kowalski, Elliot Doe, Mark H.M. Winands, Daniel Górski, and **Dennis J.N.J. Soemers** (2024).
+"[Proof Number Based Monte-Carlo Tree Search]([https://arxiv.org/abs/2303.09449](https://ieeexplore.ieee.org/document/10535724))".
+*IEEE Transactions on Games*, in press. IEEE.
+[[pdf preprint]](https://arxiv.org/pdf/2303.09449.pdf)
+
+- Éric Piette, Walter Crist, **Dennis J.N.J. Soemers**, Lisa Rougetet, Summer Courts, Tim Penn, and Achille Morenville (2024).
+"[GameTable COST action: kickoff report ]([https://content.iospress.com/articles/icga-journal/icg230230](https://content.iospress.com/articles/icga-journal/icg240245))".
+*ICGA Journal*, in pre-press. IOS Press.
 
 - **Dennis J.N.J. Soemers**, Vegard Mella, Éric Piette, Matthew Stephenson, Cameron Browne and Olivier Teytaud (2023).
 "[Towards a General Transfer Approach for Policy-Value Networks](https://openreview.net/forum?id=vJcTm2v9Ku)".
@@ -158,10 +167,6 @@ In *Proceedings of the 2nd Workshop on Knowledge Extraction from Games (KEG)*, p
 [[pdf mirror]](/assets/publications/AAAI_KEG2019_Features.pdf)
 
 ## Preprints
-
-- Jakub Kowalski, Elliot Doe, Mark H.M. Winands, Daniel Górski, and **Dennis J.N.J. Soemers** (2023).
-"[Proof Number Based Monte-Carlo Tree Search](https://arxiv.org/abs/2303.09449)".
-[[pdf]](https://arxiv.org/pdf/2303.09449.pdf)
 
 - **Dennis J.N.J. Soemers**, Éric Piette, Matthew Stephenson, and Cameron Browne (2022).
 "[The Ludii Game Description Language is Universal](https://arxiv.org/abs/2205.00451)".
