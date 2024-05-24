@@ -10,7 +10,7 @@ This page lists all of my scientific publications. They are sorted by publicatio
 ## Journal Articles
 
 - Jakub Kowalski, Elliot Doe, Mark H.M. Winands, Daniel Górski, and **Dennis J.N.J. Soemers** (2024).
-"[Proof Number Based Monte-Carlo Tree Search]([https://arxiv.org/abs/2303.09449](https://ieeexplore.ieee.org/document/10535724))".
+"[Proof Number Based Monte-Carlo Tree Search](https://ieeexplore.ieee.org/document/10535724)".
 *IEEE Transactions on Games*, in press. IEEE.
 [[pdf preprint]](https://arxiv.org/pdf/2303.09449.pdf)
 
