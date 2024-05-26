@@ -11,7 +11,7 @@ This page summarises my education activities and provides information for prospe
 
 If you are a student at [Maastricht University's Department of Advanced Computing Sciences](https://www.maastrichtuniversity.nl/dacs),
 and are potentially interested in having me serve as first supervisor for your B.Sc. or M.Sc. thesis, or an internship, **please contact me** 
-by sending a mail to my UM email address. **I recommend to contact me early**, as I usually get approach by many more students than I can
+by sending a mail to my UM email address. **I recommend to contact me early**, as I usually get approached by many more students than I can
 accept per semester. **Make sure to include** (preferably in a neatly organised list, not hidden inside a huge wall of text):
 
 - Whether it is for B.Sc. thesis, M.Sc. thesis, an internship, or anything else.
