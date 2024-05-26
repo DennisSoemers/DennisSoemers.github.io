@@ -1,11 +1,13 @@
 # main links
 main:
-  - title: "Awards"
-    url: /awards/
   - title: "Publications"
     url: /publications/
+  - title: "Education"
+    url: /education/
   - title: "Other Activities"
     url: /other_activities/
+  - title: "Awards"
+    url: /awards/
   - title: "Software"
     url: /software/
   - title: "Posts by Category"
