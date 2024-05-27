@@ -7,6 +7,15 @@ last_modified_at: 2024-05-27 10:00:00 +0100
 
 This page summarises my education activities and provides information for prospective thesis/internship students.
 
+## Courses
+
+The following is a list of courses in which I have been involved in coordinating, giving lectures, labs, and/or assessment:
+
+- **2024**: Lecturer & Coordinator in *Reinforcement Learning* course (Master's program) at Maastricht University.
+- **2023**: Lecturer in *Stochastic Decision Making* course (Master's program) at Maastricht University.
+- **2019 - 2023**: Lecturer in *Intelligent Search & Games* course (Master's program) at Maastricht University.
+- **2016 - 2019**: Assistant in *Advanced Concepts in Machine Learning* course (grading presentations and reports) at Maastricht University.
+
 ## Prospective Students
 
 If you are a student at [Maastricht University's Department of Advanced Computing Sciences](https://www.maastrichtuniversity.nl/dacs),
@@ -40,15 +49,6 @@ perform well as a supervisor:
 At the bottom of this page, I have a list of current and former students for whom I act / have acted as first supervisor,
 who have also agreed to have their name listed. I am not going to spread their email addresses all over the internet, but 
 if you can find ways to contact them, you may try to do so if you first want to hear about their experience with my supervision.
-
-## Courses
-
-The following is a list of courses in which I have been involved in coordinating, giving lectures, labs, and/or assessment:
-
-- **2024**: Lecturer & Coordinator in *Reinforcement Learning* course (Master's program) at Maastricht University.
-- **2023**: Lecturer in *Stochastic Decision Making* course (Master's program) at Maastricht University.
-- **2019 - 2023**: Lecturer in *Intelligent Search & Games* course (Master's program) at Maastricht University.
-- **2016 - 2019**: Assistant in *Advanced Concepts in Machine Learning* course (grading presentations and reports) at Maastricht University.
 
 ## Current and Former Students
 
