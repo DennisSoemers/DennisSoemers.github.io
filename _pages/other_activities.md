@@ -2,7 +2,7 @@
 title: Other Activities
 permalink: /other_activities/
 description: Scientific/academic/AI activities (other than publications and education activities).
-last_modified_at: 2024-05-26 10:00:00 +0100
+last_modified_at: 2024-05-28 10:00:00 +0100
 ---
 
 This page summarises some of my scientific/academic/AI-related activities (other than my [publications](/publications/), and
@@ -45,6 +45,7 @@ I have reviewed papers for the following conferences:
 - International Conference on Learning Representations (**ICLR**) (**Outstanding/Highlighted/Notable Reviewer** [2021](https://iclr.cc/Conferences/2021/Reviewers), [2022](https://iclr.cc/Conferences/2022/Reviewers), [2023](https://iclr.cc/Conferences/2023/Reviewers))
 - International Conference on Machine Learning (**ICML**) (**Outstanding Reviewer** [2022](https://icml.cc/Conferences/2022/Reviewers))
 - International Joint Conference on Artificial Intelligence (**IJCAI**)
+- Reinforcement Learning Conference (**RLC**) (Senior Reviewer)
 
 ### Peer Review - Workshops
 
