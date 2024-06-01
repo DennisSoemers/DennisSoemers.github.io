@@ -2,7 +2,7 @@
 title: Other Activities
 permalink: /other_activities/
 description: Scientific/academic/AI activities (other than publications and education activities).
-last_modified_at: 2024-05-28 10:00:00 +0100
+last_modified_at: 2024-06-01 10:00:00 +0100
 ---
 
 This page summarises some of my scientific/academic/AI-related activities (other than my [publications](/publications/), and
@@ -16,6 +16,10 @@ This page summarises some of my scientific/academic/AI-related activities (other
 ## Grants
 
 - Secondary proposer for [COST Action CA22145: Computational Techniques for Tabletop Games Heritage (GameTable)](https://www.cost.eu/actions/CA22145/) (**~600,000 euros** over 4 years, awarded on **12/05/2023**)
+
+## Editorial Boards
+
+- [*Action Editor* for Transactions on Machine Learning](https://jmlr.org/tmlr/editorial-board.html) (**TMLR**)
 
 ## Peer Review
 
