@@ -2,7 +2,7 @@
 title: Education Activities
 permalink: /education/
 description: Scientific/academic/AI activities (other than publications).
-last_modified_at: 2024-05-27 10:00:00 +0100
+last_modified_at: 2024-06-01 10:00:00 +0100
 ---
 
 This page summarises my education activities and provides information for prospective thesis/internship students.
@@ -33,10 +33,10 @@ likelihood (potential + feasibility) for publication, to strengthen your academi
 - Any other remarks you have.
 - Any questions you already have for me.
 
-**My own main areas of expertise and interest** are as follows. I prefer to supervise projects that match up with at least one of these areas.
-**It is not at all necessary to combine all or multiple of them**: any one is fine. For exceptional students, I may be more willing to
-also consider topics outside of this list (e.g., other forms of Machine Learning), but only if I still feel confident that I could actually 
-perform well as a supervisor:
+**My own main areas of expertise and interest** include the following list (not necessarily exhaustive). I prefer to supervise projects 
+that match up with at least one of these areas. **It is not at all necessary to combine all or multiple of them**: any one is fine. 
+Feel free to also inquire about topics outside of this list, though I will only consider supervising them if I still feel confident
+that I would be able to perform well as a supervisor:
 
 - Reinforcement Learning *(any application domain)*.
 - Search algorithms such as Monte-Carlo Tree Search, Minimax-based algorithms, and A* *(any application domain)*.
