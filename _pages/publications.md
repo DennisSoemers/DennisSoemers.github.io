@@ -2,7 +2,7 @@
 title: Publications
 permalink: /publications/
 description: Dennis Soemers' scientific publications.
-last_modified_at: 2024-06-14 10:00:00 +0100
+last_modified_at: 2024-06-19 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -59,7 +59,7 @@ vol. 10, no. 2, pp. 209--220. IEEE. [[pdf]](https://dke.maastrichtuniversity.nl/
 - Walter Crist, Éric Piette, **Dennis J.N.J. Soemers**, Matthew Stephenson, and Cameron Browne (2023).
 "Computational Approaches for Recognising and Reconstructing Ancient Games: The Case of Ludus Latrunculorum".
 In *The Archaeology of Play: Material Approaches to Games and Gaming in the Ancient World*, (eds. A. Pace,
-T. Penn, U. Schädler), Dremil-Lafage, Mergoil, Monographies Instrumentum, in preparation.
+T. Penn, U. Schädler), pp. 63--80, Dremil-Lafage, Mergoil, Monographies Instrumentum.
 
 - Cameron Browne, Éric Piette, Matthew Stephenson, and **Dennis J.N.J. Soemers** (2023). 
 "[Ludii General Game System for Modeling, Analyzing, and Designing Board Games](http://dx.doi.org/10.1007/978-3-319-08234-9_486-1)". 
