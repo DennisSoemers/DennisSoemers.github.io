@@ -2,7 +2,7 @@
 title: Education Activities
 permalink: /education/
 description: Scientific/academic/AI activities (other than publications).
-last_modified_at: 2024-06-01 10:00:00 +0100
+last_modified_at: 2024-06-26 10:00:00 +0100
 ---
 
 This page summarises my education activities and provides information for prospective thesis/internship students.
@@ -66,5 +66,5 @@ I acted as second supervisor and/or examiner *(which I have been doing since 201
 
 ### B.Sc. Thesis Students
 
-- Alexander George Padula *(2024)*
-- Dominic Sagers *(2024)*
+- Alexander George Padula *(2024)*: "Reinforcement Learning from Explicitly Programmed Reward Signals"
+- Dominic Sagers *(2024)*: "Sequential Halving without Predetermined Budgets in Monte-Carlo Tree Search"
