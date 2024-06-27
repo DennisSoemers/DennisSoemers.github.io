@@ -2,7 +2,7 @@
 title: Publications
 permalink: /publications/
 description: Dennis Soemers' scientific publications.
-last_modified_at: 2024-06-19 10:00:00 +0100
+last_modified_at: 2024-06-27 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -70,6 +70,11 @@ In *Encyclopedia of Computer Graphics and Games*, (eds. N. Lee). Springer, Cham.
 - **Dennis J.N.J. Soemers**, Guillaume Bams, Max Persoon, Marco Rietjens, Dimitar Sladić, Stefan Stefanov,
 Kurt Driessens, and Mark H.M. Winands (2024).
 "[Towards a Characterisation of Monte-Carlo Tree Search Performance in Different Games](https://arxiv.org/abs/2406.09242)".
+In *2024 IEEE Conference on Games (CoG 2024)*, Accepted.
+[[pdf preprint]](https://arxiv.org/pdf/2406.18178)
+
+- Spyridon Samothrakis, **Dennis J.N.J. Soemers**, and Damian Machlanski (2024).
+"[Games of Knightian Uncertainty as AGI testbeds](https://arxiv.org/abs/2406.18178)".
 In *2024 IEEE Conference on Games (CoG 2024)*, Accepted.
 [[pdf preprint]](https://arxiv.org/pdf/2406.09242)
 
