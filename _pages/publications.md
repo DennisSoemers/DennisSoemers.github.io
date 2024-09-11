@@ -2,7 +2,7 @@
 title: Publications
 permalink: /publications/
 description: Dennis Soemers' scientific publications.
-last_modified_at: 2024-08-29 10:00:00 +0100
+last_modified_at: 2024-09-11 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -11,7 +11,7 @@ This page lists all of my scientific publications. They are sorted by publicatio
 
 - **Dennis J.N.J. Soemers**, Jakub Kowalski, Éric Piette, Achille Morenville, and Walter Crist (2024).
 "[GameTable Working Group 1 meeting report on search, planning, learning, and explainability](https://content.iospress.com/articles/icga-journal/icg240251)".
-*ICGA Journal*, in pre-press. IOS Press.
+*ICGA Journal*, vol. 46, no. 1, pp. 28--35. IOS Press.
 
 - Jakub Kowalski, Elliot Doe, Mark H.M. Winands, Daniel Górski, and **Dennis J.N.J. Soemers** (2024).
 "[Proof Number Based Monte-Carlo Tree Search](https://ieeexplore.ieee.org/document/10535724)".
@@ -20,7 +20,7 @@ This page lists all of my scientific publications. They are sorted by publicatio
 
 - Éric Piette, Walter Crist, **Dennis J.N.J. Soemers**, Lisa Rougetet, Summer Courts, Tim Penn, and Achille Morenville (2024).
 "[GameTable COST action: kickoff report](https://content.iospress.com/articles/icga-journal/icg240245)".
-*ICGA Journal*, in pre-press. IOS Press.
+*ICGA Journal*, vol. 46, no. 1, pp. 11--27. IOS Press.
 
 - **Dennis J.N.J. Soemers**, Vegard Mella, Éric Piette, Matthew Stephenson, Cameron Browne and Olivier Teytaud (2023).
 "[Towards a General Transfer Approach for Policy-Value Networks](https://openreview.net/forum?id=vJcTm2v9Ku)".
