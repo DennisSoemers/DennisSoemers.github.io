@@ -11,9 +11,10 @@ This page summarises my education activities and provides information for prospe
 
 The following is a list of courses in which I have been involved in coordinating, giving lectures, labs, and/or assessment:
 
-- **2024**: Lecturer & Coordinator in *Reinforcement Learning* course (Master's program) at Maastricht University.
-- **2023**: Lecturer in *Stochastic Decision Making* course (Master's program) at Maastricht University.
-- **2019 - 2023**: Lecturer in *Intelligent Search & Games* course (Master's program) at Maastricht University.
+- **2024**: Lecturer in *Introduction to Artificial Intelligence* course ([CS](https://curriculum.maastrichtuniversity.nl/education/bachelor/computer-science) Bachelor's program) at Maastricht University.
+- **2024**: Lecturer & Coordinator in *Reinforcement Learning* course ([AI](https://curriculum.maastrichtuniversity.nl/education/partner-program-master/artificial-intelligence) Master's program) at Maastricht University.
+- **2023 - 2024**: Lecturer in *Stochastic Decision Making* course ([AI](https://curriculum.maastrichtuniversity.nl/education/partner-program-master/artificial-intelligence) and [DSDM](https://curriculum.maastrichtuniversity.nl/education/partner-program-master/data-science-decision-making) Master's programs) at Maastricht University.
+- **2019 - 2024**: Lecturer in *Intelligent Search & Games* course ([AI](https://curriculum.maastrichtuniversity.nl/education/partner-program-master/artificial-intelligence) Master's program) at Maastricht University.
 - **2016 - 2019**: Assistant in *Advanced Concepts in Machine Learning* course (grading presentations and reports) at Maastricht University.
 
 ## Prospective Students
