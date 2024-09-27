@@ -62,7 +62,7 @@ vol. 10, no. 2, pp. 209--220. IEEE. [[pdf]](https://dke.maastrichtuniversity.nl/
 
 - Walter Crist, Éric Piette, **Dennis J.N.J. Soemers**, Matthew Stephenson, and Cameron Browne (2024).
 "Computational Approaches for Recognising and Reconstructing Ancient Games: The Case of Ludus Latrunculorum".
-In *Games in the Ancient World: Places, Spaces, Accessories*, (eds. A. Pace,
+In [*Games in the Ancient World: Places, Spaces, Accessories*](https://www.editions-mergoil.com/fr/monographies-instrumentum/348-games-in-the-ancient-world-places-spaces-accessories-9782355181450.html), (eds. A. Pace,
 T. Penn, U. Schädler), volume 79 of *Monographies Instrumentum*, pp. 63--80, Dremil-Lafage, Éditions Mergoil.
 
 - Cameron Browne, Éric Piette, Matthew Stephenson, and **Dennis J.N.J. Soemers** (2023). 
