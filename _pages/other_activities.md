@@ -2,7 +2,7 @@
 title: Other Activities
 permalink: /other_activities/
 description: Scientific/academic/AI activities (other than publications and education activities).
-last_modified_at: 2024-06-01 10:00:00 +0100
+last_modified_at: 2024-09-27 10:00:00 +0100
 ---
 
 This page summarises some of my scientific/academic/AI-related activities (other than my [publications](/publications/), and
@@ -15,7 +15,21 @@ This page summarises some of my scientific/academic/AI-related activities (other
 
 ## Grants
 
+- I was awarded a [Kaggle Competitions Research Grant](https://www.kaggle.com/competitions-research-grants), used to fund the organisation of a
+[data science competition on Kaggle](https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants) (**50,000 USD** prize pool, **2024**)
 - Secondary proposer for [COST Action CA22145: Computational Techniques for Tabletop Games Heritage (GameTable)](https://www.cost.eu/actions/CA22145/) (**~600,000 euros** over 4 years, awarded on **12/05/2023**)
+
+## Organisation
+
+### Organisation of Competitions
+
+- Main organiser of the ["UM - Game-Playing Strength of MCTS Variants"](https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants) on Kaggle.
+(50,000 USD prize pool)
+
+## Attended Invite-only Events
+
+- [Aachen Symposium on Representation Learning to Act and Plan](https://symposium.ml.rwth-aachen.de/) (2024)
+- [Dagstuhl Research Meeting on Digital Archaeoludology](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/19153) (2019)
 
 ## Editorial Boards
 
@@ -38,7 +52,7 @@ I have reviewed papers for the following conferences:
 - AAAI Conference on Artificial Intelligence (**AAAI**)
 - Advances in Computer Games (**ACG**)
 - Artificial Intelligence and Interactive Digital Entertainment (**AIIDE**)
-- Conference on Games (**CG**)
+- Computers and Games (**CG**)
 - Conference on Neural Information Processing Systems (**NeurIPS**) (**Top Reviewer** [2023](https://neurips.cc/Conferences/2023/ProgramCommittee#top-reivewers))
 - European Conference on Artificial Intelligence (**ECAI**)
 - European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML PKDD**)
