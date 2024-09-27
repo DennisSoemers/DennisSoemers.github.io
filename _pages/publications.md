@@ -2,7 +2,7 @@
 title: Publications
 permalink: /publications/
 description: Dennis Soemers' scientific publications.
-last_modified_at: 2024-09-11 10:00:00 +0100
+last_modified_at: 2024-09-27 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -70,6 +70,10 @@ T. Penn, U. Schädler), pp. 63--80, Dremil-Lafage, Mergoil, Monographies Instrum
 In *Encyclopedia of Computer Graphics and Games*, (eds. N. Lee). Springer, Cham.
 
 ## Conference Articles
+
+- Graham Todd, Alexander Padula, Matthew Stephenson, Éric Piette, **Dennis J. N. J. Soemers**, and Julian Togelius (2024).
+"[GAVEL: Generating Games Via Evolution and Language Models](https://arxiv.org/abs/2407.09388)".
+In *Advances in Neural Information Processing Systems 37 (NeurIPS 2024)*. Accepted. [[pdf preprint]](https://arxiv.org/pdf/2407.09388)
 
 - **Dennis J.N.J. Soemers**, Guillaume Bams, Max Persoon, Marco Rietjens, Dimitar Sladić, Stefan Stefanov,
 Kurt Driessens, and Mark H.M. Winands (2024).
@@ -192,11 +196,6 @@ In *Proceedings of the 2nd Workshop on Knowledge Extraction from Games (KEG)*, p
 "[Ludii - Le Système Ludémique de General Game Playing](https://www.researchgate.net/publication/333716838_LUDII_-_Le_Systeme_Ludemique_de_General_Game_Playing)". 
 In *Conférence Nationale en Intelligence Artificielle*. (In French) 
 [[pdf]](https://www.researchgate.net/profile/Eric_Piette/publication/333716838_LUDII_-_Le_Systeme_Ludemique_de_General_Game_Playing/links/5d00626fa6fdccd13093f700/LUDII-Le-Systeme-Ludemique-de-General-Game-Playing.pdf?_sg%5B0%5D=6I-dcxZ40MieQBjWkSNUOeneRSmzp8j533ZEhKBn-F2uExw9iJXQY34vB8l4BB3-vvPcxHS9WWdHXk6uUOWwEw.Jau2YwPYFvNjkvN7MuoFvqirR9DQe6ubRDYAqDm4BOW6lAfEoUgRZcSPLQuF45dwosFuqAXnKRj5S5ajnJZG2Q&_sg%5B1%5D=HxCBph2nNhmvNztGYlLGYD7ISpn0855GRNap-Fse1T0v4IP-aJsQ82-J5SogvS3i8EK_XGWWfNadi97N40qrSBb23L_0C8qX3b_UCsoCxMWu.Jau2YwPYFvNjkvN7MuoFvqirR9DQe6ubRDYAqDm4BOW6lAfEoUgRZcSPLQuF45dwosFuqAXnKRj5S5ajnJZG2Q&_iepl=)
-
-## Preprints
-
-- Graham Todd, Alexander Padula, Matthew Stephenson, Éric Piette, **Dennis J. N. J. Soemers**, and Julian Togelius (2024).
-"[GAVEL: Generating Games Via Evolution and Language Models](https://arxiv.org/abs/2407.09388)". [[pdf preprint]](https://arxiv.org/pdf/2407.09388)
 
 ## Reports
 
