@@ -60,10 +60,10 @@ vol. 10, no. 2, pp. 209--220. IEEE. [[pdf]](https://dke.maastrichtuniversity.nl/
 
 ## Book Chapters
 
-- Walter Crist, Éric Piette, **Dennis J.N.J. Soemers**, Matthew Stephenson, and Cameron Browne (2023).
+- Walter Crist, Éric Piette, **Dennis J.N.J. Soemers**, Matthew Stephenson, and Cameron Browne (2024).
 "Computational Approaches for Recognising and Reconstructing Ancient Games: The Case of Ludus Latrunculorum".
-In *The Archaeology of Play: Material Approaches to Games and Gaming in the Ancient World*, (eds. A. Pace,
-T. Penn, U. Schädler), pp. 63--80, Dremil-Lafage, Mergoil, Monographies Instrumentum.
+In *Games in the Ancient World: Places, Spaces, Accessories*, (eds. A. Pace,
+T. Penn, U. Schädler), volume 79 of *Monographies Instrumentum*, pp. 63--80, Dremil-Lafage, Éditions Mergoil.
 
 - Cameron Browne, Éric Piette, Matthew Stephenson, and **Dennis J.N.J. Soemers** (2023). 
 "[Ludii General Game System for Modeling, Analyzing, and Designing Board Games](http://dx.doi.org/10.1007/978-3-319-08234-9_486-1)". 
