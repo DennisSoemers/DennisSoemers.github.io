@@ -2,7 +2,7 @@
 title: Publications
 permalink: /publications/
 description: Dennis Soemers' scientific publications.
-last_modified_at: 2024-09-27 10:00:00 +0100
+last_modified_at: 2024-10-23 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -70,6 +70,10 @@ T. Penn, U. Schädler), volume 79 of *Monographies Instrumentum*, pp. 63--80, Dr
 In *Encyclopedia of Computer Graphics and Games*, (eds. N. Lee). Springer, Cham.
 
 ## Conference Articles
+
+- Alexander G. Padula and **Dennis J. N. J. Soemers** (2024).
+"[Exploring RL-based LLM Training for Formal Language Tasks with Programmed Rewards](https://arxiv.org/abs/2410.17126)".
+*BNAIC/BeNeLearn 2024*. Accepted. [[pdf preprint]](https://arxiv.org/pdf/2410.17126)
 
 - Graham Todd, Alexander Padula, Matthew Stephenson, Éric Piette, **Dennis J. N. J. Soemers**, and Julian Togelius (2024).
 "[GAVEL: Generating Games Via Evolution and Language Models](https://arxiv.org/abs/2407.09388)".
@@ -219,6 +223,9 @@ Department of Data Science and Knowledge Engineering, Maastricht University, Maa
 [[pdf]](/assets/publications/Soemers_BSc-paper.pdf)
 
 ## Other
+
+- **Dennis J.N.J. Soemers**, Vegard Mella, Éric Piette, Matthew Stephenson, Cameron Browne and Olivier Teytaud (2024).
+Towards a General Transfer Approach for Policy-Value Networks". *BNAIC/BeNeLearn 2024*, Accepted. (Encore Abstract)
 
 - Walter Crist, Cameron Browne and **Dennis J.N.J. Soemers** (2022).
 "Spelen uit de klassieke oudheide reconstrueren: het Digital Ludeme Project".
