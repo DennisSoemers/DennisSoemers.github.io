@@ -2,7 +2,7 @@
 title: Education Activities
 permalink: /education/
 description: Scientific/academic/AI activities (other than publications).
-last_modified_at: 2024-10-28 10:00:00 +0100
+last_modified_at: 2024-11-02 10:00:00 +0100
 ---
 
 This page summarises my education activities and provides information for prospective thesis/internship students.
@@ -27,7 +27,10 @@ accept per semester. **Make sure to include** (preferably in a neatly organised 
 - Whether it is for B.Sc. thesis, M.Sc. thesis, an internship, or anything else.
 - When you expect to start your project (month + year).
 - If they are already close: any deadlines you have in relation to this request (e.g., deadline by which you need to submit a project proposal to the Board of Examiners).
+- Which programming languages you are comfortable with. **Note that, for practically any project with me, it will be necessary to have strong programming skills**.
 - Any ideas or preferences you may already have for a topic or research direction. It is fine if you have no ideas (or multiple), and would like to discuss / get advice.
+    - For example: do you have a preference for a specific (type of) application domain? Specifically multi-agent domains, partially observable ones, zero-sum ones, cooperative ones? Board games or video games? A specific game? A strong preference **against** specific categories of domains?
+    - Any preferences for or against specific algorithms / techniques / challenges? Search algorithms? Reinforcement Learning? Neural networks? Within any of these categories, further preferences?
 - If you already know that you have ambitions to potentially continue with a Ph.D. / academic career in the future, and have early indicators of excellent academic
 performance (e.g., exceptionally good grades in courses relevant to your topic(s) of interest), let me know. Then I can try to help think of topics with high
 likelihood (potential + feasibility) for publication, to strengthen your academic CV.
@@ -63,6 +66,7 @@ I acted as second supervisor and/or examiner *(which I have been doing since 201
 
 ### M.Sc. Internship Students
 
+- Tarik El-Khoury *(2024)*
 - José Manuel Ros Rodrigo *(2024)*
 - Dimitar Sladić *(2024)*
 
