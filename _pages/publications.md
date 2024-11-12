@@ -2,7 +2,7 @@
 title: Publications
 permalink: /publications/
 description: Dennis Soemers' scientific publications.
-last_modified_at: 2024-11-08 10:00:00 +0100
+last_modified_at: 2024-11-12 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -71,9 +71,13 @@ In *Encyclopedia of Computer Graphics and Games*, (eds. N. Lee). Springer, Cham.
 
 ## Conference Articles
 
+- Dominic Sagers, Mark H. M. Winands, and **Dennis J. N. J. Soemers** (2024).
+"[Anytime Sequential Halving in Monte-Carlo Tree Search](https://arxiv.org/abs/2411.07171)".
+In *Computers and Games 2024*. Accepted. [[pdf preprint]](https://arxiv.org/pdf/2411.07171)
+
 - Alexander G. Padula and **Dennis J. N. J. Soemers** (2024).
 "[Exploring RL-based LLM Training for Formal Language Tasks with Programmed Rewards](https://arxiv.org/abs/2410.17126)".
-*BNAIC/BeNeLearn 2024*. Accepted. [[pdf]](https://bnaic2024.sites.uu.nl/wp-content/uploads/sites/986/2024/10/Exploring-RL-based-LLM-Training-for-Formal-Language-Tasks-with-Programmed-Rewards.pdf) [[pdf preprint]](https://arxiv.org/pdf/2410.17126)
+In *BNAIC/BeNeLearn 2024*. Accepted. [[pdf]](https://bnaic2024.sites.uu.nl/wp-content/uploads/sites/986/2024/10/Exploring-RL-based-LLM-Training-for-Formal-Language-Tasks-with-Programmed-Rewards.pdf) [[pdf preprint]](https://arxiv.org/pdf/2410.17126)
 
 - Graham Todd, Alexander Padula, Matthew Stephenson, Éric Piette, **Dennis J. N. J. Soemers**, and Julian Togelius (2024).
 "[GAVEL: Generating Games Via Evolution and Language Models](https://arxiv.org/abs/2407.09388)".
