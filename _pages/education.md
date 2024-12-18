@@ -2,7 +2,7 @@
 title: Education Activities
 permalink: /education/
 description: Scientific/academic/AI activities (other than publications).
-last_modified_at: 2024-11-02 10:00:00 +0100
+last_modified_at: 2024-12-18 10:00:00 +0100
 ---
 
 This page summarises my education activities and provides information for prospective thesis/internship students.
@@ -62,7 +62,7 @@ I acted as second supervisor and/or examiner *(which I have been doing since 201
 
 ### M.Sc. Thesis Students
 
-- Alexandra Gianzina *(2024)*
+- Alexandra Gianzina *(2024)*: "Evolutionary Neural Architecture Search for Autonomous Driving"
 
 ### M.Sc. Internship Students
 
