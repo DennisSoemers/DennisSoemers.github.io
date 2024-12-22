@@ -4,7 +4,7 @@ permalink: /publications/
 description: Dennis Soemers' scientific publications.
 toc: true
 toc_label: "Contents"
-toc_sticky: false
+toc_sticky: true
 last_modified_at: 2024-11-12 10:00:00 +0100
 ---
 
