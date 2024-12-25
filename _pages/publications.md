@@ -5,7 +5,7 @@ description: Dennis Soemers' scientific publications.
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2024-11-12 10:00:00 +0100
+last_modified_at: 2024-12-25 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -73,6 +73,11 @@ T. Penn, U. Schädler), volume 79 of *Monographies Instrumentum*, pp. 63--80, Dr
 In *Encyclopedia of Computer Graphics and Games*, (eds. N. Lee). Springer, Cham.
 
 ## Conference Articles
+
+- **Dennis J. N. J. Soemers**, Spyridon Samothrakis, Kurt Driessens, and Mark H. M. Winands (2025).
+"[Environment Descriptions for Usability and Generalisation in Reinforcement Learning](https://arxiv.org/abs/2412.16970)".
+In *Proceedings of the 17th International Conference on Agents and Artificial Intelligence*. Accepted.
+[[pdf preprint]](https://arxiv.org/pdf/2412.16970)
 
 - Dominic Sagers, Mark H. M. Winands, and **Dennis J. N. J. Soemers** (2024).
 "[Anytime Sequential Halving in Monte-Carlo Tree Search](https://arxiv.org/abs/2411.07171)".
