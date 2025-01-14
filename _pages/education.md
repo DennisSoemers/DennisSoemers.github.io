@@ -2,7 +2,10 @@
 title: Education Activities
 permalink: /education/
 description: Scientific/academic/AI activities (other than publications).
-last_modified_at: 2024-12-18 10:00:00 +0100
+toc: true
+toc_label: "Contents"
+toc_sticky: true
+last_modified_at: 2025-01-14 10:00:00 +0100
 ---
 
 This page summarises my education activities and provides information for prospective thesis/internship students.
@@ -57,8 +60,7 @@ if you can find ways to contact them, you may try to do so if you first want to 
 ## Current and Former Students
 
 The following is a list of students for whom I have served (or am currently serving) as **first supervisor** for their B.Sc. thesis,
-M.Sc. thesis, or internship during their M.Sc. Only includes students who have agreed to be listed. Does not include students where
-I acted as second supervisor and/or examiner *(which I have been doing since 2019)*.
+M.Sc. thesis, or internship during their M.Sc. Does not include students where I acted as second supervisor and/or examiner.
 
 ### M.Sc. Thesis Students
 
@@ -66,12 +68,11 @@ I acted as second supervisor and/or examiner *(which I have been doing since 201
 
 ### M.Sc. Internship Students
 
-- Tarik El-Khoury *(2024)*
-- José Manuel Ros Rodrigo *(2024)*
-- Dimitar Sladić *(2024)*
+- Tarik El-Khoury *(2024-2025)*
+- José Manuel Ros Rodrigo *(2024-2025)*
 
 ### B.Sc. Thesis Students
 
-- Alexandre Martens *(2024)*
+- Alexandre Martens *(2024-2025)*
 - Alexander George Padula *(2024)*: "Reinforcement Learning from Explicitly Programmed Reward Signals"
 - Dominic Sagers *(2024)*: "Sequential Halving without Predetermined Budgets in Monte-Carlo Tree Search"
