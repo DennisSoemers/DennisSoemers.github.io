@@ -5,7 +5,7 @@ description: Scientific/academic/AI activities (other than publications).
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2025-01-14 10:00:00 +0100
+last_modified_at: 2025-02-01 10:00:00 +0100
 ---
 
 This page summarises my education activities and provides information for prospective thesis/internship students.
@@ -14,10 +14,11 @@ This page summarises my education activities and provides information for prospe
 
 The following is a list of courses in which I have been involved in coordinating, giving lectures, labs, and/or assessment:
 
-- **2024**: Lecturer in *Introduction to Artificial Intelligence* course ([CS](https://curriculum.maastrichtuniversity.nl/education/bachelor/computer-science) Bachelor's program) at Maastricht University.
-- **2024**: Lecturer & Coordinator in *Reinforcement Learning* course ([AI](https://curriculum.maastrichtuniversity.nl/education/partner-program-master/artificial-intelligence) Master's program) at Maastricht University.
+- **2024**: Lecturer & Co-coordinator in *Reinforcement Learning* course ([AI](https://curriculum.maastrichtuniversity.nl/education/partner-program-master/artificial-intelligence) Master's program) at Maastricht University.
 - **2023 - 2024**: Lecturer in *Stochastic Decision Making* course ([AI](https://curriculum.maastrichtuniversity.nl/education/partner-program-master/artificial-intelligence) and [DSDM](https://curriculum.maastrichtuniversity.nl/education/partner-program-master/data-science-decision-making) Master's programs) at Maastricht University.
 - **2019 - 2024**: Lecturer in *Intelligent Search & Games* course ([AI](https://curriculum.maastrichtuniversity.nl/education/partner-program-master/artificial-intelligence) Master's program) at Maastricht University.
+- **2024**: Project designer and examiner for **M2-1: AI and Machine Learning* project ([CS](https://curriculum.maastrichtuniversity.nl/education/bachelor/computer-science) Bachelor's program) at Maastricht University.
+- **2024**: Lecturer in *Introduction to Artificial Intelligence* course ([CS](https://curriculum.maastrichtuniversity.nl/education/bachelor/computer-science) Bachelor's program) at Maastricht University.
 - **2016 - 2019**: Assistant in *Advanced Concepts in Machine Learning* course (grading presentations and reports) at Maastricht University.
 
 ## Prospective Students
@@ -59,8 +60,7 @@ if you can find ways to contact them, you may try to do so if you first want to 
 
 ## Current and Former Students
 
-The following is a list of students for whom I have served (or am currently serving) as **first supervisor** for their B.Sc. thesis,
-M.Sc. thesis, or internship during their M.Sc. Does not include students where I acted as second supervisor and/or examiner.
+The following is a list of students for whom I have served (or am currently serving) as **first supervisor** for their B.Sc. thesis, M.Sc. thesis, or internship during their M.Sc. Does not include students where I acted as second supervisor and/or examiner.
 
 ### M.Sc. Thesis Students
 
@@ -69,7 +69,7 @@ M.Sc. thesis, or internship during their M.Sc. Does not include students where I
 ### M.Sc. Internship Students
 
 - Tarik El-Khoury *(2024-2025)*
-- José Manuel Ros Rodrigo *(2024-2025)*
+- José Manuel Ros Rodrigo *(2024-2025)*: Report not public
 
 ### B.Sc. Thesis Students
 
