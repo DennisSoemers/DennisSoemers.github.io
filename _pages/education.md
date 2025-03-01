@@ -5,7 +5,7 @@ description: Scientific/academic/AI activities (other than publications).
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2025-02-01 10:00:00 +0100
+last_modified_at: 2025-03-01 10:00:00 +0100
 ---
 
 This page summarises my education activities and provides information for prospective thesis/internship students.
@@ -14,7 +14,7 @@ This page summarises my education activities and provides information for prospe
 
 The following is a list of courses in which I have been involved in coordinating, giving lectures, labs, and/or assessment:
 
-- **2024**: Lecturer & Co-coordinator in *Reinforcement Learning* course ([AI](https://curriculum.maastrichtuniversity.nl/education/partner-program-master/artificial-intelligence) Master's program) at Maastricht University.
+- **2024 - 2025**: Lecturer & Co-coordinator in *Reinforcement Learning* course ([AI](https://curriculum.maastrichtuniversity.nl/education/partner-program-master/artificial-intelligence) Master's program) at Maastricht University.
 - **2023 - 2024**: Lecturer in *Stochastic Decision Making* course ([AI](https://curriculum.maastrichtuniversity.nl/education/partner-program-master/artificial-intelligence) and [DSDM](https://curriculum.maastrichtuniversity.nl/education/partner-program-master/data-science-decision-making) Master's programs) at Maastricht University.
 - **2019 - 2024**: Lecturer in *Intelligent Search & Games* course ([AI](https://curriculum.maastrichtuniversity.nl/education/partner-program-master/artificial-intelligence) Master's program) at Maastricht University.
 - **2024**: Project designer and examiner for *M2-1: AI and Machine Learning* project ([CS](https://curriculum.maastrichtuniversity.nl/education/bachelor/computer-science) Bachelor's program) at Maastricht University.
@@ -64,15 +64,24 @@ The following is a list of students for whom I have served (or am currently serv
 
 ### M.Sc. Thesis Students
 
+- Riju Mukherjee *(2025)*
+- José Manuel Ros Rodrigo *(2025)*
 - Alexandra Gianzina *(2024)*: "Evolutionary Neural Architecture Search for Autonomous Driving"
 
 ### M.Sc. Internship Students
 
-- Tarik El-Khoury *(2024-2025)*
+- Tarik El Khoury *(2024-2025)*
 - José Manuel Ros Rodrigo *(2024-2025)*: Report not public
 
 ### B.Sc. Thesis Students
 
+- Sashank Chapala *(2025)*
+- Andrew Crabtree *(2025)*
+- Denis Gafarov *(2025)*
 - Alexandre Martens *(2024-2025)*
 - Alexander George Padula *(2024)*: "Reinforcement Learning from Explicitly Programmed Reward Signals"
 - Dominic Sagers *(2024)*: "Sequential Halving without Predetermined Budgets in Monte-Carlo Tree Search"
+
+### [KE@Work](https://www.maastrichtuniversity.nl/research/department-advanced-computing-sciences/education/keworkmarble-20/kework-information) Students
+
+- Emma Szilagyi *(2024-2025)*
