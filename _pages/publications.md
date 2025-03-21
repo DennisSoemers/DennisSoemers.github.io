@@ -18,7 +18,7 @@ This page lists all of my scientific publications. They are sorted by publicatio
 
 - Jakub Kowalski, Elliot Doe, Mark H.M. Winands, Daniel Górski, and **Dennis J.N.J. Soemers** (2024).
 "[Proof Number Based Monte-Carlo Tree Search](https://ieeexplore.ieee.org/document/10535724)".
-*IEEE Transactions on Games*, in press. IEEE.
+*IEEE Transactions on Games*, vol. 17, no. 1, pp. 148--157. IEEE.
 [[pdf preprint]](https://arxiv.org/pdf/2303.09449.pdf)
 
 - Éric Piette, Walter Crist, **Dennis J.N.J. Soemers**, Lisa Rougetet, Summer Courts, Tim Penn, and Achille Morenville (2024).
