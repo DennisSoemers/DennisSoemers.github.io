@@ -5,7 +5,7 @@ description: Dennis Soemers' scientific publications.
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2025-02-27 10:00:00 +0100
+last_modified_at: 2025-04-04 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -79,9 +79,11 @@ In *Encyclopedia of Computer Graphics and Games*, (eds. N. Lee). Springer, Cham.
 In *Proceedings of the 17th International Conference on Agents and Artificial Intelligence*, Vol. 3, pp. 983--992.
 [[pdf preprint]](https://arxiv.org/pdf/2412.16970)
 
-- Dominic Sagers, Mark H. M. Winands, and **Dennis J. N. J. Soemers** (2024).
-"[Anytime Sequential Halving in Monte-Carlo Tree Search](https://arxiv.org/abs/2411.07171)".
-In *Computers and Games 2024*. Accepted. [[pdf preprint]](https://arxiv.org/pdf/2411.07171)
+- Dominic Sagers, Mark H. M. Winands, and **Dennis J. N. J. Soemers** (2025).
+"[Anytime Sequential Halving in Monte-Carlo Tree Search](https://link.springer.com/chapter/10.1007/978-3-031-86585-5_8)".
+In Hartisch, M., Hsueh, C.-H., and Schaeffer, J., editors, *Computers and Games 2024*, pp. 91--102. 
+Lecture Notes in Computer Science, vol 15550. Springer, Cham.
+[[pdf preprint]](https://arxiv.org/pdf/2411.07171)
 
 - Alexander G. Padula and **Dennis J. N. J. Soemers** (2024).
 "[Exploring RL-based LLM Training for Formal Language Tasks with Programmed Rewards](https://arxiv.org/abs/2410.17126)".
