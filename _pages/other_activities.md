@@ -2,7 +2,7 @@
 title: Other Activities
 permalink: /other_activities/
 description: Scientific/academic/AI activities (other than publications and education activities).
-last_modified_at: 2024-09-27 10:00:00 +0100
+last_modified_at: 2025-04-08 10:00:00 +0100
 ---
 
 This page summarises some of my scientific/academic/AI-related activities (other than my [publications](/publications/), and
@@ -26,8 +26,9 @@ This page summarises some of my scientific/academic/AI-related activities (other
 - Main organiser of the ["UM - Game-Playing Strength of MCTS Variants"](https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants) on Kaggle.
 (50,000 USD prize pool)
 
-## Attended Invite-only Events
+## Invited Talks & Invite-only Events
 
+- "Generality and Generalisation in Principle and in Practice": [INGI Seminar](https://www.linkedin.com/events/ingiseminarbydennissoemers7307407331636473856/) at UCLouvain (2025)
 - [Aachen Symposium on Representation Learning to Act and Plan](https://symposium.ml.rwth-aachen.de/) (2024)
 - [Dagstuhl Research Meeting on Digital Archaeoludology](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/19153) (2019)
 
@@ -59,11 +60,12 @@ I have reviewed papers for the following conferences:
 - Foundations of Digital Games (**FDG**)
 - IEEE Conference on Games (**CoG**)
 - IEEE Symposium Series on Computational Intelligence (**SSCI**)
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**)
 - International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)
 - International Conference on Learning Representations (**ICLR**) (**Outstanding/Highlighted/Notable Reviewer** [2021](https://iclr.cc/Conferences/2021/Reviewers), [2022](https://iclr.cc/Conferences/2022/Reviewers), [2023](https://iclr.cc/Conferences/2023/Reviewers))
 - International Conference on Machine Learning (**ICML**) (**Outstanding Reviewer** [2022](https://icml.cc/Conferences/2022/Reviewers))
 - International Joint Conference on Artificial Intelligence (**IJCAI**)
-- Reinforcement Learning Conference (**RLC**) (Senior Reviewer)
+- Reinforcement Learning Conference (**RLC**) (Senior Reviewer 2024, Area Chair 2025+)
 
 ### Peer Review - Workshops
 
