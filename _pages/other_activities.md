@@ -2,14 +2,15 @@
 title: Other Activities
 permalink: /other_activities/
 description: Scientific/academic/AI activities (other than publications and education activities).
-last_modified_at: 2025-04-08 10:00:00 +0100
+last_modified_at: 2025-04-25 10:00:00 +0100
 ---
 
 This page summarises some of my scientific/academic/AI-related activities (other than my [publications](/publications/), and
 [education activities](/education/), which have their own dedicated pages).
 
-## Networks
+## Committees & Networks
 
+- **Vice Chair** of the [IEEE CIS Games Technical Committee](https://cis.ieee.org/activities/technical-activities/games-technical-committee)
 - **Co-leader** for Working Group 1: *Search, Planning, Learning, and Explainability* of [COST Action CA22145: Computational Techniques for Tabletop Games Heritage (GameTable)](https://www.cost.eu/actions/CA22145/).
 - Representative of *the Netherlands* in the **Management Committee** of [COST Action CA22145: Computational Techniques for Tabletop Games Heritage (GameTable)](https://www.cost.eu/actions/CA22145/).
 
