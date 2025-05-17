@@ -5,7 +5,7 @@ description: Scientific/academic/AI activities (other than publications).
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2025-03-01 10:00:00 +0100
+last_modified_at: 2025-05-17 10:00:00 +0100
 ---
 
 This page summarises my education activities and provides information for prospective thesis/internship students.
@@ -70,7 +70,7 @@ The following is a list of students for whom I have served (or am currently serv
 
 ### M.Sc. Internship Students
 
-- Tarik El Khoury *(2024-2025)*
+- Tarik El Khoury *(2024-2025)*: "A Reproducibility Study of Stochastic Q-Learning for Large Discrete Action Spaces"
 - José Manuel Ros Rodrigo *(2024-2025)*: Report not public
 
 ### B.Sc. Thesis Students
