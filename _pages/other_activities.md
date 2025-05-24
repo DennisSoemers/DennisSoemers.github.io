@@ -1,8 +1,8 @@
 ---
 title: Other Activities
 permalink: /other_activities/
-description: Scientific/academic/AI activities (other than publications and education activities).
-last_modified_at: 2025-04-25 10:00:00 +0100
+description: Scientific/academic/AI/outreach activities (other than publications and education activities).
+last_modified_at: 2025-05-24 10:00:00 +0100
 ---
 
 This page summarises some of my scientific/academic/AI-related activities (other than my [publications](/publications/), and
@@ -29,6 +29,7 @@ This page summarises some of my scientific/academic/AI-related activities (other
 
 ## Invited Talks & Invite-only Events
 
+- "Diversity and Inclusion... in Data Science": [Pient of Science Maastricht 2025](https://www.maastrichtuniversity.nl/events/pint-science-maastricht-2025) (duo-presentation with prof. dr. Nava Tintarev) (2025)
 - "Generality and Generalisation in Principle and in Practice": [INGI Seminar](https://www.linkedin.com/events/ingiseminarbydennissoemers7307407331636473856/) at UCLouvain (2025)
 - [Aachen Symposium on Representation Learning to Act and Plan](https://symposium.ml.rwth-aachen.de/) (2024)
 - [Dagstuhl Research Meeting on Digital Archaeoludology](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/19153) (2019)
