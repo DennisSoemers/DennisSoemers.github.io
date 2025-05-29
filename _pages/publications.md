@@ -80,7 +80,7 @@ In *Encyclopedia of Computer Graphics and Games*, (eds. N. Lee). Springer, Cham.
 
 - **Dennis J. N. J. Soemers**, Spyridon Samothrakis, Kurt Driessens, and Mark H. M. Winands (2025).
 "[Environment Descriptions for Usability and Generalisation in Reinforcement Learning](https://www.scitepress.org/PublicationsDetail.aspx?ID=G9RZFAM4vc0=&t=1)".
-In *Proceedings of the 17th International Conference on Agents and Artificial Intelligence*, Vol. 3, pp. 983--992.
+In A. P. Rocha, L. Steels, and H. J. van den Herik, editors, *Proceedings of the 17th International Conference on Agents and Artificial Intelligence*, Vol. 3, pp. 983--992.
 [[pdf preprint]](https://arxiv.org/pdf/2412.16970)
 
 - Dominic Sagers, Mark H. M. Winands, and **Dennis J. N. J. Soemers** (2025).
