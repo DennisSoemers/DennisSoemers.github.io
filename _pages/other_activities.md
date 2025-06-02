@@ -2,7 +2,7 @@
 title: Other Activities
 permalink: /other_activities/
 description: Scientific/academic/AI/outreach activities (other than publications and education activities).
-last_modified_at: 2025-05-24 10:00:00 +0100
+last_modified_at: 2025-06-02 10:00:00 +0100
 ---
 
 This page summarises some of my scientific/academic/AI-related activities (other than my [publications](/publications/), and
@@ -21,6 +21,10 @@ This page summarises some of my scientific/academic/AI-related activities (other
 - Secondary proposer for [COST Action CA22145: Computational Techniques for Tabletop Games Heritage (GameTable)](https://www.cost.eu/actions/CA22145/) (**~600,000 euros** over 4 years, awarded on **12/05/2023**)
 
 ## Organisation
+
+### Organisation of Symposiums
+
+- Organised [SIKS-DACS Symposium: Advances in Game AI and its Applications](https://www.maastrichtuniversity.nl/events/siks-dacs-symposium-advances-game-ai-and-its-applications) (June 4, 2025).
 
 ### Organisation of Competitions
 
@@ -47,6 +51,7 @@ I have reviewed papers for the following journals:
 - Information Sciences
 - IEEE Transactions on Games (**TOG**) ([**Outstanding Reviewer for 2022**](https://www.linkedin.com/posts/ieee-transactions-on-games_during-the-closing-ceremony-of-the-ieee-conference-activity-7100898710305275905-xtKP/))
 - International Computer Games Association Journal (**ICGA**)
+- SN Computer Science 
 
 ### Peer Review - Conferences
 
