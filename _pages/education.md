@@ -64,6 +64,7 @@ The following is a list of students for whom I have served (or am currently serv
 
 ### M.Sc. Thesis Students
 
+- Tarik El Khoury *(2025)*
 - Riju Mukherjee *(2025)*
 - José Manuel Ros Rodrigo *(2025)*
 - Alexandra Gianzina *(2024)*: "Evolutionary Neural Architecture Search for Autonomous Driving"
