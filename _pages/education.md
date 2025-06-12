@@ -85,4 +85,4 @@ The following is a list of students for whom I have served (or am currently serv
 
 ### [KE@Work](https://www.maastrichtuniversity.nl/research/department-advanced-computing-sciences/education/keworkmarble-20/kework-information) Students
 
-- Emma Szilagyi *(2024-2025)*
+- Emma Szilagyi *(2024-2026)*
