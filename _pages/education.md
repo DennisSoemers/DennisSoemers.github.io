@@ -54,8 +54,7 @@ that I would be able to perform well as a supervisor:
 - Adaptation to adversaries in other applications of AI (e.g., credit card fraud detection, security-related domains).
 - Applications of AI / Data Mining to eSports.
 
-At the bottom of this page, I have a list of current and former students for whom I act / have acted as first supervisor,
-who have also agreed to have their name listed. I am not going to spread their email addresses all over the internet, but 
+At the bottom of this page, I have a list of current and former students for whom I act / have acted as first supervisor. I am not going to spread their email addresses all over the internet, but 
 if you can find ways to contact them, you may try to do so if you first want to hear about their experience with my supervision.
 
 ## Current and Former Students
