@@ -5,7 +5,7 @@ description: Dennis Soemers' scientific publications.
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2025-06-17 10:00:00 +0100
+last_modified_at: 2025-07-01 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -207,6 +207,8 @@ In *2016 IEEE Conference on Computational Intelligence and Games (CIG 2016)*, pp
 In *2016 IEEE Conference on Computational Intelligence and Games (CIG 2016)*, pp. 1-8. IEEE. [[pdf]](/assets/publications/CIG2016_HTN.pdf)
 
 ## Preprints
+
+- Graham Todd, Alexander G. Padula, **Dennis J.N.J. Soemers**, and Julian Togelius (2025). "[Ludax: A GPU-Accelerated Domain Specific Language for Board Games](https://arxiv.org/abs/2506.22609)". [[pdf preprint]](https://arxiv.org/pdf/2506.22609)
 
 - Jakub Kowalski, **Dennis J.N.J. Soemers**, Szymon Kosakowski, and Mark H. M. Winands (2025). "[Generalized Proof-Number Monte-Carlo Tree Search](https://arxiv.org/abs/2506.13249)". [[pdf preprint]](https://arxiv.org/pdf/2506.13249)
 
