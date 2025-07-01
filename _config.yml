@@ -121,9 +121,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:d.soemers@gmail.com
-    - label: "Twitter"
+    - label: "X.com"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/DennisSoemers"
+      url: "https://x.com/DennisSoemers"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DennisSoemers"
@@ -136,6 +136,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/dennis-soemers/"
+    - label: "Untappd"
+      icon: "fab fa-fw fa-untappd"
+      url: "https://untappd.com/user/DennisSoemers"
 
 # Site Footer
 footer:
