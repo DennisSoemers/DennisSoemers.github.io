@@ -1,0 +1,10 @@
+// Overriding variables
+$fa-inverse: var(--background);  // For it to use the theme's background colour 
+$fa-font-path: "../fonts/font-awesome" !default; // To define the font's path
+
+// Importing font-awesome's main files
+@import 'font-awesome/fontawesome';
+@import 'font-awesome/brands';
+@import 'font-awesome/regular';
+@import 'font-awesome/solid';
+@import 'font-awesome/v4-shims';
