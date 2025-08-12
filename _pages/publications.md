@@ -5,12 +5,17 @@ description: Dennis Soemers' scientific publications.
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2025-07-11 10:00:00 +0100
+last_modified_at: 2025-08-12 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
 
 ## Journal Articles
+
+- **Dennis J. N. J. Soemers**, Spyridon Samothrakis, Kurt Driessens, and Mark H. M. Winands (2025).
+"[A Research Agenda for Usability and Generalisation in Reinforcement Learning](https://arxiv.org/abs/2412.16970)".
+To appear in Revised Selected Papers for ICAART 2025.
+[[pdf preprint]](https://arxiv.org/pdf/2412.16970)
 
 - **Dennis J.N.J. Soemers**, Jakub Kowalski, Walter Crist, Summer Courts, Tim Penn, and Éric Piette (2025).
 "[Bridging Artificial Intelligence (AI) and Cultural Heritage: Outcomes From the GameTable Working Group 1 (WG1) London Meeting](https://journals.sagepub.com/doi/10.1177/13896911251329543)".
@@ -84,7 +89,7 @@ In *2025 European Conference on Artificial Intelligence*. Accepted. [[pdf prepri
 - **Dennis J. N. J. Soemers**, Spyridon Samothrakis, Kurt Driessens, and Mark H. M. Winands (2025).
 "[Environment Descriptions for Usability and Generalisation in Reinforcement Learning](https://www.scitepress.org/PublicationsDetail.aspx?ID=G9RZFAM4vc0=&t=1)".
 In A. P. Rocha, L. Steels, and H. J. van den Herik, editors, *Proceedings of the 17th International Conference on Agents and Artificial Intelligence*, Vol. 3, pp. 983--992.
-[[pdf preprint]](https://arxiv.org/pdf/2412.16970)
+[[pdf preprint]](https://arxiv.org/pdf/2412.16970v1)
 
 - Dominic Sagers, Mark H. M. Winands, and **Dennis J. N. J. Soemers** (2025).
 "[Anytime Sequential Halving in Monte-Carlo Tree Search](https://link.springer.com/chapter/10.1007/978-3-031-86585-5_8)".
