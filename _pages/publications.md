@@ -5,7 +5,7 @@ description: Dennis Soemers' scientific publications.
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2025-08-12 10:00:00 +0100
+last_modified_at: 2025-08-14 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -15,7 +15,7 @@ This page lists all of my scientific publications. They are sorted by publicatio
 - **Dennis J. N. J. Soemers**, Spyridon Samothrakis, Kurt Driessens, and Mark H. M. Winands (2025).
 "[A Research Agenda for Usability and Generalisation in Reinforcement Learning](https://arxiv.org/abs/2412.16970)".
 To appear in Revised Selected Papers for ICAART 2025.
-[[pdf preprint]](https://arxiv.org/pdf/2412.16970)
+[[pdf preprint]](/assets/publications/2412.16970v2.pdf)
 
 - **Dennis J.N.J. Soemers**, Jakub Kowalski, Walter Crist, Summer Courts, Tim Penn, and Éric Piette (2025).
 "[Bridging Artificial Intelligence (AI) and Cultural Heritage: Outcomes From the GameTable Working Group 1 (WG1) London Meeting](https://journals.sagepub.com/doi/10.1177/13896911251329543)".
