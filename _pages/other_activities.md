@@ -2,7 +2,7 @@
 title: Other Activities
 permalink: /other_activities/
 description: Scientific/academic/AI/outreach activities (other than publications and education activities).
-last_modified_at: 2025-06-02 10:00:00 +0100
+last_modified_at: 2025-08-24 10:00:00 +0100
 ---
 
 This page summarises some of my scientific/academic/AI-related activities (other than my [publications](/publications/), and
@@ -49,6 +49,7 @@ This page summarises some of my scientific/academic/AI-related activities (other
 I have reviewed papers for the following journals:
 
 - Information Sciences
+- IEEE Access
 - IEEE Transactions on Games (**TOG**) ([**Outstanding Reviewer for 2022**](https://www.linkedin.com/posts/ieee-transactions-on-games_during-the-closing-ceremony-of-the-ieee-conference-activity-7100898710305275905-xtKP/))
 - International Computer Games Association Journal (**ICGA**)
 - SN Computer Science 
