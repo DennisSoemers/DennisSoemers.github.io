@@ -5,7 +5,7 @@ description: Education activities.
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2025-06-12 10:00:00 +0100
+last_modified_at: 2025-08-29 10:00:00 +0100
 ---
 
 This page summarises my education activities and provides information for prospective thesis/internship students.
@@ -14,10 +14,11 @@ This page summarises my education activities and provides information for prospe
 
 The following is a list of courses in which I have been involved in coordinating, giving lectures, labs, and/or assessment:
 
-- **2024 - 2025**: Lecturer & Co-coordinator in *Reinforcement Learning* course ([AI](https://curriculum.maastrichtuniversity.nl/education/partner-program-master/artificial-intelligence) Master's program) at Maastricht University.
+- **2025**: Coordinator & Lecturer in *Objects in Programming* course ([CS](https://www.maastrichtuniversity.nl/education/bachelor/programmes/computer-science) / [DSAI](https://www.maastrichtuniversity.nl/education/bachelor/programmes/data-science-and-artificial-intelligence) Bachelor's programmes) at Maastricht University.
+- **2024 - 2026**: Lecturer & Co-coordinator in *Reinforcement Learning* course ([AI](https://curriculum.maastrichtuniversity.nl/education/partner-program-master/artificial-intelligence) Master's program) at Maastricht University.
+- **2019 - 2025**: Lecturer in *Intelligent Search & Games* course ([AI](https://curriculum.maastrichtuniversity.nl/education/partner-program-master/artificial-intelligence) Master's program) at Maastricht University.
+- **2024 - 2025/2026**: Project designer and examiner for *M2-1: AI and Machine Learning* project ([CS](https://curriculum.maastrichtuniversity.nl/education/bachelor/computer-science) Bachelor's program) at Maastricht University.
 - **2023 - 2024**: Lecturer in *Stochastic Decision Making* course ([AI](https://curriculum.maastrichtuniversity.nl/education/partner-program-master/artificial-intelligence) and [DSDM](https://curriculum.maastrichtuniversity.nl/education/partner-program-master/data-science-decision-making) Master's programs) at Maastricht University.
-- **2019 - 2024**: Lecturer in *Intelligent Search & Games* course ([AI](https://curriculum.maastrichtuniversity.nl/education/partner-program-master/artificial-intelligence) Master's program) at Maastricht University.
-- **2024**: Project designer and examiner for *M2-1: AI and Machine Learning* project ([CS](https://curriculum.maastrichtuniversity.nl/education/bachelor/computer-science) Bachelor's program) at Maastricht University.
 - **2024**: Lecturer in *Introduction to Artificial Intelligence* course ([CS](https://curriculum.maastrichtuniversity.nl/education/bachelor/computer-science) Bachelor's program) at Maastricht University.
 - **2016 - 2019**: Assistant in *Advanced Concepts in Machine Learning* course (grading presentations and reports) at Maastricht University.
 
@@ -63,13 +64,15 @@ The following is a list of students for whom I have served (or am currently serv
 
 ### M.Sc. Thesis Students
 
+- Alan van den Akker *(2025-2026)*
 - Tarik El Khoury *(2025)*
-- Riju Mukherjee *(2025)*
-- José Manuel Ros Rodrigo *(2025)*
+- Riju Mukherjee *(2025)*: Can Robots Go Grocery Shopping? Brain-Inspired World Models for Universal Reinforcement Learning
+- José Manuel Ros Rodrigo *(2025)*: Towards general board game playing agents: exploring World Models and Ludii
 - Alexandra Gianzina *(2024)*: "Evolutionary Neural Architecture Search for Autonomous Driving"
 
 ### M.Sc. Internship Students
 
+- Vincent Hoogstraten *(2025-2026)*
 - Tarik El Khoury *(2024-2025)*: "A Reproducibility Study of Stochastic Q-Learning for Large Discrete Action Spaces"
 - José Manuel Ros Rodrigo *(2024-2025)*: Report not public
 
@@ -78,7 +81,6 @@ The following is a list of students for whom I have served (or am currently serv
 - Sashank Chapala *(2025)*: Improving Anytime Sequential Halving: Dynamic Pruning And Iteration Allocation
 - Andrew Crabtree *(2025)*: Reinforcement Learning in RTS: Improving Generalizability for Gym-μRTS
 - Denis Gafarov *(2025)*: "Exploring and exploiting equivariant and invariant properties of E(2)-Equivariant Steerable Convolutional Neural Networks in NeuralMMO"
-- Alexandre Martens *(2024-2025)*
 - Alexander George Padula *(2024)*: "Reinforcement Learning from Explicitly Programmed Reward Signals"
 - Dominic Sagers *(2024)*: "Sequential Halving without Predetermined Budgets in Monte-Carlo Tree Search"
 
