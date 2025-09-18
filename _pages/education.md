@@ -67,8 +67,8 @@ The following is a list of students for whom I have served (or am currently serv
 - Alan van den Akker *(2025-2026)*
 - Andy Caen *(2025-2026)*
 - Tarik El Khoury *(2025)*
-- Riju Mukherjee *(2025)*: Can Robots Go Grocery Shopping? Brain-Inspired World Models for Universal Reinforcement Learning
-- José Manuel Ros Rodrigo *(2025)*: Towards general board game playing agents: exploring World Models and Ludii
+- Riju Mukherjee *(2025)*: "Can Robots Go Grocery Shopping? Brain-Inspired World Models for Universal Reinforcement Learning"
+- José Manuel Ros Rodrigo *(2025)*: "Towards general board game playing agents: exploring World Models and Ludii"
 - Alexandra Gianzina *(2024)*: "Evolutionary Neural Architecture Search for Autonomous Driving"
 
 ### M.Sc. Internship Students
@@ -80,8 +80,8 @@ The following is a list of students for whom I have served (or am currently serv
 ### B.Sc. Thesis Students
 
 - Hai Nguyen *(2025)*
-- Sashank Chapala *(2025)*: Improving Anytime Sequential Halving: Dynamic Pruning And Iteration Allocation
-- Andrew Crabtree *(2025)*: Reinforcement Learning in RTS: Improving Generalizability for Gym-μRTS
+- Sashank Chapala *(2025)*: "Improving Anytime Sequential Halving: Dynamic Pruning And Iteration Allocation"
+- Andrew Crabtree *(2025)*: "Reinforcement Learning in RTS: Improving Generalizability for Gym-μRTS"
 - Denis Gafarov *(2025)*: "Exploring and exploiting equivariant and invariant properties of E(2)-Equivariant Steerable Convolutional Neural Networks in NeuralMMO"
 - Alexander George Padula *(2024)*: "Reinforcement Learning from Explicitly Programmed Reward Signals"
 - Dominic Sagers *(2024)*: "Sequential Halving without Predetermined Budgets in Monte-Carlo Tree Search"
