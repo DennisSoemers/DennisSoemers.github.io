@@ -5,7 +5,7 @@ description: Education activities.
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2025-09-08 10:00:00 +0100
+last_modified_at: 2025-09-18 10:00:00 +0100
 ---
 
 This page summarises my education activities and provides information for prospective thesis/internship students.
@@ -79,6 +79,7 @@ The following is a list of students for whom I have served (or am currently serv
 
 ### B.Sc. Thesis Students
 
+- Hai Nguyen *(2025)*
 - Sashank Chapala *(2025)*: Improving Anytime Sequential Halving: Dynamic Pruning And Iteration Allocation
 - Andrew Crabtree *(2025)*: Reinforcement Learning in RTS: Improving Generalizability for Gym-μRTS
 - Denis Gafarov *(2025)*: "Exploring and exploiting equivariant and invariant properties of E(2)-Equivariant Steerable Convolutional Neural Networks in NeuralMMO"
