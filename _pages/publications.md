@@ -5,7 +5,7 @@ description: Dennis Soemers' scientific publications.
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2025-08-14 10:00:00 +0100
+last_modified_at: 2025-10-23 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -83,8 +83,9 @@ In *Encyclopedia of Computer Graphics and Games*, (eds. N. Lee). Springer, Cham.
 
 ## Conference Articles
 
-- Jakub Kowalski, **Dennis J.N.J. Soemers**, Szymon Kosakowski, and Mark H. M. Winands (2025). "[Generalized Proof-Number Monte-Carlo Tree Search](https://arxiv.org/abs/2506.13249)".
-In *2025 European Conference on Artificial Intelligence*. Accepted. [[pdf preprint]](https://arxiv.org/pdf/2506.13249)
+- Jakub Kowalski, **Dennis J.N.J. Soemers**, Szymon Kosakowski, and Mark H. M. Winands (2025). "[Generalized Proof-Number Monte-Carlo Tree Search](https://ebooks.iospress.nl/volumearticle/76342)".
+In I. Lynce, N. Murano, M. Vallati, S. Villata, F. Chesani, M. Milano, A. Omicini, M. Dastani, editors, *2025 European Conference on Artificial Intelligence*, 
+Vol. 413 of Frontiers in Artificial Intelligence and Applications, pp. 4945--4952. IOS Press. [[pdf preprint]](https://arxiv.org/pdf/2506.13249)
 
 - **Dennis J. N. J. Soemers**, Spyridon Samothrakis, Kurt Driessens, and Mark H. M. Winands (2025).
 "[Environment Descriptions for Usability and Generalisation in Reinforcement Learning](https://www.scitepress.org/PublicationsDetail.aspx?ID=G9RZFAM4vc0=&t=1)".
