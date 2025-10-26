@@ -25,11 +25,16 @@ The following is a list of courses in which I have been involved in coordinating
 ## Prospective Students
 
 If you are a student at [Maastricht University's Department of Advanced Computing Sciences](https://www.maastrichtuniversity.nl/dacs),
-and are potentially interested in having me serve as first supervisor for your B.Sc. or M.Sc. thesis, or an internship, **please contact me** 
+and are potentially interested in having me serve as first supervisor for your  M.Sc. thesis, or an internship, **please contact me** 
 by sending a mail to my UM email address. **I recommend to contact me early**, as I usually get approached by many more students than I can
-accept per semester. **Make sure to include** (preferably in a neatly organised list, not hidden inside a huge wall of text):
+accept per semester. 
 
-- Whether it is for B.Sc. thesis, M.Sc. thesis, an internship, or anything else.
+**Do not email me for B.Sc. thesis supervision**. We have a different centralised system for this. The below information still give an impression of what you should think about though,
+when considering where to rank me in your list of preferences for supervisors.
+
+**Make sure to include** (preferably in a neatly organised list, not hidden inside a huge wall of text):
+
+- Whether it is for M.Sc. thesis, an internship, or anything else.
 - When you expect to start your project (month + year).
 - If they are already close: any deadlines you have in relation to this request (e.g., deadline by which you need to submit a project proposal to the Board of Examiners).
 - Which programming languages you are comfortable with. **Note that, for practically any project with me, it will be necessary to have strong programming skills**.
@@ -88,4 +93,5 @@ The following is a list of students for whom I have served (or am currently serv
 
 ### [KE@Work](https://www.maastrichtuniversity.nl/research/department-advanced-computing-sciences/education/keworkmarble-20/kework-information) Students
 
+- Felipe Janssen *(2025-2027)*
 - Emma Szilagyi *(2024-2026)*
