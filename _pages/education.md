@@ -5,7 +5,7 @@ description: Education activities.
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2025-09-18 10:00:00 +0100
+last_modified_at: 2025-10-26 10:00:00 +0100
 ---
 
 This page summarises my education activities and provides information for prospective thesis/internship students.
