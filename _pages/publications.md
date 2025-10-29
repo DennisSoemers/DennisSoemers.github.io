@@ -5,7 +5,7 @@ description: Dennis Soemers' scientific publications.
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2025-10-23 10:00:00 +0100
+last_modified_at: 2025-10-29 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -82,6 +82,9 @@ T. Penn, U. Schädler), volume 79 of *Monographies Instrumentum*, pp. 63--80, Dr
 In *Encyclopedia of Computer Graphics and Games*, (eds. N. Lee). Springer, Cham.
 
 ## Conference Articles
+
+- Riju Mukherjee, Kurt Driessens, and **Dennis J.N.J. Soemers** (2025).
+"Multi-Environment MiniGrid World Models". *BNAIC/BeNeLearn 2025*. Accepted.
 
 - Jakub Kowalski, **Dennis J.N.J. Soemers**, Szymon Kosakowski, and Mark H. M. Winands (2025). "[Generalized Proof-Number Monte-Carlo Tree Search](https://ebooks.iospress.nl/volumearticle/76342)".
 In I. Lynce, N. Murano, M. Vallati, S. Villata, F. Chesani, M. Milano, A. Omicini, M. Dastani, editors, *2025 European Conference on Artificial Intelligence*, 
@@ -257,12 +260,15 @@ Department of Data Science and Knowledge Engineering, Maastricht University, Maa
 
 ## Other
 
+- **Dennis J.N.J. Soemers**, Spyridon Samothrakis, Kurt Driessens, Mark H.M. Winands (2025).
+"Encore Abstract: A Research Agenda for Usability and Generalisation in Reinforcement Learning". *BNAIC/BeNeLearn 2025*. (Encore Abstract)
+
 - **Dennis J.N.J. Soemers**, Vegard Mella, Éric Piette, Matthew Stephenson, Cameron Browne and Olivier Teytaud (2024).
-Towards a General Transfer Approach for Policy-Value Networks". *BNAIC/BeNeLearn 2024*, Accepted. (Encore Abstract) [[pdf]](https://bnaic2024.sites.uu.nl/wp-content/uploads/sites/986/2024/10/Towards-a-General-Transfer-Approach-for-Policy-Value-Networks.pdf)
+"Towards a General Transfer Approach for Policy-Value Networks". *BNAIC/BeNeLearn 2024*. (Encore Abstract) [[pdf]](https://bnaic2024.sites.uu.nl/wp-content/uploads/sites/986/2024/10/Towards-a-General-Transfer-Approach-for-Policy-Value-Networks.pdf)
 
 - Walter Crist, Cameron Browne and **Dennis J.N.J. Soemers** (2022).
 "Spelen uit de klassieke oudheide reconstrueren: het Digital Ludeme Project".
-*Hermeneus*, vol. 94(4), pp. 7--15. Nederlands Klassiek Verbond. In Dutch.
+[*Hermeneus*, vol. 94(4)](https://nederlandsklassiekverbond.nl/wp-content/uploads/2025/08/94-4_2267692-HERMENEUS-944.pdf), pp. 7--15. Nederlands Klassiek Verbond. In Dutch.
 
 - Eric Piette, Lisa Rougetet, Walter Crist, Matthew Stephenson, **Dennis J.N.J. Soemers**, and Cameron Browne (2021). 
 "[A Ludii analysis of the French Military Game](https://bgsparis2020.com/wp-content/uploads/2021/04/LLSHScolloque-livret-liens_2.pdf)". 
