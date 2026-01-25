@@ -5,7 +5,7 @@ description: Education activities.
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2025-10-26 10:00:00 +0100
+last_modified_at: 2026-01-25 10:00:00 +0100
 ---
 
 This page summarises my education activities and provides information for prospective thesis/internship students.
@@ -71,7 +71,7 @@ The following is a list of students for whom I have served (or am currently serv
 
 - Alan van den Akker *(2025-2026)*
 - Andy Caen *(2025-2026)*
-- Tarik El Khoury *(2025)*
+- Tarik El Khoury *(2025-2026)*
 - Riju Mukherjee *(2025)*: "Can Robots Go Grocery Shopping? Brain-Inspired World Models for Universal Reinforcement Learning"
 - José Manuel Ros Rodrigo *(2025)*: "Towards general board game playing agents: exploring World Models and Ludii"
 - Alexandra Gianzina *(2024)*: "Evolutionary Neural Architecture Search for Autonomous Driving"
@@ -84,7 +84,8 @@ The following is a list of students for whom I have served (or am currently serv
 
 ### B.Sc. Thesis Students
 
-- Hai Nguyen *(2025)*
+- Marģers Liepiņš *(2025-2026)*: "Exploring the Effect of Different Perfect Information Evaluators on the Performance of the Extended Perfect Information Monte Carlo Algorithm"
+- Hai Nguyen *(2025-2026)*: "Learning Action Duration in Reinforcement Learning for Fighting Games"
 - Sashank Chapala *(2025)*: "Improving Anytime Sequential Halving: Dynamic Pruning And Iteration Allocation"
 - Andrew Crabtree *(2025)*: "Reinforcement Learning in RTS: Improving Generalizability for Gym-μRTS"
 - Denis Gafarov *(2025)*: "Exploring and exploiting equivariant and invariant properties of E(2)-Equivariant Steerable Convolutional Neural Networks in NeuralMMO"
