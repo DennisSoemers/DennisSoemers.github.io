@@ -69,6 +69,7 @@ The following is a list of students for whom I have served (or am currently serv
 
 ### M.Sc. Thesis Students
 
+- Thomas Vroom *(2026)*
 - Alan van den Akker *(2025-2026)*
 - Andy Caen *(2025-2026)*
 - Tarik El Khoury *(2025-2026)*
@@ -78,12 +79,15 @@ The following is a list of students for whom I have served (or am currently serv
 
 ### M.Sc. Internship Students
 
+- Kasra Ebrahimi *(2026)*
 - Vincent Hoogstraten *(2025-2026)*
 - Tarik El Khoury *(2024-2025)*: "A Reproducibility Study of Stochastic Q-Learning for Large Discrete Action Spaces"
 - José Manuel Ros Rodrigo *(2024-2025)*: Report not public
 
 ### B.Sc. Thesis Students
 
+- Irina Iarlykanova *(2026)*
+- Marcel Pendyk *(2026)*
 - Marģers Liepiņš *(2025-2026)*: "Exploring the Effect of Different Perfect Information Evaluators on the Performance of the Extended Perfect Information Monte Carlo Algorithm"
 - Hai Nguyen *(2025-2026)*: "Learning Action Duration in Reinforcement Learning for Fighting Games"
 - Sashank Chapala *(2025)*: "Improving Anytime Sequential Halving: Dynamic Pruning And Iteration Allocation"
