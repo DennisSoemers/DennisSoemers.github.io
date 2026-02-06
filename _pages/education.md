@@ -5,7 +5,7 @@ description: Education activities.
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2026-01-25 10:00:00 +0100
+last_modified_at: 2026-02-06 10:00:00 +0100
 ---
 
 This page summarises my education activities and provides information for prospective thesis/internship students.
@@ -69,6 +69,8 @@ The following is a list of students for whom I have served (or am currently serv
 
 ### M.Sc. Thesis Students
 
+- Lorenzo Bianchi *(2026)*
+- Skyler Johnson *(2026)*
 - Thomas Vroom *(2026)*
 - Alan van den Akker *(2025-2026)*
 - Andy Caen *(2025-2026)*
