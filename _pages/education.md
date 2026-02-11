@@ -5,7 +5,7 @@ description: Education activities.
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2026-02-06 10:00:00 +0100
+last_modified_at: 2026-02-11 10:00:00 +0100
 ---
 
 This page summarises my education activities and provides information for prospective thesis/internship students.
@@ -65,7 +65,11 @@ if you can find ways to contact them, you may try to do so if you first want to 
 
 ## Current and Former Students
 
-The following is a list of students for whom I have served (or am currently serving) as **first supervisor** for their B.Sc. thesis, M.Sc. thesis, or internship during their M.Sc. Does not include students where I acted as second supervisor and/or examiner.
+The following is a list of students for whom I have served (or am currently serving) as **first supervisor** for their Ph.D. thesis, B.Sc. thesis, M.Sc. thesis, or internship during their M.Sc. Does not include students where I acted as second supervisor and/or examiner.
+
+### Ph.D. Thesis Students
+
+- [Cyrine Fekih](https://www.linkedin.com/in/cyrine-fekih/) *(2025 - current)*
 
 ### M.Sc. Thesis Students
 
