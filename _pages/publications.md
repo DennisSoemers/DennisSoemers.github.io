@@ -5,12 +5,16 @@ description: Dennis Soemers' scientific publications.
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2025-11-11 10:00:00 +0100
+last_modified_at: 2026-02-11 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
 
 ## Journal Articles
+
+- Walter Crist, Éric Piette, Karen Jeneson, **Dennis J. N. J. Soemers**, Matthew Stephenson, Luk van Goor, and Cameron Browne (2026).
+"[Ludus Coriovalli: using artificial intelligence-driven simulations to identify rules for an ancient board game](https://doi.org/10.15184/aqy.2025.10264)".
+*Antiquity*, vol. 100, no. 409, pp. 111--126. Cambridge University Press.
 
 - **Dennis J. N. J. Soemers**, Spyridon Samothrakis, Kurt Driessens, and Mark H. M. Winands (2025).
 "[A Research Agenda for Usability and Generalisation in Reinforcement Learning](https://arxiv.org/abs/2412.16970)".
