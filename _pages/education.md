@@ -5,7 +5,7 @@ description: Education activities.
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2026-02-11 10:00:00 +0100
+last_modified_at: 2026-02-13 10:00:00 +0100
 ---
 
 This page summarises my education activities and provides information for prospective thesis/internship students.
@@ -93,6 +93,7 @@ The following is a list of students for whom I have served (or am currently serv
 ### B.Sc. Thesis Students
 
 - Irina Iarlykanova *(2026)*
+- Allen Mirzoyan *(2026)*
 - Marcel Pendyk *(2026)*
 - Marģers Liepiņš *(2025-2026)*: "Exploring the Effect of Different Perfect Information Evaluators on the Performance of the Extended Perfect Information Monte Carlo Algorithm"
 - Hai Nguyen *(2025-2026)*: "Learning Action Duration in Reinforcement Learning for Fighting Games"
