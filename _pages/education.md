@@ -90,6 +90,11 @@ The following is a list of students for whom I have served (or am currently serv
 - Tarik El Khoury *(2024-2025)*: "A Reproducibility Study of Stochastic Q-Learning for Large Discrete Action Spaces"
 - José Manuel Ros Rodrigo *(2024-2025)*: Report not public
 
+### [KE@Work](https://www.maastrichtuniversity.nl/research/department-advanced-computing-sciences/education/keworkmarble-20/kework-information) Students (includes B.Sc. thesis)
+
+- Felipe Janssen *(2025-2027)*
+- Emma Szilagyi *(2024-2026)*
+
 ### B.Sc. Thesis Students
 
 - Irina Iarlykanova *(2026)*
@@ -102,8 +107,3 @@ The following is a list of students for whom I have served (or am currently serv
 - Denis Gafarov *(2025)*: "Exploring and exploiting equivariant and invariant properties of E(2)-Equivariant Steerable Convolutional Neural Networks in NeuralMMO"
 - Alexander George Padula *(2024)*: "Reinforcement Learning from Explicitly Programmed Reward Signals"
 - Dominic Sagers *(2024)*: "Sequential Halving without Predetermined Budgets in Monte-Carlo Tree Search"
-
-### [KE@Work](https://www.maastrichtuniversity.nl/research/department-advanced-computing-sciences/education/keworkmarble-20/kework-information) Students
-
-- Felipe Janssen *(2025-2027)*
-- Emma Szilagyi *(2024-2026)*
