@@ -86,7 +86,7 @@ The following is a list of students for whom I have served (or am currently serv
 ### M.Sc. Internship Students
 
 - Kasra Ebrahimi *(2026)*
-- Vincent Hoogstraten *(2025-2026)*
+- Vincent Hoogstraten *(2025-2026)*: Report not public
 - Tarik El Khoury *(2024-2025)*: "A Reproducibility Study of Stochastic Q-Learning for Large Discrete Action Spaces"
 - José Manuel Ros Rodrigo *(2024-2025)*: Report not public
 
