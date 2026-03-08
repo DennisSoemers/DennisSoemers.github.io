@@ -2,7 +2,7 @@
 title: Other Activities
 permalink: /other_activities/
 description: Scientific/academic/AI/outreach activities (other than publications and education activities).
-last_modified_at: 2025-08-24 10:00:00 +0100
+last_modified_at: 2026-03-08 10:00:00 +0100
 ---
 
 This page summarises some of my scientific/academic/AI-related activities (other than my [publications](/publications/), and
@@ -40,6 +40,8 @@ This page summarises some of my scientific/academic/AI-related activities (other
 
 ## Editorial Boards
 
+- *Guest Editor* for [Special Issue on Computational Techniques for Games Heritage](https://dl.acm.org/pb-assets/static_journal_pages/jocch/PDFs/ACM-JOCCH-CfP-SI-Computational-Techniques-Games-Heritage-1757527449657.pdf) in [ACM Journal on Computing and Cultural Heritage](https://dl.acm.org/journal/jocch) (**JOCCH**)
+- [*Associate Editor* for IEEE Transactions on Games](https://transactions.games/about/editors) (**TOG**)
 - [*Action Editor* for Transactions on Machine Learning](https://jmlr.org/tmlr/editorial-board.html) (**TMLR**)
 
 ## Peer Review
@@ -73,7 +75,8 @@ I have reviewed papers for the following conferences:
 - International Conference on Learning Representations (**ICLR**) (**Outstanding/Highlighted/Notable Reviewer** [2021](https://iclr.cc/Conferences/2021/Reviewers), [2022](https://iclr.cc/Conferences/2022/Reviewers), [2023](https://iclr.cc/Conferences/2023/Reviewers))
 - International Conference on Machine Learning (**ICML**) (**Outstanding Reviewer** [2022](https://icml.cc/Conferences/2022/Reviewers))
 - International Joint Conference on Artificial Intelligence (**IJCAI**)
-- Reinforcement Learning Conference (**RLC**) (Senior Reviewer 2024, Area Chair 2025+)
+- International Joint Conference on Neural Networks (**IJCNN**)
+- Reinforcement Learning Conference (**RLC**) (Senior Reviewer 2024, Area Chair 2025)
 
 ### Peer Review - Workshops
 
