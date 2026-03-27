@@ -5,7 +5,7 @@ description: Education activities.
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2026-02-13 10:00:00 +0100
+last_modified_at: 2026-03-27 10:00:00 +0100
 ---
 
 This page summarises my education activities and provides information for prospective thesis/internship students.
@@ -57,7 +57,7 @@ that I would be able to perform well as a supervisor:
 - Multi-Armed Bandits (empirical research more so than purely theoretical analyses such as proving regret bounds).
 - AI for (general) game playing.
 - Video games.
-- Adaptation to adversaries in other applications of AI (e.g., credit card fraud detection, security-related domains).
+- Adaptation to adversaries in other applications of AI (e.g., fraud detection, security-related domains).
 - Applications of AI / Data Mining to eSports.
 
 At the bottom of this page, I have a list of current and former students for whom I act / have acted as first supervisor. I am not going to spread their email addresses all over the internet, but 
@@ -77,8 +77,8 @@ The following is a list of students for whom I have served (or am currently serv
 - Skyler Johnson *(2026)*
 - Thomas Vroom *(2026)*
 - Alan van den Akker *(2025-2026)*
-- Andy Caen *(2025-2026)*
 - Tarik El Khoury *(2025-2026)*
+- Andy Caen *(2025-2026)*: StratFormer: Adaptive Opponent Modeling and Exploitation in Imperfect-Information Games
 - Riju Mukherjee *(2025)*: "Can Robots Go Grocery Shopping? Brain-Inspired World Models for Universal Reinforcement Learning"
 - José Manuel Ros Rodrigo *(2025)*: "Towards general board game playing agents: exploring World Models and Ludii"
 - Alexandra Gianzina *(2024)*: "Evolutionary Neural Architecture Search for Autonomous Driving"
