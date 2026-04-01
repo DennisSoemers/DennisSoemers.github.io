@@ -236,7 +236,7 @@ In *Proceedings of the 2nd Workshop on Knowledge Extraction from Games (KEG)*, p
 
 ## Parody Conference Articles
 
-- **Dennis J.N.J. Soemers** (2026). "On parallels between Large Language Models and the Black Knight". 
+- **Dennis J.N.J. Soemers**, Başak Sakçak, and Yusuf Can Semerci (2026). "On parallels between Large Language Models and the Black Knight". 
 Almost surely to be accepted soon at *SIGBOVIK 2026*. [[pdf]](/assets/publications/SIGBOVIK_2026_LLMs_Black_Knight.pdf)
 
 ## National Conference Articles
