@@ -5,12 +5,14 @@ description: Dennis Soemers' scientific publications.
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2026-04-01 10:00:00 +0100
+last_modified_at: 2026-04-22 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
 
 ## Journal Articles
+
+- Matthew Stephenson, Alex Newcombe, Éric Piette, and **Dennis J.N.J. Soemers** (2026). "[Best Agent Identification for General Game Playing]([https://arxiv.org/abs/2507.00451](https://ieeexplore.ieee.org/document/11488204))". *IEEE Access*. IEEE.
 
 - Walter Crist, Éric Piette, Karen Jeneson, **Dennis J. N. J. Soemers**, Matthew Stephenson, Luk van Goor, and Cameron Browne (2026).
 "[Ludus Coriovalli: using artificial intelligence-driven simulations to identify rules for an ancient board game](https://doi.org/10.15184/aqy.2025.10264)".
@@ -224,9 +226,7 @@ In *2016 IEEE Conference on Computational Intelligence and Games (CIG 2016)*, pp
 
 ## Preprints
 
-- Matthew Stephenson, Alex Newcombe, Éric Piette, and **Dennis J.N.J. Soemers** (2025). "[Best Agent Identification for General Game Playing](https://arxiv.org/abs/2507.00451)". [[pdf preprint]](https://arxiv.org/pdf/2507.00451)
-
-- Graham Todd, Alexander G. Padula, **Dennis J.N.J. Soemers**, Same Earle, and Julian Togelius (2025). "[Ludax: A GPU-Accelerated Domain Specific Language for Board Games](https://arxiv.org/abs/2506.22609)". [[pdf preprint]](https://arxiv.org/pdf/2506.22609)
+- Graham Todd, Alexander G. Padula, **Dennis J.N.J. Soemers**, Sam Earle, and Julian Togelius (2025). "[Ludax: A GPU-Accelerated Domain Specific Language for Board Games](https://arxiv.org/abs/2506.22609)". [[pdf preprint]](https://arxiv.org/pdf/2506.22609)
 
 ## Workshop Articles
 
