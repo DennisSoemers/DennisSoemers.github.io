@@ -5,7 +5,7 @@ description: Dennis Soemers' scientific publications.
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2026-04-22 10:00:00 +0100
+last_modified_at: 2026-04-29 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -88,6 +88,13 @@ T. Penn, U. Schädler), volume 79 of *Monographies Instrumentum*, pp. 63--80, Dr
 In *Encyclopedia of Computer Graphics and Games*, (eds. N. Lee). Springer, Cham.
 
 ## Conference Articles
+
+- Andy Caen, Mark H.M. Winands, and **Dennis J.N.J. Soemers** (2026).
+"StratFormer: Adaptive Opponent Modeling and Exploitation in Imperfect-Information Games". *Computers and Games 2026*. Accepted.
+[[pdf preprint]](https://arxiv.org/pdf/2604.25796)
+
+- Hoang Hai Nguyen, Kurt Driessens, and **Dennis J.N.J. Soemers** (2026).
+"For How Long Should We Be Punching? Learning Action Duration in Fighting Games". *Computers and Games 2026*. Accepted.
 
 - Riju Mukherjee, Kurt Driessens, and **Dennis J.N.J. Soemers** (2025).
 "[Multi-Environment MiniGrid World Models](https://openreview.net/forum?id=6imm03HlkZ)". *BNAIC/BeNeLearn 2025*.
@@ -237,7 +244,7 @@ In *Proceedings of the 2nd Workshop on Knowledge Extraction from Games (KEG)*, p
 ## Parody Conference Articles
 
 - **Dennis J.N.J. Soemers**, Başak Sakçak, and Yusuf Can Semerci (2026). "On parallels between Large Language Models and the Black Knight". 
-Almost surely to be accepted soon at *SIGBOVIK 2026*. [[pdf]](/assets/publications/SIGBOVIK_2026_LLMs_Black_Knight.pdf)
+*SIGBOVIK 2026*. [[pdf]](/assets/publications/SIGBOVIK_2026_LLMs_Black_Knight.pdf)
 
 ## National Conference Articles
 
