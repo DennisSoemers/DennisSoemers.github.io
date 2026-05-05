@@ -2,7 +2,7 @@
 title: Other Activities
 permalink: /other_activities/
 description: Scientific/academic/AI/outreach activities (other than publications and education activities).
-last_modified_at: 2026-03-08 10:00:00 +0100
+last_modified_at: 2026-05-05 10:00:00 +0100
 ---
 
 This page summarises some of my scientific/academic/AI-related activities (other than my [publications](/publications/), and
@@ -16,11 +16,16 @@ This page summarises some of my scientific/academic/AI-related activities (other
 
 ## Grants
 
+- [NWO Scientific Meetings and Consultations grant](https://doi.org/10.61686/WGKXE98571) to support the organisation of the [Computers and Games 2026 conference](https://icga.org/?page_id=4105).
 - I was awarded a [Kaggle Competitions Research Grant](https://www.kaggle.com/competitions-research-grants), used to fund the organisation of a
 [data science competition on Kaggle](https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants) (**50,000 USD** prize pool, **2024**)
 - Secondary proposer for [COST Action CA22145: Computational Techniques for Tabletop Games Heritage (GameTable)](https://www.cost.eu/actions/CA22145/) (**~600,000 euros** over 4 years, awarded on **12/05/2023**)
 
 ## Organisation
+
+### Organisation of Conferences
+
+- Organised [Computers and Games 2026 conference](https://icga.org/?page_id=4105) (June 19-20, 2026).
 
 ### Organisation of Symposiums
 
