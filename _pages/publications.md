@@ -5,12 +5,16 @@ description: Dennis Soemers' scientific publications.
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2026-04-29 10:00:00 +0100
+last_modified_at: 2026-05-05 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
 
 ## Journal Articles
+
+- Aloïs Rautureau, Éric Piette, Tim Penn, Summer Courts, James Goodman, Walter Crist and **Dennis J.N.J. Soemers** (2026). 
+"[Game AI for Cultural Heritage: Outcomes from the GameTable Third Grant Period Opening Meeting](https://doi.org/10.1177/13896911261446593)".
+*ICGA Journal*. Sage Publishing.
 
 - Matthew Stephenson, Alex Newcombe, Éric Piette, and **Dennis J.N.J. Soemers** (2026). "[Best Agent Identification for General Game Playing]([https://arxiv.org/abs/2507.00451](https://ieeexplore.ieee.org/document/11488204))". *IEEE Access*. IEEE.
 
