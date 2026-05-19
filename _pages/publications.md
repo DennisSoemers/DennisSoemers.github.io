@@ -5,7 +5,7 @@ description: Dennis Soemers' scientific publications.
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2026-05-18 10:00:00 +0100
+last_modified_at: 2026-05-19 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -93,7 +93,7 @@ In *Encyclopedia of Computer Graphics and Games*, (eds. N. Lee). Springer, Cham.
 
 ## Conference Articles
 
-- Graham Todd, Alexander G. Padula, **Dennis J.N.J. Soemers**, Sam Earle, and Julian Togelius (2025). "Ludax: A GPU-Accelerated Domain Specific Language for Board Games". *Reinforcement Learning Conference*. Accepted. [[pdf preprint]](https://arxiv.org/pdf/2506.22609)
+- Graham Todd, Alexander G. Padula, **Dennis J.N.J. Soemers**, Sam Earle, and Julian Togelius (2026). "Ludax: A GPU-Accelerated Domain Specific Language for Board Games". *Reinforcement Learning Conference*. Accepted. [[pdf preprint]](https://arxiv.org/pdf/2506.22609)
 
 - Andy Caen, Mark H.M. Winands, and **Dennis J.N.J. Soemers** (2026).
 "StratFormer: Adaptive Opponent Modeling and Exploitation in Imperfect-Information Games". *Computers and Games 2026*. Accepted.
