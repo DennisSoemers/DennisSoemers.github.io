@@ -5,7 +5,7 @@ description: Dennis Soemers' scientific publications.
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2026-05-19 10:00:00 +0100
+last_modified_at: 2026-05-21 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -98,6 +98,10 @@ In *Encyclopedia of Computer Graphics and Games*, (eds. N. Lee). Springer, Cham.
 - Andy Caen, Mark H.M. Winands, and **Dennis J.N.J. Soemers** (2026).
 "StratFormer: Adaptive Opponent Modeling and Exploitation in Imperfect-Information Games". *Computers and Games 2026*. Accepted.
 [[pdf preprint]](https://arxiv.org/pdf/2604.25796)
+
+- Hoang Hai Nguyen, Kurt Driessens, and **Dennis J.N.J. Soemers** (2026).
+"For How Long Should We Be Punching? Learning Action Duration in Fighting Games". *Computers and Games 2026*. Accepted.
+[[pdf preprint]](https://arxiv.org/pdf/2605.20911)
 
 - Hoang Hai Nguyen, Kurt Driessens, and **Dennis J.N.J. Soemers** (2026).
 "For How Long Should We Be Punching? Learning Action Duration in Fighting Games". *Computers and Games 2026*. Accepted.
