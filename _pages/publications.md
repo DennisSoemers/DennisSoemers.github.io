@@ -5,7 +5,7 @@ description: Dennis Soemers' scientific publications.
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2026-05-28 10:00:00 +0100
+last_modified_at: 2026-05-30 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -242,6 +242,9 @@ In *2016 IEEE Conference on Computational Intelligence and Games (CIG 2016)*, pp
 In *2016 IEEE Conference on Computational Intelligence and Games (CIG 2016)*, pp. 1-8. IEEE. [[pdf]](/assets/publications/CIG2016_HTN.pdf)
 
 ## Workshop Articles
+
+- Cyrine Fekih, Ashish Sai, Adriana Iamnitchi, and **Dennis J.N.J. Soemers** (2026). "[Learning Insider-Threat Intervention Policies from Offline Logs](https://openreview.net/forum?id=JbzEitGXOB)"
+In *ICML 2026 Workshop on Decision-Making from Offline Datasets to Online Adaptation: Black-Box Optimization to Reinforcement Learning*.
 
 - Cameron Browne, **Dennis J.N.J. Soemers**, and Eric Piette (2019). "[Strategic Features for General Games](http://ceur-ws.org/Vol-2313/)".
 In *Proceedings of the 2nd Workshop on Knowledge Extraction from Games (KEG)*, pp. 70--75. [[pdf]](http://ceur-ws.org/Vol-2313/KEG_2019_paper_8.pdf) 
