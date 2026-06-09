@@ -5,7 +5,7 @@ description: Education activities.
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2026-04-30 10:00:00 +0100
+last_modified_at: 2026-06-09 10:00:00 +0100
 ---
 
 This page summarises my education activities and provides information for prospective thesis/internship students.
@@ -93,13 +93,13 @@ The following is a list of students for whom I have served (or am currently serv
 ### [KE@Work](https://www.maastrichtuniversity.nl/research/department-advanced-computing-sciences/education/keworkmarble-20/kework-information) Students (includes B.Sc. thesis)
 
 - Felipe Janssen *(2025-2027)*
-- Emma Szilagyi *(2024-2026)*
+- Emma Szilagyi *(2024-2026)*: "Beyond the Baseline: Refining Calorie Predictions in Professional Cycling through Recent-Data Specialization Models"
 
 ### B.Sc. Thesis Students
 
-- Irina Iarlykanova *(2026)*
-- Allen Mirzoyan *(2026)*
-- Marcel Pendyk *(2026)*
+- Irina Iarlykanova *(2026)*: "Characterising and Detecting Confusion Vulnerabilities in Backend Web Applications"
+- Allen Mirzoyan *(2026)*: "Predictive Modelling of VALORANT Match Outcomes Under Composition, Map, and Play Environment Differences"
+- Marcel Pendyk *(2026)*: "Per-Game State Class Specialization for the Ludii General Game System"
 - Marģers Liepiņš *(2025-2026)*: "Exploring the Effect of Different Perfect Information Evaluators on the Performance of the Extended Perfect Information Monte Carlo Algorithm"
 - Hai Nguyen *(2025-2026)*: "Learning Action Duration in Reinforcement Learning for Fighting Games"
 - Sashank Chapala *(2025)*: "Improving Anytime Sequential Halving: Dynamic Pruning And Iteration Allocation"
