@@ -5,7 +5,7 @@ description: Education activities.
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2026-06-09 10:00:00 +0100
+last_modified_at: 2026-06-20 10:00:00 +0100
 ---
 
 This page summarises my education activities and provides information for prospective thesis/internship students.
@@ -29,7 +29,7 @@ and are potentially interested in having me serve as first supervisor for your  
 by sending a mail to my UM email address. **I recommend to contact me early**, as I usually get approached by many more students than I can
 accept per semester. 
 
-**Do not email me for B.Sc. thesis supervision**. We have a different centralised system for this. The below information still give an impression of what you should think about though,
+**For semester 2, do not email me for B.Sc. thesis supervision**. We have a different centralised system for this (at least in semester 2, maybe not in semester 1). The below information still give an impression of what you should think about though,
 when considering where to rank me in your list of preferences for supervisors.
 
 **Make sure to include** (preferably in a neatly organised list, not hidden inside a huge wall of text):
