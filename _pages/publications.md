@@ -5,7 +5,7 @@ description: Dennis Soemers' scientific publications.
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2026-05-30 10:00:00 +0100
+last_modified_at: 2026-07-18 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -22,9 +22,9 @@ This page lists all of my scientific publications. They are sorted by publicatio
 "[Ludus Coriovalli: using artificial intelligence-driven simulations to identify rules for an ancient board game](https://doi.org/10.15184/aqy.2025.10264)".
 *Antiquity*, vol. 100, no. 409, pp. 111--126. Cambridge University Press.
 
-- **Dennis J. N. J. Soemers**, Spyridon Samothrakis, Kurt Driessens, and Mark H. M. Winands (2025).
-"[A Research Agenda for Usability and Generalisation in Reinforcement Learning](https://arxiv.org/abs/2412.16970)".
-To appear in Revised Selected Papers for ICAART 2025.
+- **Dennis J. N. J. Soemers**, Spyridon Samothrakis, Kurt Driessens, and Mark H. M. Winands (2026).
+"[A Research Agenda for Usability and Generalisation in Reinforcement Learning](https://link.springer.com/chapter/10.1007/978-3-032-25032-2_33)".
+In: van den Herik, H.J., Rocha, A.P., Steels, L. (eds) Agents and Artificial Intelligence. ICAART 2025. Lecture Notes in Computer Science, vol. 16517, pp. 687--713. Springer, Cham.
 [[pdf preprint]](/assets/publications/2412.16970v2.pdf)
 
 - **Dennis J.N.J. Soemers**, Jakub Kowalski, Walter Crist, Summer Courts, Tim Penn, and Éric Piette (2025).
