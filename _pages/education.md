@@ -5,7 +5,7 @@ description: Education activities.
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2026-06-20 10:00:00 +0100
+last_modified_at: 2026-08-07 10:00:00 +0100
 ---
 
 This page summarises my education activities and provides information for prospective thesis/internship students.
@@ -73,9 +73,9 @@ The following is a list of students for whom I have served (or am currently serv
 
 ### M.Sc. Thesis Students
 
-- Lorenzo Bianchi *(2026)*
 - Skyler Johnson *(2026)*
-- Thomas Vroom *(2026)*
+- Lorenzo Bianchi *(2026)*: Active Learning for Efficient Training in Ludii World Models
+- Thomas Vroom *(2026)*: Continual Reinforcement Learning for Evolving Games: Learning Across Game Updates in Competitive Pokémon
 - Tarik El Khoury *(2025-2026)*: Beyond Flat Representations: Graph Neural Networks for Generalizable Reinforcement Learning in Simulated Cyber Environments
 - Alan van den Akker *(2025-2026)*: Explainable Reinforcement Learning for Human Performance Feedback in Video Games
 - Andy Caen *(2025-2026)*: StratFormer: Adaptive Opponent Modeling and Exploitation in Imperfect-Information Games
@@ -85,7 +85,7 @@ The following is a list of students for whom I have served (or am currently serv
 
 ### M.Sc. Internship Students
 
-- Kasra Ebrahimi *(2026)*
+- Kasra Ebrahimi *(2026)*: Search-Time Modifications of Neural-Guided Monte Carlo Tree Search for Discovering Underexplored Strong Moves in Chess
 - Vincent Hoogstraten *(2025-2026)*: Report not public
 - Tarik El Khoury *(2024-2025)*: "A Reproducibility Study of Stochastic Q-Learning for Large Discrete Action Spaces"
 - José Manuel Ros Rodrigo *(2024-2025)*: Report not public
