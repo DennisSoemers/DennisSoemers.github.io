@@ -5,7 +5,7 @@ description: Dennis Soemers' scientific publications.
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2026-07-18 10:00:00 +0100
+last_modified_at: 2026-08-13 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -102,9 +102,6 @@ In *Encyclopedia of Computer Graphics and Games*, (eds. N. Lee). Springer, Cham.
 - Hoang Hai Nguyen, Kurt Driessens, and **Dennis J.N.J. Soemers** (2026).
 "For How Long Should We Be Punching? Learning Action Duration in Fighting Games". *Computers and Games 2026*. Accepted.
 [[pdf preprint]](https://arxiv.org/pdf/2605.20911)
-
-- Hoang Hai Nguyen, Kurt Driessens, and **Dennis J.N.J. Soemers** (2026).
-"For How Long Should We Be Punching? Learning Action Duration in Fighting Games". *Computers and Games 2026*. Accepted.
 
 - Riju Mukherjee, Kurt Driessens, and **Dennis J.N.J. Soemers** (2025).
 "[Multi-Environment MiniGrid World Models](https://openreview.net/forum?id=6imm03HlkZ)". *BNAIC/BeNeLearn 2025*.
