@@ -5,14 +5,18 @@ description: Dennis Soemers' scientific publications.
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2026-08-13 10:00:00 +0100
+last_modified_at: 2026-09-01 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
 
 ## Journal Articles
 
-- Aloïs Rautureau, Éric Piette, Tim Penn, Summer Courts, James Goodman, Walter Crist and **Dennis J.N.J. Soemers** (2026). 
+- David Milec, Spyridon Samothrakis, Michael Fairbank, and **Dennis J.N.J. Soemers** (2026).
+"[Local Updates, Global Learning (LUGL): Playing Games with non-incremental Learners](https://ieeexplore.ieee.org/abstract/document/11668729)".
+*IEEE Transactions on Games*. IEEE.
+
+- Aloïs Rautureau, Éric Piette, Tim Penn, Summer Courts, James Goodman, Walter Crist, and **Dennis J.N.J. Soemers** (2026). 
 "[Game AI for Cultural Heritage: Outcomes from the GameTable Third Grant Period Opening Meeting](https://doi.org/10.1177/13896911261446593)".
 *ICGA Journal*. Sage Publishing.
 
