@@ -5,7 +5,7 @@ description: Education activities.
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2026-08-07 10:00:00 +0100
+last_modified_at: 2026-09-23 10:00:00 +0100
 ---
 
 This page summarises my education activities and provides information for prospective thesis/internship students.
@@ -73,6 +73,8 @@ The following is a list of students for whom I have served (or am currently serv
 
 ### M.Sc. Thesis Students
 
+- Janik Euskirchen *(2026-2027)*
+- Benedikt Wotka *(2026-2027)*
 - Skyler Johnson *(2026)*
 - Lorenzo Bianchi *(2026)*: Active Learning for Efficient Training in Ludii World Models
 - Thomas Vroom *(2026)*: Continual Reinforcement Learning for Evolving Games: Learning Across Game Updates in Competitive Pokémon
@@ -85,6 +87,8 @@ The following is a list of students for whom I have served (or am currently serv
 
 ### M.Sc. Internship Students
 
+- Madiou Diallo *(2026-2027)*
+- Pepijn van der Meer *(2026-2027)*
 - Kasra Ebrahimi *(2026)*: Search-Time Modifications of Neural-Guided Monte Carlo Tree Search for Discovering Underexplored Strong Moves in Chess
 - Vincent Hoogstraten *(2025-2026)*: Report not public
 - Tarik El Khoury *(2024-2025)*: "A Reproducibility Study of Stochastic Q-Learning for Large Discrete Action Spaces"
@@ -97,6 +101,8 @@ The following is a list of students for whom I have served (or am currently serv
 
 ### B.Sc. Thesis Students
 
+- Gabriel Ise *(2026-2027)*
+- Jan Šebor *(2026-2027)*
 - Irina Iarlykanova *(2026)*: "Characterising and Detecting Confusion Vulnerabilities in Backend Web Applications"
 - Allen Mirzoyan *(2026)*: "Predictive Modelling of VALORANT Match Outcomes Under Composition, Map, and Play Environment Differences"
 - Marcel Pendyk *(2026)*: "Per-Game State Class Specialization for the Ludii General Game System"
