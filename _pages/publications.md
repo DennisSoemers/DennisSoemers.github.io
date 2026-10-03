@@ -5,7 +5,7 @@ description: Dennis Soemers' scientific publications.
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-last_modified_at: 2026-09-04 10:00:00 +0100
+last_modified_at: 2026-10-03 10:00:00 +0100
 ---
 
 This page lists all of my scientific publications. They are sorted by publication type, and within each publication type sorted in the reverse order of publication date.
@@ -96,6 +96,12 @@ T. Penn, U. Schädler), volume 79 of *Monographies Instrumentum*, pp. 63--80, Dr
 In *Encyclopedia of Computer Graphics and Games*, (eds. N. Lee). Springer, Cham.
 
 ## Conference Articles
+
+- Cahit Kök and **Dennis J.N.J. Soemers** (2026).
+"[Investigating Behavioral Complementarity in Supervised Policy Learning for Imperfect-Information Games](https://openreview.net/forum?id=qMaFr5NrZc)". *BNAIC/BeNeLearn 2026*.
+
+- Madiou Diallo, **Dennis J.N.J. Soemers**, and Kurt Driessens (2026).
+"[When Does Seed Diversity Pay Off? Critic-Guided Per-Step Policy Switching in PPO](https://openreview.net/forum?id=QMUQ6gOQRa)". *BNAIC/BeNeLearn 2026*.
 
 - Graham Todd, Alexander G. Padula, **Dennis J.N.J. Soemers**, Sam Earle, and Julian Togelius (2026). "Ludax: A GPU-Accelerated Domain Specific Language for Board Games". *Reinforcement Learning Conference*. Accepted. [[pdf preprint]](https://arxiv.org/pdf/2506.22609)
 
@@ -284,6 +290,12 @@ Department of Data Science and Knowledge Engineering, Maastricht University, Maa
 [[pdf]](/assets/publications/Soemers_BSc-paper.pdf)
 
 ## Other
+
+- Graham Todd, Alexander G. Padula, **Dennis J.N.J. Soemers**, Sam Earle, and Julian Togelius (2026). 
+"[Ludax: A GPU-Accelerated Domain Specific Language for Board Games (Encore Abstract)](https://openreview.net/forum?id=Mazxs6T7oF)". *BNAIC/BeNeLearn 2026*. (Encore Abstract)
+
+- Thomas Vroom and **Dennis J.N.J. Soemers** (2026). 
+"[Continual Reinforcement Learning for Evolving Games: Learning Across Game Updates in Competitive Pokémon](https://openreview.net/forum?id=wuBVmcFsKI)". *BNAIC/BeNeLearn 2026*. (Thesis Abstract)
 
 - **Dennis J.N.J. Soemers**, Spyridon Samothrakis, Kurt Driessens, Mark H.M. Winands (2025).
 "[Encore Abstract: A Research Agenda for Usability and Generalisation in Reinforcement Learning](https://openreview.net/forum?id=8JFxUombOC)".
